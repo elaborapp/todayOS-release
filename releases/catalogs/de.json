@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "locale": "de",
+  "releases": [
+    {
+      "schemaVersion": 1,
+      "version": "2026.2",
+      "locale": "de",
+      "summary": "Der Ablauf für Standortberechtigungen bei der Ersteinrichtung wurde verbessert",
+      "sections": [
+        {
+          "title": null,
+          "items": [
+            "Ein Problem wurde behoben, durch das Widgets veraltete Inhalte anzeigen konnten",
+            "Texte und Zahlenformate in mehreren Sprachen wurden korrigiert",
+            "Ein Problem wurde behoben, durch das Benachrichtigungen für Handlungserinnerungen mehrfach erscheinen oder nicht gemäß den neuesten Einstellungen aktualisiert werden konnten",
+            "Leistung und Stabilität von Bildschirmaktualisierungen wurden verbessert"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "version": "2026.1",
+      "locale": "de",
+      "summary": "Verbesserte Empfehlungen für früheres Zubettgehen berücksichtigen jetzt auch aktuelle Schlafschuld, Nickerchen und Erholungsschlaf",
+      "sections": [
+        {
+          "title": "Verbesserungen für todayOS+",
+          "items": [
+            "Timing und Dauer der Sonnenlicht-Erinnerungen wurden verbessert. Sie vermeiden jetzt ungeeignete Zeiten und Wetterlagen und verlängern das Tageslichtziel bei schwächerem Sonnenlicht",
+            "Aktuellere lokale Wetterinformationen",
+            "Verbesserte Darstellung von Ortsnamen, damit sie nicht zu lang werden"
+          ]
+        },
+        {
+          "title": "Kostenlose Updates",
+          "items": [
+            "Die Himmelsfarbe im Hintergrund des Startbildschirms entspricht jetzt genauer der realen Umgebung, besonders rund um Sonnenaufgang und Sonnenuntergang, mit besserer Unterstützung für Orte in hohen Breitengraden.",
+            "Eine optionale Fahrterkennung reduziert Erinnerungen zum Aufstehen während einer Fahrt. Sie benötigt die Berechtigung für Hintergrundortung und nutzt signifikante Ortsänderungen statt kontinuierlicher Standortverfolgung."
+          ]
+        }
+      ]
+    }
+  ]
+}

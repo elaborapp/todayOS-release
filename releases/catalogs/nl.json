@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "releases": [
+    {
+      "schemaVersion": 1,
+      "version": "2026.2",
+      "locale": "nl",
+      "summary": "De stroom voor locatietoestemming tijdens de eerste configuratie is verbeterd",
+      "sections": [
+        {
+          "title": null,
+          "items": [
+            "Er is een probleem opgelost waardoor widgets verouderde inhoud konden tonen",
+            "Tekst- en getalnotaties in meerdere talen zijn gecorrigeerd",
+            "Er is een probleem opgelost waardoor meldingen voor actieherinneringen meerdere keren konden verschijnen of niet werden bijgewerkt op basis van de nieuwste instellingen",
+            "De prestaties en stabiliteit van schermupdates zijn verbeterd"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "version": "2026.1",
+      "locale": "nl",
+      "summary": "Verbeterde suggesties om eerder naar bed te gaan houden nu ook rekening met recente slaapschuld, dutjes en herstelslaap",
+      "sections": [
+        {
+          "title": "Verbeteringen voor todayOS+",
+          "items": [
+            "Timing en duur van daglicht-herinneringen zijn verbeterd. Ze vermijden nu ongeschikte momenten en weersomstandigheden, en verlengen het daglichtdoel wanneer het zonlicht zwakker is",
+            "Actuelere lokale weersinformatie",
+            "Verbeterde plaatsnaamweergave om te lange namen te voorkomen"
+          ]
+        },
+        {
+          "title": "Gratis updates",
+          "items": [
+            "De luchtkleur op de achtergrond van het hoofdscherm komt nu beter overeen met de echte lucht, vooral rond zonsopkomst en zonsondergang, met betere ondersteuning voor locaties op hoge breedtegraden.",
+            "Optionele reisdetectie toegevoegd om herinneringen om op te staan te verminderen wanneer je in een voertuig zit. Hiervoor is locatie op de achtergrond nodig; de functie gebruikt significante locatieveranderingen in plaats van continue locatietracking."
+          ]
+        }
+      ]
+    }
+  ]
+}

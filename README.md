@@ -9,4 +9,6 @@ Public download assets for todayOS.
 
 `releases/manifest.json` identifies the latest public version and lists release-note versions in display order. Each version has one JSON document per todayOS app locale under `releases/<version>/<locale>.json`.
 
+`releases/catalogs/<locale>.json` is the generated, localized read model used by the app. It keeps app launch fetching constant as version history grows. Edit the version documents, then regenerate the catalogs with `scripts/bootstrap_release_notes.py`.
+
 The first catalog was bootstrapped from public App Store release notes. Future entries can be edited into product-focused summaries without changing the app schema.

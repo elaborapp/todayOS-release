@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "locale": "fi",
+  "releases": [
+    {
+      "schemaVersion": 1,
+      "version": "2026.2",
+      "locale": "fi",
+      "summary": "Ensiasennuksen sijaintilupien kulkua on parannettu",
+      "sections": [
+        {
+          "title": null,
+          "items": [
+            "Korjattu ongelma, jossa widgetit saattoivat näyttää vanhentunutta sisältöä",
+            "Korjattu tekstien ja numeroiden muotoilua useilla kielillä",
+            "Korjattu ongelma, jonka vuoksi toimintamuistutusten ilmoitukset saattoivat näkyä useita kertoja tai jäädä päivittymättä uusimpien asetusten mukaisiksi",
+            "Parannettu näytön päivitysten suorituskykyä ja vakautta"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "version": "2026.1",
+      "locale": "fi",
+      "summary": "Parannetut ehdotukset mennä aiemmin nukkumaan huomioivat nyt myös viimeaikaisen univelan, päiväunet ja korvaavan unen",
+      "sections": [
+        {
+          "title": "todayOS+-parannukset",
+          "items": [
+            "Päivänvalomuistutusten ajoitusta ja kestoa on parannettu. Ne välttävät nyt sopimattomia aikoja ja säätä, ja pidentävät päivänvalotavoitetta, kun auringonvalo on heikompaa",
+            "Ajantasaisemmat paikalliset säätiedot",
+            "Paikannimien muotoilua on parannettu, jotta nimet eivät veny liian pitkiksi"
+          ]
+        },
+        {
+          "title": "Ilmaiset päivitykset",
+          "items": [
+            "Päänäkymän taustalla näkyvä taivaan väri vastaa nyt todellista taivasta tarkemmin, erityisesti auringonnousun ja auringonlaskun aikaan. Myös korkean leveyspiirin sijainnit huomioidaan paremmin.",
+            "Lisätty valinnainen matkustuksen tunnistus, joka vähentää nousemiskehotuksia ajoneuvossa. Se vaatii taustasijainnin käyttöluvan ja käyttää merkittäviä sijaintimuutoksia jatkuvan sijainnin seurannan sijaan."
+          ]
+        }
+      ]
+    }
+  ]
+}
