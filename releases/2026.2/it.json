@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "version": "2026.2",
+  "locale": "it",
+  "summary": "Migliorato il flusso dei permessi di localizzazione durante la configurazione iniziale",
+  "sections": [
+    {
+      "title": null,
+      "items": [
+        "Risolto un problema per cui i widget potevano mostrare contenuti non aggiornati",
+        "Corretti testi e formati numerici in più lingue",
+        "Risolto un problema per cui le notifiche dei promemoria d’azione potevano comparire più volte o non riflettere le impostazioni più recenti",
+        "Migliorate le prestazioni e la stabilità degli aggiornamenti dell’interfaccia"
+      ]
+    }
+  ]
+}

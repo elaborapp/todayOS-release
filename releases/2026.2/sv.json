@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "version": "2026.2",
+  "locale": "sv",
+  "summary": "Förbättrat flödet för platsbehörighet under den första konfigurationen",
+  "sections": [
+    {
+      "title": null,
+      "items": [
+        "Åtgärdat ett problem där widgetar kunde visa inaktuellt innehåll",
+        "Korrigerat texter och talformat på flera språk",
+        "Åtgärdat ett problem där notiser om åtgärdspåminnelser kunde visas flera gånger eller inte uppdateras enligt de senaste inställningarna",
+        "Förbättrat prestandan och stabiliteten vid skärmuppdateringar"
+      ]
+    }
+  ]
+}

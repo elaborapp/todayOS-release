@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "version": "2026.2",
+  "locale": "da",
+  "summary": "Forbedret forløbet for lokalitetstilladelser under den første opsætning",
+  "sections": [
+    {
+      "title": null,
+      "items": [
+        "Rettet et problem, hvor widgets kunne vise forældet indhold",
+        "Rettet tekst- og talformatering på flere sprog",
+        "Rettet et problem, hvor notifikationer om handlingspåmindelser kunne vises flere gange eller ikke blive opdateret i henhold til de seneste indstillinger",
+        "Forbedret ydeevnen og stabiliteten ved skærmopdateringer"
+      ]
+    }
+  ]
+}

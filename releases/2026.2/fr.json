@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "version": "2026.2",
+  "locale": "fr",
+  "summary": "Amélioration du parcours d’autorisation de localisation lors de la configuration initiale",
+  "sections": [
+    {
+      "title": null,
+      "items": [
+        "Correction d’un problème pouvant entraîner l’affichage de contenu obsolète dans les widgets",
+        "Correction de textes et du format des nombres dans plusieurs langues",
+        "Correction d’un problème pouvant entraîner l’affichage répété des notifications de rappel d’action ou empêcher leur mise à jour selon les derniers réglages",
+        "Amélioration des performances et de la stabilité des mises à jour de l’interface"
+      ]
+    }
+  ]
+}

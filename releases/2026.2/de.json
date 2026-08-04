@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "version": "2026.2",
+  "locale": "de",
+  "summary": "Der Ablauf für Standortberechtigungen bei der Ersteinrichtung wurde verbessert",
+  "sections": [
+    {
+      "title": null,
+      "items": [
+        "Ein Problem wurde behoben, durch das Widgets veraltete Inhalte anzeigen konnten",
+        "Texte und Zahlenformate in mehreren Sprachen wurden korrigiert",
+        "Ein Problem wurde behoben, durch das Benachrichtigungen für Handlungserinnerungen mehrfach erscheinen oder nicht gemäß den neuesten Einstellungen aktualisiert werden konnten",
+        "Leistung und Stabilität von Bildschirmaktualisierungen wurden verbessert"
+      ]
+    }
+  ]
+}

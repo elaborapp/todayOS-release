@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "version": "2026.1",
+  "locale": "sv",
+  "summary": "Förbättrade förslag om att lägga dig tidigare tar nu även hänsyn till aktuell sömnskuld, tupplurar och återhämtningssömn",
+  "sections": [
+    {
+      "title": "Förbättringar för todayOS+",
+      "items": [
+        "Tidpunkt och längd för solljuspåminnelser har förbättrats. De undviker nu olämpliga tider och väder, och förlänger dagsljusmålet när solljuset är svagare",
+        "Mer aktuell lokal väderinformation",
+        "Förbättrad visning av platsnamn för att undvika alltför långa namn"
+      ]
+    },
+    {
+      "title": "Kostnadsfria uppdateringar",
+      "items": [
+        "Himmelsfärgen i bakgrunden på huvudskärmen matchar nu verkliga himmelsfärger bättre, särskilt kring soluppgång och solnedgång, med förbättrat stöd för platser på höga breddgrader.",
+        "Valfri resedetektering har lagts till för att minska påminnelser om att resa sig i ett fordon. Den kräver platsåtkomst i bakgrunden och använder betydande platsändringar i stället för kontinuerlig platsspårning."
+      ]
+    }
+  ]
+}

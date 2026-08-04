@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "version": "2026.1",
+  "locale": "id",
+  "summary": "Saran tidur lebih awal ditingkatkan, kini juga mempertimbangkan utang tidur terbaru, tidur siang, dan tidur pemulihan",
+  "sections": [
+    {
+      "title": "Peningkatan untuk todayOS+",
+      "items": [
+        "Waktu dan durasi pengingat sinar matahari ditingkatkan. Kini pengingat menghindari waktu dan cuaca yang tidak sesuai, serta memperpanjang target cahaya siang saat sinar matahari lebih lemah",
+        "Informasi cuaca lokal kini lebih mutakhir",
+        "Format nama tempat ditingkatkan agar tidak terlalu panjang"
+      ]
+    },
+    {
+      "title": "Pembaruan gratis",
+      "items": [
+        "Warna langit pada latar layar utama kini lebih mendekati warna langit nyata, terutama di sekitar matahari terbit dan terbenam, dengan dukungan yang lebih baik untuk lokasi lintang tinggi.",
+        "Menambahkan deteksi perjalanan opsional untuk mengurangi pengingat ‘berdiri dan bergerak’ saat Anda berada di kendaraan. Fitur ini memerlukan izin Lokasi Latar Belakang dan menggunakan perubahan lokasi signifikan, bukan pelacakan lokasi terus-menerus."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "version": "2026.2",
+  "locale": "en-GB",
+  "summary": "Improved the location permission flow during initial setup",
+  "sections": [
+    {
+      "title": null,
+      "items": [
+        "Fixed an issue where widgets could display outdated content",
+        "Corrected text and number formatting across multiple languages",
+        "Fixed an issue where action reminder notifications could appear more than once or fail to reflect the latest settings",
+        "Improved the performance and stability of UI updates"
+      ]
+    }
+  ]
+}

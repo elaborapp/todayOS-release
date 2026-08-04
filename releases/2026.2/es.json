@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "version": "2026.2",
+  "locale": "es",
+  "summary": "Se mejoró el proceso de permisos de ubicación durante la configuración inicial",
+  "sections": [
+    {
+      "title": null,
+      "items": [
+        "Se corrigió un problema por el que los widgets podían mostrar contenido desactualizado",
+        "Se corrigieron textos y formatos numéricos en varios idiomas",
+        "Se corrigió un problema por el que las notificaciones de los recordatorios de acción podían aparecer más de una vez o no reflejar los ajustes más recientes",
+        "Se mejoraron el rendimiento y la estabilidad de las actualizaciones de pantalla"
+      ]
+    }
+  ]
+}

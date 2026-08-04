@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "version": "2026.2",
+  "locale": "pl",
+  "summary": "Ulepszono proces przyznawania dostępu do lokalizacji podczas pierwszej konfiguracji",
+  "sections": [
+    {
+      "title": null,
+      "items": [
+        "Naprawiono problem, przez który widżety mogły wyświetlać nieaktualne treści",
+        "Poprawiono teksty i formatowanie liczb w wielu językach",
+        "Naprawiono problem, przez który powiadomienia z przypomnieniami o działaniu mogły pojawiać się więcej niż raz lub nie uwzględniać najnowszych ustawień",
+        "Zwiększono wydajność i stabilność odświeżania ekranu"
+      ]
+    }
+  ]
+}

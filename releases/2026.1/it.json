@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "version": "2026.1",
+  "locale": "it",
+  "summary": "Suggerimenti per andare a dormire prima migliorati, ora tengono conto anche del debito di sonno recente, dei riposini e del sonno di recupero",
+  "sections": [
+    {
+      "title": "Miglioramenti per todayOS+",
+      "items": [
+        "Migliorati il momento e la durata dei promemoria per la luce solare. Ora evitano orari e condizioni meteo non adatti e allungano l’obiettivo di luce diurna quando il sole è più debole",
+        "Informazioni meteo locali più aggiornate",
+        "Formattazione dei nomi dei luoghi migliorata per evitare nomi troppo lunghi"
+      ]
+    },
+    {
+      "title": "Aggiornamenti gratuiti",
+      "items": [
+        "I colori del cielo nello sfondo della schermata principale sono ora più vicini a quelli reali, soprattutto intorno all’alba e al tramonto, con supporto migliorato per le località ad alta latitudine.",
+        "Aggiunto il rilevamento facoltativo degli spostamenti per ridurre i promemoria ‘alzati e muoviti’ quando sei in un veicolo. Richiede la posizione in background e usa cambiamenti significativi della posizione anziché il tracciamento continuo."
+      ]
+    }
+  ]
+}

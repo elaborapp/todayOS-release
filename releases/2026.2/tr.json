@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "version": "2026.2",
+  "locale": "tr",
+  "summary": "İlk kurulum sırasında konum izni akışı iyileştirildi",
+  "sections": [
+    {
+      "title": null,
+      "items": [
+        "Araç takımlarının güncel olmayan içerik gösterebilmesine neden olan sorun düzeltildi",
+        "Birden fazla dilde metinler ve sayı biçimleri düzeltildi",
+        "Eylem hatırlatıcısı bildirimlerinin birden fazla kez görünmesine veya en son ayarları yansıtacak şekilde güncellenmemesine neden olan bir sorun düzeltildi",
+        "Ekran güncellemelerinin performansı ve kararlılığı artırıldı"
+      ]
+    }
+  ]
+}

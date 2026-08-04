@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "version": "2026.2",
+  "locale": "nb",
+  "summary": "Forbedret flyten for stedstillatelser under første oppsett",
+  "sections": [
+    {
+      "title": null,
+      "items": [
+        "Rettet et problem der widgeter kunne vise utdatert innhold",
+        "Rettet tekst- og tallformatering på flere språk",
+        "Rettet et problem der varsler om handlingspåminnelser kunne vises mer enn én gang eller ikke bli oppdatert i tråd med de nyeste innstillingene",
+        "Forbedret ytelsen og stabiliteten ved skjermoppdateringer"
+      ]
+    }
+  ]
+}
