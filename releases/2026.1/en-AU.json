@@ -2,11 +2,12 @@
   "schemaVersion": 1,
   "version": "2026.1",
   "locale": "en-AU",
-  "summary": "Improved early bedtime suggestions to also account for recent sleep debt, naps and recovery sleep",
+  "releaseDate": "2026-07-13",
   "sections": [
     {
       "title": "Improvements for todayOS+",
       "items": [
+        "Improved early bedtime suggestions to also account for recent sleep debt, naps and recovery sleep",
         "Improved timing and duration for sunlight reminders. They now avoid unsuitable times and weather, and extend the daylight goal when sunlight is weaker",
         "More up-to-date local weather information",
         "Improved place name formatting to avoid overly long location names"

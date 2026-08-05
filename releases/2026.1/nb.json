@@ -2,11 +2,12 @@
   "schemaVersion": 1,
   "version": "2026.1",
   "locale": "nb",
-  "summary": "Forbedrede forslag om å legge deg tidligere tar nå også hensyn til nylig søvngjeld, lurer og innhentingssøvn",
+  "releaseDate": "2026-07-13",
   "sections": [
     {
       "title": "Forbedringer for todayOS+",
       "items": [
+        "Forbedrede forslag om å legge deg tidligere tar nå også hensyn til nylig søvngjeld, lurer og innhentingssøvn",
         "Tidspunkt og varighet for sollyspåminnelser er forbedret. De unngår nå uegnede tider og vær, og forlenger dagslysmålet når sollyset er svakere",
         "Mer oppdatert lokal værinformasjon",
         "Forbedret formatering av stedsnavn for å unngå for lange navn"

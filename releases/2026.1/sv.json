@@ -2,11 +2,12 @@
   "schemaVersion": 1,
   "version": "2026.1",
   "locale": "sv",
-  "summary": "Förbättrade förslag om att lägga dig tidigare tar nu även hänsyn till aktuell sömnskuld, tupplurar och återhämtningssömn",
+  "releaseDate": "2026-07-13",
   "sections": [
     {
       "title": "Förbättringar för todayOS+",
       "items": [
+        "Förbättrade förslag om att lägga dig tidigare tar nu även hänsyn till aktuell sömnskuld, tupplurar och återhämtningssömn",
         "Tidpunkt och längd för solljuspåminnelser har förbättrats. De undviker nu olämpliga tider och väder, och förlänger dagsljusmålet när solljuset är svagare",
         "Mer aktuell lokal väderinformation",
         "Förbättrad visning av platsnamn för att undvika alltför långa namn"

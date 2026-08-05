@@ -11,4 +11,6 @@ Public download assets for todayOS.
 
 `releases/catalogs/<locale>.json` is the generated, localized read model used by the app. It keeps app launch fetching constant as version history grows. Edit the version documents, then regenerate the catalogs with `scripts/bootstrap_release_notes.py`.
 
+Release documents keep every App Store changelog item in `sections`. `releaseDate` is calendar-date metadata used for the localized subtitle; there is no separately authored summary field. The initial unpublished format remains schema version `1`.
+
 The first catalog was bootstrapped from public App Store release notes. Future entries can be edited into product-focused summaries without changing the app schema.

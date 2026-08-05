@@ -2,11 +2,12 @@
   "schemaVersion": 1,
   "version": "2026.1",
   "locale": "es",
-  "summary": "Mejoras en las sugerencias para acostarte antes, que ahora también tienen en cuenta la deuda de sueño reciente, las siestas y el sueño de recuperación",
+  "releaseDate": "2026-07-13",
   "sections": [
     {
       "title": "Mejoras para todayOS+",
       "items": [
+        "Mejoras en las sugerencias para acostarte antes, que ahora también tienen en cuenta la deuda de sueño reciente, las siestas y el sueño de recuperación",
         "Mejora del momento y la duración de los recordatorios de luz solar. Ahora evitan horarios y condiciones climáticas inadecuados, y amplían el objetivo de luz del día cuando el sol es más débil",
         "Información meteorológica local más actualizada",
         "Mejor formato de los nombres de lugares para evitar nombres demasiado largos"

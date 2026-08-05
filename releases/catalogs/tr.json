@@ -6,11 +6,12 @@
       "schemaVersion": 1,
       "version": "2026.2",
       "locale": "tr",
-      "summary": "İlk kurulum sırasında konum izni akışı iyileştirildi",
+      "releaseDate": "2026-07-27",
       "sections": [
         {
           "title": null,
           "items": [
+            "İlk kurulum sırasında konum izni akışı iyileştirildi",
             "Araç takımlarının güncel olmayan içerik gösterebilmesine neden olan sorun düzeltildi",
             "Birden fazla dilde metinler ve sayı biçimleri düzeltildi",
             "Eylem hatırlatıcısı bildirimlerinin birden fazla kez görünmesine veya en son ayarları yansıtacak şekilde güncellenmemesine neden olan bir sorun düzeltildi",
@@ -23,11 +24,12 @@
       "schemaVersion": 1,
       "version": "2026.1",
       "locale": "tr",
-      "summary": "Daha erken yatma önerileri iyileştirildi; artık son uyku borcu, kısa uykular ve telafi uykusu da dikkate alınıyor",
+      "releaseDate": "2026-07-13",
       "sections": [
         {
           "title": "todayOS+ iyileştirmeleri",
           "items": [
+            "Daha erken yatma önerileri iyileştirildi; artık son uyku borcu, kısa uykular ve telafi uykusu da dikkate alınıyor",
             "Güneş ışığı hatırlatıcılarının zamanı ve süresi iyileştirildi. Artık uygun olmayan saatleri ve hava durumunu atlar, güneş ışığı daha zayıf olduğunda gün ışığı hedefini uzatır",
             "Daha güncel yerel hava durumu bilgileri",
             "Çok uzun konum adlarını önlemek için yer adı biçimlendirmesi iyileştirildi"
@@ -38,6 +40,20 @@
           "items": [
             "Ana ekran arka planındaki gökyüzü rengi artık gerçek dünyadaki gökyüzüne daha doğru uyuyor; özellikle gün doğumu ve gün batımı çevresinde, yüksek enlemli konumlar için daha iyi destekle.",
             "Araçla yolculuk sırasında ayağa kalkma hatırlatıcılarını azaltan isteğe bağlı yolculuk algılama eklendi. Arka Planda Konum izni gerekir ve sürekli konum takibi yerine önemli konum değişikliklerini kullanır."
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "version": "2026",
+      "locale": "tr",
+      "releaseDate": "2026-06-29",
+      "sections": [
+        {
+          "title": null,
+          "items": [
+            "todayOS resmen kullanıma sunuldu!"
           ]
         }
       ]

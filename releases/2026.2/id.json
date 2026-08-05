@@ -2,11 +2,12 @@
   "schemaVersion": 1,
   "version": "2026.2",
   "locale": "id",
-  "summary": "Meningkatkan alur izin lokasi saat pengaturan awal",
+  "releaseDate": "2026-07-27",
   "sections": [
     {
       "title": null,
       "items": [
+        "Meningkatkan alur izin lokasi saat pengaturan awal",
         "Memperbaiki masalah yang dapat membuat widget menampilkan konten lama",
         "Memperbaiki teks dan format angka dalam berbagai bahasa",
         "Memperbaiki masalah pada notifikasi pengingat tindakan yang dapat muncul lebih dari sekali atau tidak mengikuti pengaturan terbaru",

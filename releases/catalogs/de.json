@@ -6,11 +6,12 @@
       "schemaVersion": 1,
       "version": "2026.2",
       "locale": "de",
-      "summary": "Der Ablauf für Standortberechtigungen bei der Ersteinrichtung wurde verbessert",
+      "releaseDate": "2026-07-27",
       "sections": [
         {
           "title": null,
           "items": [
+            "Der Ablauf für Standortberechtigungen bei der Ersteinrichtung wurde verbessert",
             "Ein Problem wurde behoben, durch das Widgets veraltete Inhalte anzeigen konnten",
             "Texte und Zahlenformate in mehreren Sprachen wurden korrigiert",
             "Ein Problem wurde behoben, durch das Benachrichtigungen für Handlungserinnerungen mehrfach erscheinen oder nicht gemäß den neuesten Einstellungen aktualisiert werden konnten",
@@ -23,11 +24,12 @@
       "schemaVersion": 1,
       "version": "2026.1",
       "locale": "de",
-      "summary": "Verbesserte Empfehlungen für früheres Zubettgehen berücksichtigen jetzt auch aktuelle Schlafschuld, Nickerchen und Erholungsschlaf",
+      "releaseDate": "2026-07-13",
       "sections": [
         {
           "title": "Verbesserungen für todayOS+",
           "items": [
+            "Verbesserte Empfehlungen für früheres Zubettgehen berücksichtigen jetzt auch aktuelle Schlafschuld, Nickerchen und Erholungsschlaf",
             "Timing und Dauer der Sonnenlicht-Erinnerungen wurden verbessert. Sie vermeiden jetzt ungeeignete Zeiten und Wetterlagen und verlängern das Tageslichtziel bei schwächerem Sonnenlicht",
             "Aktuellere lokale Wetterinformationen",
             "Verbesserte Darstellung von Ortsnamen, damit sie nicht zu lang werden"
@@ -38,6 +40,20 @@
           "items": [
             "Die Himmelsfarbe im Hintergrund des Startbildschirms entspricht jetzt genauer der realen Umgebung, besonders rund um Sonnenaufgang und Sonnenuntergang, mit besserer Unterstützung für Orte in hohen Breitengraden.",
             "Eine optionale Fahrterkennung reduziert Erinnerungen zum Aufstehen während einer Fahrt. Sie benötigt die Berechtigung für Hintergrundortung und nutzt signifikante Ortsänderungen statt kontinuierlicher Standortverfolgung."
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "version": "2026",
+      "locale": "de",
+      "releaseDate": "2026-06-29",
+      "sections": [
+        {
+          "title": null,
+          "items": [
+            "todayOS ist offiziell verfügbar!"
           ]
         }
       ]

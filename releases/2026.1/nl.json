@@ -2,11 +2,12 @@
   "schemaVersion": 1,
   "version": "2026.1",
   "locale": "nl",
-  "summary": "Verbeterde suggesties om eerder naar bed te gaan houden nu ook rekening met recente slaapschuld, dutjes en herstelslaap",
+  "releaseDate": "2026-07-13",
   "sections": [
     {
       "title": "Verbeteringen voor todayOS+",
       "items": [
+        "Verbeterde suggesties om eerder naar bed te gaan houden nu ook rekening met recente slaapschuld, dutjes en herstelslaap",
         "Timing en duur van daglicht-herinneringen zijn verbeterd. Ze vermijden nu ongeschikte momenten en weersomstandigheden, en verlengen het daglichtdoel wanneer het zonlicht zwakker is",
         "Actuelere lokale weersinformatie",
         "Verbeterde plaatsnaamweergave om te lange namen te voorkomen"

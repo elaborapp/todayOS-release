@@ -6,11 +6,12 @@
       "schemaVersion": 1,
       "version": "2026.2",
       "locale": "en-IN",
-      "summary": "Improved the location permission flow during initial setup",
+      "releaseDate": "2026-07-27",
       "sections": [
         {
           "title": null,
           "items": [
+            "Improved the location permission flow during initial setup",
             "Fixed an issue where widgets could display outdated content",
             "Corrected text and number formatting across multiple languages",
             "Fixed an issue where action reminder notifications could appear more than once or fail to reflect the latest settings",
@@ -23,11 +24,12 @@
       "schemaVersion": 1,
       "version": "2026.1",
       "locale": "en-IN",
-      "summary": "Improved early bedtime suggestions to also account for recent sleep debt, naps, and recovery sleep",
+      "releaseDate": "2026-07-13",
       "sections": [
         {
           "title": "Improvements for todayOS+",
           "items": [
+            "Improved early bedtime suggestions to also account for recent sleep debt, naps, and recovery sleep",
             "Improved timing and duration for sunlight reminders. They now avoid unsuitable times and weather, and extend the daylight goal when sunlight is weaker",
             "More up-to-date local weather information",
             "Improved place name formatting to avoid overly long location names"
@@ -38,6 +40,20 @@
           "items": [
             "The home screen background now matches real-world sky colors more accurately, especially around sunrise and sunset, with improved support for high-latitude locations.",
             "Added optional travel detection to reduce ‘Stand Up’ reminders while traveling in a vehicle. It requires Background Location and uses significant location changes instead of continuous location tracking."
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "version": "2026",
+      "locale": "en-IN",
+      "releaseDate": "2026-06-29",
+      "sections": [
+        {
+          "title": null,
+          "items": [
+            "todayOS is officially available!"
           ]
         }
       ]

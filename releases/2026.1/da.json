@@ -2,11 +2,12 @@
   "schemaVersion": 1,
   "version": "2026.1",
   "locale": "da",
-  "summary": "Forbedrede forslag om at gå tidligere i seng tager nu også højde for nylig søvngæld, lure og restitutionssøvn",
+  "releaseDate": "2026-07-13",
   "sections": [
     {
       "title": "Forbedringer til todayOS+",
       "items": [
+        "Forbedrede forslag om at gå tidligere i seng tager nu også højde for nylig søvngæld, lure og restitutionssøvn",
         "Tidspunkt og varighed for sollyspåmindelser er forbedret. De undgår nu uegnede tidspunkter og vejr, og forlænger dagslysmålet, når sollyset er svagere",
         "Mere opdaterede lokale vejroplysninger",
         "Forbedret visning af stednavne for at undgå for lange navne"

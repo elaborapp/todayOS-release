@@ -2,11 +2,12 @@
   "schemaVersion": 1,
   "version": "2026.2",
   "locale": "pt-BR",
-  "summary": "Aprimoramos o fluxo de permissão de localização durante a configuração inicial",
+  "releaseDate": "2026-07-27",
   "sections": [
     {
       "title": null,
       "items": [
+        "Aprimoramos o fluxo de permissão de localização durante a configuração inicial",
         "Corrigimos um problema que podia fazer os widgets exibirem conteúdo desatualizado",
         "Corrigimos textos e formatos numéricos em vários idiomas",
         "Corrigimos um problema que podia fazer as notificações de lembretes de ação aparecerem mais de uma vez ou não refletirem as configurações mais recentes",

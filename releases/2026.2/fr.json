@@ -2,11 +2,12 @@
   "schemaVersion": 1,
   "version": "2026.2",
   "locale": "fr",
-  "summary": "Amélioration du parcours d’autorisation de localisation lors de la configuration initiale",
+  "releaseDate": "2026-07-27",
   "sections": [
     {
       "title": null,
       "items": [
+        "Amélioration du parcours d’autorisation de localisation lors de la configuration initiale",
         "Correction d’un problème pouvant entraîner l’affichage de contenu obsolète dans les widgets",
         "Correction de textes et du format des nombres dans plusieurs langues",
         "Correction d’un problème pouvant entraîner l’affichage répété des notifications de rappel d’action ou empêcher leur mise à jour selon les derniers réglages",

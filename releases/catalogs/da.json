@@ -6,11 +6,12 @@
       "schemaVersion": 1,
       "version": "2026.2",
       "locale": "da",
-      "summary": "Forbedret forløbet for lokalitetstilladelser under den første opsætning",
+      "releaseDate": "2026-07-27",
       "sections": [
         {
           "title": null,
           "items": [
+            "Forbedret forløbet for lokalitetstilladelser under den første opsætning",
             "Rettet et problem, hvor widgets kunne vise forældet indhold",
             "Rettet tekst- og talformatering på flere sprog",
             "Rettet et problem, hvor notifikationer om handlingspåmindelser kunne vises flere gange eller ikke blive opdateret i henhold til de seneste indstillinger",
@@ -23,11 +24,12 @@
       "schemaVersion": 1,
       "version": "2026.1",
       "locale": "da",
-      "summary": "Forbedrede forslag om at gå tidligere i seng tager nu også højde for nylig søvngæld, lure og restitutionssøvn",
+      "releaseDate": "2026-07-13",
       "sections": [
         {
           "title": "Forbedringer til todayOS+",
           "items": [
+            "Forbedrede forslag om at gå tidligere i seng tager nu også højde for nylig søvngæld, lure og restitutionssøvn",
             "Tidspunkt og varighed for sollyspåmindelser er forbedret. De undgår nu uegnede tidspunkter og vejr, og forlænger dagslysmålet, når sollyset er svagere",
             "Mere opdaterede lokale vejroplysninger",
             "Forbedret visning af stednavne for at undgå for lange navne"
@@ -38,6 +40,20 @@
           "items": [
             "Baggrundens himmelfarver på hovedskærmen matcher nu den virkelige himmel mere præcist, især omkring solopgang og solnedgang, med bedre understøttelse af steder på høje breddegrader.",
             "Tilføjet valgfri registrering af kørsel for at reducere påmindelser om at rejse sig, mens du er i et køretøj. Funktionen kræver lokalitet i baggrunden og bruger væsentlige lokalitetsændringer i stedet for løbende positionssporing."
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "version": "2026",
+      "locale": "da",
+      "releaseDate": "2026-06-29",
+      "sections": [
+        {
+          "title": null,
+          "items": [
+            "todayOS er officielt udgivet!"
           ]
         }
       ]

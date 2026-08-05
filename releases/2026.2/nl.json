@@ -2,11 +2,12 @@
   "schemaVersion": 1,
   "version": "2026.2",
   "locale": "nl",
-  "summary": "De stroom voor locatietoestemming tijdens de eerste configuratie is verbeterd",
+  "releaseDate": "2026-07-27",
   "sections": [
     {
       "title": null,
       "items": [
+        "De stroom voor locatietoestemming tijdens de eerste configuratie is verbeterd",
         "Er is een probleem opgelost waardoor widgets verouderde inhoud konden tonen",
         "Tekst- en getalnotaties in meerdere talen zijn gecorrigeerd",
         "Er is een probleem opgelost waardoor meldingen voor actieherinneringen meerdere keren konden verschijnen of niet werden bijgewerkt op basis van de nieuwste instellingen",

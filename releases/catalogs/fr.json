@@ -6,11 +6,12 @@
       "schemaVersion": 1,
       "version": "2026.2",
       "locale": "fr",
-      "summary": "Amélioration du parcours d’autorisation de localisation lors de la configuration initiale",
+      "releaseDate": "2026-07-27",
       "sections": [
         {
           "title": null,
           "items": [
+            "Amélioration du parcours d’autorisation de localisation lors de la configuration initiale",
             "Correction d’un problème pouvant entraîner l’affichage de contenu obsolète dans les widgets",
             "Correction de textes et du format des nombres dans plusieurs langues",
             "Correction d’un problème pouvant entraîner l’affichage répété des notifications de rappel d’action ou empêcher leur mise à jour selon les derniers réglages",
@@ -23,11 +24,12 @@
       "schemaVersion": 1,
       "version": "2026.1",
       "locale": "fr",
-      "summary": "Amélioration des suggestions de coucher plus tôt, qui tiennent désormais aussi compte de la dette de sommeil récente, des siestes et du sommeil de récupération",
+      "releaseDate": "2026-07-13",
       "sections": [
         {
           "title": "Améliorations pour todayOS+",
           "items": [
+            "Amélioration des suggestions de coucher plus tôt, qui tiennent désormais aussi compte de la dette de sommeil récente, des siestes et du sommeil de récupération",
             "Amélioration du moment et de la durée des rappels de lumière du jour. Ils évitent désormais les moments et la météo inadaptés, et allongent l’objectif de lumière du jour lorsque le soleil est plus faible",
             "Météo locale plus à jour",
             "Amélioration de l’affichage des noms de lieux afin d’éviter les noms trop longs"
@@ -38,6 +40,20 @@
           "items": [
             "La couleur du ciel en arrière-plan de l’écran d’accueil correspond mieux à la réalité, surtout autour du lever et du coucher du soleil, avec une meilleure prise en charge des lieux situés à haute latitude.",
             "Ajout d’une détection facultative des trajets pour réduire les rappels de se lever en véhicule. Elle nécessite l’accès à la position en arrière-plan et utilise les changements de position significatifs plutôt qu’un suivi continu."
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "version": "2026",
+      "locale": "fr",
+      "releaseDate": "2026-06-29",
+      "sections": [
+        {
+          "title": null,
+          "items": [
+            "todayOS est officiellement disponible !"
           ]
         }
       ]

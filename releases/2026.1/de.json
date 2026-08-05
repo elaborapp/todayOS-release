@@ -2,11 +2,12 @@
   "schemaVersion": 1,
   "version": "2026.1",
   "locale": "de",
-  "summary": "Verbesserte Empfehlungen für früheres Zubettgehen berücksichtigen jetzt auch aktuelle Schlafschuld, Nickerchen und Erholungsschlaf",
+  "releaseDate": "2026-07-13",
   "sections": [
     {
       "title": "Verbesserungen für todayOS+",
       "items": [
+        "Verbesserte Empfehlungen für früheres Zubettgehen berücksichtigen jetzt auch aktuelle Schlafschuld, Nickerchen und Erholungsschlaf",
         "Timing und Dauer der Sonnenlicht-Erinnerungen wurden verbessert. Sie vermeiden jetzt ungeeignete Zeiten und Wetterlagen und verlängern das Tageslichtziel bei schwächerem Sonnenlicht",
         "Aktuellere lokale Wetterinformationen",
         "Verbesserte Darstellung von Ortsnamen, damit sie nicht zu lang werden"

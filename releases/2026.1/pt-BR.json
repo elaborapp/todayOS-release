@@ -2,11 +2,12 @@
   "schemaVersion": 1,
   "version": "2026.1",
   "locale": "pt-BR",
-  "summary": "Sugestões para dormir mais cedo aprimoradas, agora também considerando dívida de sono recente, cochilos e sono de recuperação",
+  "releaseDate": "2026-07-13",
   "sections": [
     {
       "title": "Melhorias para todayOS+",
       "items": [
+        "Sugestões para dormir mais cedo aprimoradas, agora também considerando dívida de sono recente, cochilos e sono de recuperação",
         "Melhorias no momento e na duração dos lembretes de luz solar. Agora eles evitam horários e condições climáticas inadequados e estendem a meta de luz do dia quando a luz solar está mais fraca",
         "Informações meteorológicas locais mais atualizadas",
         "Formatação de nomes de lugares aprimorada para evitar nomes longos demais"

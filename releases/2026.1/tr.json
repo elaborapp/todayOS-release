@@ -2,11 +2,12 @@
   "schemaVersion": 1,
   "version": "2026.1",
   "locale": "tr",
-  "summary": "Daha erken yatma önerileri iyileştirildi; artık son uyku borcu, kısa uykular ve telafi uykusu da dikkate alınıyor",
+  "releaseDate": "2026-07-13",
   "sections": [
     {
       "title": "todayOS+ iyileştirmeleri",
       "items": [
+        "Daha erken yatma önerileri iyileştirildi; artık son uyku borcu, kısa uykular ve telafi uykusu da dikkate alınıyor",
         "Güneş ışığı hatırlatıcılarının zamanı ve süresi iyileştirildi. Artık uygun olmayan saatleri ve hava durumunu atlar, güneş ışığı daha zayıf olduğunda gün ışığı hedefini uzatır",
         "Daha güncel yerel hava durumu bilgileri",
         "Çok uzun konum adlarını önlemek için yer adı biçimlendirmesi iyileştirildi"

@@ -2,11 +2,12 @@
   "schemaVersion": 1,
   "version": "2026.1",
   "locale": "pl",
-  "summary": "Ulepszone sugestie wcześniejszego pójścia spać uwzględniają teraz także niedawny dług snu, drzemki i sen regeneracyjny",
+  "releaseDate": "2026-07-13",
   "sections": [
     {
       "title": "Ulepszenia todayOS+",
       "items": [
+        "Ulepszone sugestie wcześniejszego pójścia spać uwzględniają teraz także niedawny dług snu, drzemki i sen regeneracyjny",
         "Ulepszono czas i długość przypomnień o świetle słonecznym. Teraz unikają nieodpowiednich pór i pogody oraz wydłużają cel światła dziennego, gdy słońce jest słabsze",
         "Bardziej aktualne lokalne informacje o pogodzie",
         "Ulepszono wyświetlanie nazw miejsc, aby nie były zbyt długie"

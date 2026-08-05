@@ -2,11 +2,12 @@
   "schemaVersion": 1,
   "version": "2026.1",
   "locale": "it",
-  "summary": "Suggerimenti per andare a dormire prima migliorati, ora tengono conto anche del debito di sonno recente, dei riposini e del sonno di recupero",
+  "releaseDate": "2026-07-13",
   "sections": [
     {
       "title": "Miglioramenti per todayOS+",
       "items": [
+        "Suggerimenti per andare a dormire prima migliorati, ora tengono conto anche del debito di sonno recente, dei riposini e del sonno di recupero",
         "Migliorati il momento e la durata dei promemoria per la luce solare. Ora evitano orari e condizioni meteo non adatti e allungano l’obiettivo di luce diurna quando il sole è più debole",
         "Informazioni meteo locali più aggiornate",
         "Formattazione dei nomi dei luoghi migliorata per evitare nomi troppo lunghi"

@@ -6,11 +6,12 @@
       "schemaVersion": 1,
       "version": "2026.2",
       "locale": "es",
-      "summary": "Se mejoró el proceso de permisos de ubicación durante la configuración inicial",
+      "releaseDate": "2026-07-27",
       "sections": [
         {
           "title": null,
           "items": [
+            "Se mejoró el proceso de permisos de ubicación durante la configuración inicial",
             "Se corrigió un problema por el que los widgets podían mostrar contenido desactualizado",
             "Se corrigieron textos y formatos numéricos en varios idiomas",
             "Se corrigió un problema por el que las notificaciones de los recordatorios de acción podían aparecer más de una vez o no reflejar los ajustes más recientes",
@@ -23,11 +24,12 @@
       "schemaVersion": 1,
       "version": "2026.1",
       "locale": "es",
-      "summary": "Mejoras en las sugerencias para acostarte antes, que ahora también tienen en cuenta la deuda de sueño reciente, las siestas y el sueño de recuperación",
+      "releaseDate": "2026-07-13",
       "sections": [
         {
           "title": "Mejoras para todayOS+",
           "items": [
+            "Mejoras en las sugerencias para acostarte antes, que ahora también tienen en cuenta la deuda de sueño reciente, las siestas y el sueño de recuperación",
             "Mejora del momento y la duración de los recordatorios de luz solar. Ahora evitan horarios y condiciones climáticas inadecuados, y amplían el objetivo de luz del día cuando el sol es más débil",
             "Información meteorológica local más actualizada",
             "Mejor formato de los nombres de lugares para evitar nombres demasiado largos"
@@ -38,6 +40,20 @@
           "items": [
             "El color del cielo del fondo de la pantalla de inicio ahora se parece más al mundo real, especialmente cerca del amanecer y el atardecer, con mejor soporte para ubicaciones de latitud alta.",
             "Se añadió detección de trayectos opcional para reducir los recordatorios de levantarse cuando viajas en un vehículo. Requiere ubicación en segundo plano y usa cambios de ubicación significativos en lugar de un seguimiento continuo."
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "version": "2026",
+      "locale": "es",
+      "releaseDate": "2026-06-29",
+      "sections": [
+        {
+          "title": null,
+          "items": [
+            "¡todayOS ya está disponible oficialmente!"
           ]
         }
       ]
