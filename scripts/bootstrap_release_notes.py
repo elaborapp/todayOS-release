@@ -108,8 +108,6 @@ def main() -> None:
 
     localized_releases = {locale: [] for locale in LOCALE_SOURCES}
     for version in VERSIONS:
-        version_directory = args.output / version
-        version_directory.mkdir(parents=True, exist_ok=True)
         for locale, source_locale in LOCALE_SOURCES.items():
             if version == "2026":
                 sections = [{"title": None, "items": [INITIAL_RELEASE_ITEMS[locale]]}]
@@ -125,10 +123,6 @@ def main() -> None:
                 "sections": sections,
             }
             localized_releases[locale].append(release)
-            (version_directory / f"{locale}.json").write_text(
-                json.dumps(release, ensure_ascii=False, indent=2) + "\n",
-                encoding="utf-8",
-            )
 
     catalogs_directory = args.output / "catalogs"
     catalogs_directory.mkdir(parents=True, exist_ok=True)
