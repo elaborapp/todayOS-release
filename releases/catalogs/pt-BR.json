@@ -4,6 +4,39 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.3",
+      "locale": "pt-BR",
+      "releaseDate": "2026-08-10",
+      "sections": [
+        {
+          "title": "Atualizações gratuitas",
+          "items": [
+            "Agora, até duas ações adequadas para começar imediatamente podem aparecer ao mesmo tempo. Ações adiadas ou ignoradas hoje não serão mais exibidas",
+            "Adicionamos animações aos cartões de lembrete de ação para que apareçam e desapareçam com mais fluidez",
+            "As barras de progresso com contagem regressiva, como tempo acordado e tempo sedentário, agora são animadas conforme o tempo diminui",
+            "Adicionamos informações contextuais no iOS abaixo de Progresso",
+            "Adicionamos horários e contagens regressivas do nascer e do pôr do sol",
+            "Adicionamos informações quando uma viagem de veículo é detectada e os lembretes para levantar são pausados",
+            "Reordenar ficou mais fácil de encontrar em Lembretes e metas",
+            "Adicionamos avisos de atualização de versão e notas de lançamento dentro do app no iOS",
+            "Adicionamos um link nos Ajustes do iOS para avaliar e deixar uma resenha do todayOS na App Store",
+            "Melhoramos a experiência de inicialização preservando o estado anterior durante a atualização",
+            "Reduzimos as alternâncias repetidas entre sugestões de luz solar e exercícios durante as atualizações do clima. O progresso real continua visível enquanto um lembrete é temporariamente suprimido",
+            "Melhoramos os layouts para textos de botão mais longos e tamanhos de texto maiores",
+            "Reduzimos significativamente o uso de memória e o consumo de energia em repouso quando o todayOS funciona por longos períodos no Mac, e melhoramos as atualizações da elegibilidade ao todayOS+ e das sugestões de ações gratuitas"
+          ]
+        },
+        {
+          "title": "Melhorias para todayOS+",
+          "items": [
+            "Adicionamos previsões de chuva e do fim da chuva",
+            "Adicionamos informações quando o clima não é adequado para tomar sol ou a radiação UV está elevada, com um horário melhor quando há uma previsão adequada"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.2",
       "locale": "pt-BR",
       "releaseDate": "2026-07-27",

@@ -4,6 +4,39 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.3",
+      "locale": "es",
+      "releaseDate": "2026-08-10",
+      "sections": [
+        {
+          "title": "Actualizaciones gratuitas",
+          "items": [
+            "Ahora se pueden mostrar a la vez hasta dos acciones adecuadas para empezar de inmediato. Las acciones pospuestas u omitidas por hoy ya no aparecen",
+            "Se añadieron animaciones a las tarjetas de recordatorio de acción para que aparezcan y desaparezcan con mayor fluidez",
+            "Las barras de progreso con cuenta atrás, como el tiempo despierto y el tiempo sedentario, ahora se animan a medida que disminuye el tiempo",
+            "Se añadió información contextual en iOS debajo de Progreso",
+            "Se añadieron las horas y cuentas atrás del amanecer y el atardecer",
+            "Se añadió información cuando se detecta un viaje en vehículo y se pausan los recordatorios para levantarse",
+            "Reordenar ahora es más fácil de encontrar en Recordatorios y objetivos",
+            "Se añadieron avisos de actualización de versión y notas de la versión dentro de la app en iOS",
+            "Se añadió un enlace en los ajustes de iOS para valorar y reseñar todayOS en el App Store",
+            "Se mejoró la experiencia de inicio conservando el estado anterior mientras se actualiza",
+            "Se redujeron los cambios repetidos entre las sugerencias de luz solar y ejercicio durante las actualizaciones meteorológicas. El progreso real sigue visible mientras se suprime temporalmente un recordatorio",
+            "Se mejoró la disposición de las etiquetas de botones más largas y los tamaños de texto más grandes",
+            "Se redujeron considerablemente el uso de memoria y el consumo de energía en reposo cuando todayOS funciona durante mucho tiempo en el Mac, y se mejoraron las actualizaciones de la elegibilidad para todayOS+ y de las sugerencias de acciones gratuitas"
+          ]
+        },
+        {
+          "title": "Mejoras para todayOS+",
+          "items": [
+            "Se añadieron previsiones de lluvia y del fin de la lluvia",
+            "Se añadió información cuando el tiempo no es adecuado para tomar el sol o la radiación UV es elevada; también se muestra una hora más apropiada cuando hay una previsión adecuada"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.2",
       "locale": "es",
       "releaseDate": "2026-07-27",

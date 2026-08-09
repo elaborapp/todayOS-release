@@ -4,6 +4,39 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.3",
+      "locale": "sv",
+      "releaseDate": "2026-08-10",
+      "sections": [
+        {
+          "title": "Kostnadsfria uppdateringar",
+          "items": [
+            "Nu kan upp till två åtgärder som passar att starta direkt visas samtidigt. Åtgärder som har skjutits upp eller hoppats över för i dag visas inte längre",
+            "Animationer har lagts till i åtgärdspåminnelsekort för smidigare visning och borttagning",
+            "Förloppsindikatorer med nedräkning, som vaken tid och stillasittande tid, animeras nu när tiden minskar",
+            "Kontextuell information har lagts till på iOS under Förlopp",
+            "Tider och nedräkningar för soluppgång och solnedgång har lagts till",
+            "Information har lagts till när resa i ett fordon upptäcks och påminnelser om att resa sig pausas",
+            "Ändra ordning är nu lättare att hitta under Påminnelser och mål",
+            "Meddelanden om versionsuppdateringar och versionsinformation i appen har lagts till på iOS",
+            "En länk har lagts till i iOS-inställningarna för att betygsätta och recensera todayOS i App Store",
+            "Startupplevelsen har förbättrats genom att föregående tillstånd behålls medan det uppdateras",
+            "Upprepade växlingar mellan förslag om solljus och motion under väderuppdateringar har minskats. Faktiska framsteg förblir synliga medan en påminnelse tillfälligt undertrycks",
+            "Layouter för längre knapptexter och större textstorlekar har förbättrats",
+            "Minnesanvändning och energiförbrukning vid inaktivitet har minskats kraftigt när todayOS körs länge på Mac, och uppdateringar av todayOS+-behörighet och kostnadsfria åtgärdsförslag har förbättrats"
+          ]
+        },
+        {
+          "title": "Förbättringar för todayOS+",
+          "items": [
+            "Prognoser för regn och när regnet upphör har lagts till",
+            "Förklaringar har lagts till när vädret är olämpligt för solljus eller UV-nivån är hög, tillsammans med en bättre tid när en lämplig prognos finns"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.2",
       "locale": "sv",
       "releaseDate": "2026-07-27",

@@ -4,6 +4,39 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.3",
+      "locale": "id",
+      "releaseDate": "2026-08-10",
+      "sections": [
+        {
+          "title": "Pembaruan gratis",
+          "items": [
+            "Kini hingga dua tindakan yang cocok untuk segera dimulai dapat ditampilkan bersamaan. Tindakan yang ditunda atau dilewati untuk hari ini tidak lagi muncul",
+            "Menambahkan animasi pada kartu pengingat tindakan agar tampil dan menghilang dengan lebih halus",
+            "Bilah progres hitung mundur, seperti waktu terjaga dan waktu terlalu lama duduk, kini dianimasikan seiring waktu berkurang",
+            "Menambahkan informasi kontekstual di iOS di bawah Progres",
+            "Menambahkan waktu dan hitung mundur matahari terbit serta terbenam",
+            "Menambahkan informasi saat perjalanan dengan kendaraan terdeteksi dan pengingat berdiri dan bergerak dijeda",
+            "Ubah Urutan kini lebih mudah ditemukan di Pengingat & Target",
+            "Menambahkan pemberitahuan pembaruan versi dan catatan rilis di dalam app pada iOS",
+            "Menambahkan tautan di Pengaturan iOS untuk memberi nilai dan ulasan todayOS di App Store",
+            "Meningkatkan pengalaman peluncuran dengan mempertahankan status sebelumnya sambil memperbaruinya",
+            "Mengurangi pergantian berulang antara saran sinar matahari dan olahraga selama pembaruan cuaca. Progres sebenarnya tetap terlihat saat pengingat dinonaktifkan sementara",
+            "Meningkatkan tata letak untuk label tombol yang lebih panjang dan ukuran teks yang lebih besar",
+            "Mengurangi penggunaan memori dan konsumsi energi saat diam secara signifikan ketika todayOS berjalan lama di Mac, serta meningkatkan pembaruan kelayakan todayOS+ dan saran tindakan gratis"
+          ]
+        },
+        {
+          "title": "Peningkatan untuk todayOS+",
+          "items": [
+            "Menambahkan prakiraan hujan dan kapan hujan berhenti",
+            "Menambahkan informasi saat cuaca tidak cocok untuk berjemur atau UV tinggi, serta waktu yang lebih sesuai bila tersedia dalam prakiraan"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.2",
       "locale": "id",
       "releaseDate": "2026-07-27",

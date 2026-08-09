@@ -4,6 +4,39 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.3",
+      "locale": "de",
+      "releaseDate": "2026-08-10",
+      "sections": [
+        {
+          "title": "Kostenlose Updates",
+          "items": [
+            "Jetzt können bis zu zwei Aktionen gleichzeitig angezeigt werden, die sich für den sofortigen Start eignen. Zurückgestellte oder für heute übersprungene Aktionen werden nicht mehr angezeigt",
+            "Animationen für Karten mit Handlungserinnerungen sorgen für ein flüssigeres Ein- und Ausblenden",
+            "Fortschrittsbalken mit Countdown, etwa für Wachzeit und Sitzzeit, werden jetzt mit abnehmender Zeit animiert",
+            "Kontextbezogene Informationen auf iOS unter Fortschritt hinzugefügt",
+            "Zeiten und Countdowns für Sonnenaufgang und Sonnenuntergang hinzugefügt",
+            "Informationen hinzugefügt, wenn eine Fahrt in einem Fahrzeug erkannt und die Erinnerungen zum Aufstehen pausiert werden",
+            "Neu anordnen ist unter Erinnerungen & Ziele jetzt leichter zu finden",
+            "Hinweise zu Versionsupdates und Versionshinweise in der iOS-App hinzugefügt",
+            "In den iOS-Einstellungen wurde ein Link hinzugefügt, um todayOS im App Store zu bewerten",
+            "Das Starterlebnis wurde verbessert, indem der vorherige Zustand während der Aktualisierung beibehalten wird",
+            "Wiederholte Wechsel zwischen Sonnenlicht- und Bewegungsvorschlägen bei Wetteraktualisierungen wurden reduziert. Der tatsächliche Fortschritt bleibt sichtbar, während eine Erinnerung vorübergehend unterdrückt ist",
+            "Layouts für längere Schaltflächentexte und größere Schriftgrößen wurden verbessert",
+            "Speichernutzung und Energieverbrauch im Leerlauf wurden bei langem Betrieb von todayOS auf dem Mac deutlich reduziert. Außerdem wurden Aktualisierungen der todayOS+-Berechtigung und kostenloser Handlungsvorschläge verbessert"
+          ]
+        },
+        {
+          "title": "Verbesserungen für todayOS+",
+          "items": [
+            "Vorhersagen für Regen und das Ende des Regens hinzugefügt",
+            "Hinweise hinzugefügt, wenn das Wetter für Sonnenlicht ungeeignet oder die UV-Strahlung erhöht ist; bei geeigneter Vorhersage wird außerdem eine bessere Zeit angezeigt"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.2",
       "locale": "de",
       "releaseDate": "2026-07-27",

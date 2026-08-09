@@ -4,6 +4,39 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.3",
+      "locale": "da",
+      "releaseDate": "2026-08-10",
+      "sections": [
+        {
+          "title": "Gratis opdateringer",
+          "items": [
+            "Der kan nu vises op til to handlinger, som er egnede til at starte med det samme. Handlinger, der er udsat eller sprunget over i dag, vises ikke længere",
+            "Tilføjet animationer til handlingspåmindelseskort for mere flydende visning og fjernelse",
+            "Statuslinjer med nedtælling, f.eks. vågen tid og stillesiddende tid, animeres nu, efterhånden som tiden løber ned",
+            "Tilføjet kontekstuelle oplysninger på iOS under Fremskridt",
+            "Tilføjet tidspunkter og nedtællinger for solopgang og solnedgang",
+            "Tilføjet oplysninger, når kørsel i et køretøj registreres, og påmindelser om at rejse sig sættes på pause",
+            "Gjort Omarranger nemmere at finde under Påmindelser og mål",
+            "Tilføjet beskeder om versionsopdateringer og udgivelsesnoter i appen på iOS",
+            "Tilføjet et link i iOS-indstillinger til at bedømme og anmelde todayOS i App Store",
+            "Forbedret opstartsoplevelsen ved at bevare den tidligere tilstand, mens den opdateres",
+            "Reduceret gentagne skift mellem forslag om sollys og motion under vejropdateringer. De faktiske fremskridt forbliver synlige, mens en påmindelse er midlertidigt slået fra",
+            "Forbedret layoutet for længere knaptekster og større skriftstørrelser",
+            "Reduceret hukommelsesforbrug og energiforbrug i tomgang markant, når todayOS kører på Mac i længere tid, og forbedret opdateringer af todayOS+-berettigelse og gratis handlingsforslag"
+          ]
+        },
+        {
+          "title": "Forbedringer til todayOS+",
+          "items": [
+            "Tilføjet prognoser for regn og ophør af regn",
+            "Tilføjet forklaringer, når vejret er uegnet til sollys, eller UV-niveauet er højt, samt et bedre tidspunkt, når der findes en egnet prognose"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.2",
       "locale": "da",
       "releaseDate": "2026-07-27",

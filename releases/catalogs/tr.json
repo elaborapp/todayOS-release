@@ -4,6 +4,39 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.3",
+      "locale": "tr",
+      "releaseDate": "2026-08-10",
+      "sections": [
+        {
+          "title": "Ücretsiz güncellemeler",
+          "items": [
+            "Artık hemen başlamaya uygun en fazla iki eylem aynı anda gösterilebilir. Ertelenen veya bugün için atlanan eylemler artık görünmez",
+            "Eylem hatırlatıcısı kartlarının daha akıcı görünüp kaybolması için animasyonlar eklendi",
+            "Uyanık kalınan süre ve hareketsiz kalınan süre gibi geri sayım türündeki ilerleme çubukları, süre azaldıkça artık animasyonla gösteriliyor",
+            "iOS’ta İlerleme bölümünün altına bağlama uygun bilgiler eklendi",
+            "Gün doğumu ve gün batımı saatleri ile geri sayımları eklendi",
+            "Araçla yolculuk algılandığında ve ayağa kalkma hatırlatıcıları duraklatıldığında bilgi eklendi",
+            "Hatırlatıcılar ve Hedefler içindeki Yeniden Sırala seçeneğini bulmak kolaylaştırıldı",
+            "iOS uygulamasına sürüm güncelleme bildirimleri ve sürüm notları eklendi",
+            "iOS Ayarları’na App Store’da todayOS’u puanlama ve değerlendirme bağlantısı eklendi",
+            "Önceki durum güncellenirken korunarak başlatma deneyimi iyileştirildi",
+            "Hava durumu güncellemeleri sırasında güneş ışığı ve egzersiz önerileri arasındaki tekrarlanan geçişler azaltıldı. Bir hatırlatıcı geçici olarak bastırıldığında gerçek ilerleme görünür kalır",
+            "Daha uzun düğme etiketleri ve daha büyük metin boyutları için düzenler iyileştirildi",
+            "todayOS Mac’te uzun süre çalışırken bellek kullanımı ve boşta enerji tüketimi önemli ölçüde azaltıldı; todayOS+ uygunluğu ve ücretsiz eylem önerilerinin güncellenmesi iyileştirildi"
+          ]
+        },
+        {
+          "title": "todayOS+ iyileştirmeleri",
+          "items": [
+            "Yağmurun başlaması ve bitmesi için tahminler eklendi",
+            "Hava güneş ışığı için uygun olmadığında veya UV yüksek olduğunda açıklamalar, uygun tahmin bulunduğunda ise daha iyi bir saat eklendi"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.2",
       "locale": "tr",
       "releaseDate": "2026-07-27",

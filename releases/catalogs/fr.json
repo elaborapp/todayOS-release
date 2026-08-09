@@ -4,6 +4,39 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.3",
+      "locale": "fr",
+      "releaseDate": "2026-08-10",
+      "sections": [
+        {
+          "title": "Mises à jour gratuites",
+          "items": [
+            "Jusqu’à deux actions adaptées à un démarrage immédiat peuvent désormais s’afficher en même temps. Les actions reportées ou ignorées pour aujourd’hui n’apparaissent plus",
+            "Ajout d’animations aux cartes de rappel d’action pour fluidifier leur apparition et leur disparition",
+            "Les barres de progression avec compte à rebours, comme le temps d’éveil et le temps de sédentarité, s’animent désormais à mesure que le temps diminue",
+            "Ajout d’informations contextuelles sur iOS sous Progression",
+            "Ajout des heures et des comptes à rebours du lever et du coucher du soleil",
+            "Ajout d’une information lorsque le déplacement en véhicule est détecté et que les rappels de se lever sont mis en pause",
+            "Réorganiser est désormais plus facile à trouver dans Rappels et objectifs",
+            "Ajout d’avis de mise à jour de version et de notes de version dans l’app sur iOS",
+            "Ajout d’un lien dans les réglages iOS pour noter todayOS et donner un avis sur l’App Store",
+            "Amélioration de l’expérience de lancement en conservant l’état précédent pendant son actualisation",
+            "Réduction des basculements répétés entre les suggestions de lumière du jour et d’exercice pendant les mises à jour météo. La progression réelle reste visible lorsqu’un rappel est temporairement désactivé",
+            "Amélioration de la mise en page des libellés de bouton plus longs et des tailles de texte plus grandes",
+            "Réduction importante de l’utilisation de la mémoire et de la consommation d’énergie au repos lorsque todayOS fonctionne longtemps sur Mac, ainsi qu’amélioration de l’actualisation de l’éligibilité à todayOS+ et des suggestions d’actions gratuites"
+          ]
+        },
+        {
+          "title": "Améliorations pour todayOS+",
+          "items": [
+            "Ajout des prévisions de pluie et de fin de pluie",
+            "Ajout d’informations lorsque la météo ne convient pas à l’exposition au soleil ou que l’indice UV est élevé, avec un meilleur horaire lorsqu’une prévision adaptée est disponible"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.2",
       "locale": "fr",
       "releaseDate": "2026-07-27",

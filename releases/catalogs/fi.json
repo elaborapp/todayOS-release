@@ -4,6 +4,39 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.3",
+      "locale": "fi",
+      "releaseDate": "2026-08-10",
+      "sections": [
+        {
+          "title": "Ilmaiset päivitykset",
+          "items": [
+            "Nyt voidaan näyttää samanaikaisesti enintään kaksi heti aloitettavaksi sopivaa toimintoa. Myöhemmäksi siirrettyjä tai tältä päivältä ohitettuja toimintoja ei enää näytetä",
+            "Toimintamuistutuskortteihin lisättiin animaatiot, jotka tekevät niiden ilmestymisestä ja poistumisesta sujuvampaa",
+            "Lähtölaskentaan perustuvat edistymispalkit, kuten hereilläoloaika ja istumisaika, animoituvat nyt ajan vähentyessä",
+            "iOS:n Edistyminen-osion alle lisättiin tilannekohtaisia tietoja",
+            "Lisättiin auringonnousun ja -laskun ajat sekä lähtölaskennat",
+            "Lisättiin tieto siitä, kun ajoneuvossa matkustaminen havaitaan ja nousemismuistutukset keskeytetään",
+            "Järjestä uudelleen löytyy nyt helpommin Muistutukset ja tavoitteet -kohdasta",
+            "iOS-sovellukseen lisättiin versiopäivitysilmoitukset ja julkaisutiedot",
+            "iOS-asetuksiin lisättiin linkki todayOS:n arviointiin ja arvosteluun App Storessa",
+            "Käynnistyskokemusta parannettiin säilyttämällä aiempi tila päivityksen aikana",
+            "Aurinko- ja liikuntaehdotusten toistuvaa vaihtelua vähennettiin säätietojen päivittyessä. Todellinen edistyminen pysyy näkyvissä, kun muistutus on tilapäisesti pois käytöstä",
+            "Pidemmille painiketeksteille ja suuremmille tekstikokoille tarkoitettuja asetteluja parannettiin",
+            "Muistin käyttöä ja valmiustilan energiankulutusta vähennettiin merkittävästi, kun todayOS toimii Macissa pitkään. Myös todayOS+-kelpoisuuden ja ilmaisten toimintaehdotusten päivityksiä parannettiin"
+          ]
+        },
+        {
+          "title": "todayOS+-parannukset",
+          "items": [
+            "Lisättiin sateen ja sateen päättymisen ennusteet",
+            "Lisättiin tietoa tilanteisiin, joissa sää ei sovi auringonvalolle tai UV-säteily on voimakasta, sekä sopivampi ajankohta, kun sellainen löytyy ennusteesta"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.2",
       "locale": "fi",
       "releaseDate": "2026-07-27",

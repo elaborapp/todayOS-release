@@ -1,8 +1,9 @@
 {
   "schemaVersion": 1,
-  "latestVersion": "2026.2",
+  "latestVersion": "2026.3",
   "appStoreURL": "https://apps.apple.com/app/id6764528281",
   "versions": [
+    "2026.3",
     "2026.2",
     "2026.1",
     "2026"

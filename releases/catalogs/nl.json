@@ -4,6 +4,39 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.3",
+      "locale": "nl",
+      "releaseDate": "2026-08-10",
+      "sections": [
+        {
+          "title": "Gratis updates",
+          "items": [
+            "Er kunnen nu maximaal twee acties tegelijk worden weergegeven die geschikt zijn om direct te starten. Uitgestelde of voor vandaag overgeslagen acties worden niet meer getoond",
+            "Animaties toegevoegd aan kaarten met actieherinneringen voor vloeiender verschijnen en verdwijnen",
+            "Aftellende voortgangsbalken, zoals de tijd dat je wakker bent en de zittijd, bewegen nu mee terwijl de tijd afneemt",
+            "Contextuele informatie toegevoegd op iOS onder Voortgang",
+            "Tijden en aftellingen voor zonsopkomst en zonsondergang toegevoegd",
+            "Informatie toegevoegd wanneer reizen in een voertuig wordt gedetecteerd en herinneringen om op te staan worden gepauzeerd",
+            "Opnieuw ordenen is nu makkelijker te vinden onder Herinneringen en doelen",
+            "Meldingen over versie-updates en releaseopmerkingen in de iOS-app toegevoegd",
+            "Een link toegevoegd in de iOS-instellingen om todayOS te beoordelen in de App Store",
+            "De opstartervaring verbeterd door de vorige status te behouden terwijl deze wordt bijgewerkt",
+            "Herhaald schakelen tussen suggesties voor zonlicht en beweging tijdens weersupdates verminderd. De werkelijke voortgang blijft zichtbaar wanneer een herinnering tijdelijk wordt onderdrukt",
+            "Lay-outs voor langere knopteksten en grotere tekstgroottes verbeterd",
+            "Het geheugengebruik en energieverbruik bij inactiviteit aanzienlijk verminderd wanneer todayOS lang op de Mac draait, en updates van todayOS+-geschiktheid en gratis actiesuggesties verbeterd"
+          ]
+        },
+        {
+          "title": "Verbeteringen voor todayOS+",
+          "items": [
+            "Voorspellingen voor regen en het einde van de regen toegevoegd",
+            "Uitleg toegevoegd wanneer het weer ongeschikt is voor zonlicht of de UV-straling hoog is, met een beter tijdstip wanneer een geschikte voorspelling beschikbaar is"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.2",
       "locale": "nl",
       "releaseDate": "2026-07-27",

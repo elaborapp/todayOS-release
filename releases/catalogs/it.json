@@ -4,6 +4,39 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.3",
+      "locale": "it",
+      "releaseDate": "2026-08-10",
+      "sections": [
+        {
+          "title": "Aggiornamenti gratuiti",
+          "items": [
+            "Ora possono essere mostrate contemporaneamente fino a due azioni adatte da iniziare subito. Le azioni posticipate o ignorate per oggi non vengono più visualizzate",
+            "Aggiunte animazioni alle schede dei promemoria d’azione per renderne più fluide la comparsa e la scomparsa",
+            "Le barre di avanzamento con conto alla rovescia, come il tempo di veglia e il tempo trascorso seduti, ora si animano mentre il tempo diminuisce",
+            "Aggiunte informazioni contestuali su iOS sotto Progressi",
+            "Aggiunti gli orari e i conti alla rovescia per alba e tramonto",
+            "Aggiunta un’informazione quando viene rilevato uno spostamento in veicolo e i promemoria per alzarsi vengono sospesi",
+            "Riordina è ora più facile da trovare in Promemoria e obiettivi",
+            "Aggiunti avvisi di aggiornamento della versione e note di rilascio nell’app su iOS",
+            "Aggiunto un link nelle impostazioni iOS per valutare e recensire todayOS sull’App Store",
+            "Migliorata l’esperienza di avvio conservando lo stato precedente durante l’aggiornamento",
+            "Ridotti i passaggi ripetuti tra i suggerimenti per la luce solare e l’esercizio durante gli aggiornamenti meteo. I progressi effettivi restano visibili mentre un promemoria è temporaneamente sospeso",
+            "Migliorati i layout per le etichette dei pulsanti più lunghe e le dimensioni del testo più grandi",
+            "Ridotti notevolmente l’uso della memoria e il consumo energetico in inattività quando todayOS resta in esecuzione a lungo su Mac, e migliorati gli aggiornamenti dell’idoneità a todayOS+ e dei suggerimenti di azioni gratuite"
+          ]
+        },
+        {
+          "title": "Miglioramenti per todayOS+",
+          "items": [
+            "Aggiunte previsioni per la pioggia e per quando smetterà",
+            "Aggiunte informazioni quando il meteo non è adatto a esporsi al sole o i raggi UV sono elevati, con un orario migliore quando è disponibile una previsione adatta"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.2",
       "locale": "it",
       "releaseDate": "2026-07-27",

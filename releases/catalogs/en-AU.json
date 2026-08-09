@@ -4,6 +4,39 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.3",
+      "locale": "en-AU",
+      "releaseDate": "2026-08-10",
+      "sections": [
+        {
+          "title": "Free updates",
+          "items": [
+            "Up to two actions that are suitable to start now can appear at the same time. Actions snoozed or skipped for today no longer appear",
+            "Added animations to action reminder cards for smoother entrances and exits",
+            "Countdown progress bars, such as time awake and sedentary time, now animate as time runs down",
+            "Added contextual information on iOS below Progress",
+            "Added sunrise and sunset times and countdowns",
+            "Added information when travel in a vehicle is detected and Stand Up reminders are paused",
+            "Made Reorder easier to find in Reminders & Goals",
+            "Added in-app version update notices and release notes on iOS",
+            "Added a link in iOS Settings to rate and review todayOS on the App Store",
+            "Improved the launch experience by preserving the previous state while refreshing it",
+            "Reduced repeated switching between sunlight and exercise suggestions during weather updates. Actual progress remains visible while a reminder is temporarily suppressed",
+            "Improved layouts for longer button labels and larger text sizes",
+            "Significantly reduced memory use and idle energy consumption when todayOS runs on Mac for long periods, and improved updates to todayOS+ eligibility and free action suggestions"
+          ]
+        },
+        {
+          "title": "Improvements for todayOS+",
+          "items": [
+            "Added rain and rain-ending forecasts",
+            "Added context when weather is unsuitable for sunlight or UV is elevated, with better timing when a suitable forecast is available"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.2",
       "locale": "en-AU",
       "releaseDate": "2026-07-27",

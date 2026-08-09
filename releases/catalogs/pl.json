@@ -4,6 +4,39 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.3",
+      "locale": "pl",
+      "releaseDate": "2026-08-10",
+      "sections": [
+        {
+          "title": "Bezpłatne aktualizacje",
+          "items": [
+            "Teraz mogą być wyświetlane jednocześnie maksymalnie dwie czynności odpowiednie do natychmiastowego rozpoczęcia. Czynności odłożone lub pominięte na dziś nie będą się pojawiać",
+            "Dodano animacje kart przypomnień o działaniu, aby płynniej się pojawiały i znikały",
+            "Paski postępu z odliczaniem, takie jak czas czuwania i czas siedzenia, są teraz animowane wraz z upływem czasu",
+            "Dodano informacje kontekstowe w iOS pod sekcją Postęp",
+            "Dodano godziny i odliczanie do wschodu i zachodu słońca",
+            "Dodano informację o wykryciu podróży pojazdem i wstrzymaniu przypomnień o wstaniu",
+            "Zmień kolejność jest teraz łatwiejsze do znalezienia w sekcji Przypomnienia i cele",
+            "Dodano powiadomienia o aktualizacji wersji i informacje o wydaniu w aplikacji na iOS",
+            "Dodano łącze w ustawieniach iOS do oceny i recenzji todayOS w App Store",
+            "Ulepszono uruchamianie przez zachowanie poprzedniego stanu podczas jego aktualizacji",
+            "Ograniczono wielokrotne przełączanie między sugestiami światła słonecznego i ćwiczeń podczas aktualizacji pogody. Rzeczywisty postęp pozostaje widoczny, gdy przypomnienie jest tymczasowo wyciszone",
+            "Ulepszono układy dla dłuższych etykiet przycisków i większych rozmiarów tekstu",
+            "Znacznie zmniejszono zużycie pamięci i energii w stanie bezczynności podczas długiego działania todayOS na Macu oraz ulepszono aktualizacje uprawnień todayOS+ i bezpłatnych sugestii działań"
+          ]
+        },
+        {
+          "title": "Ulepszenia todayOS+",
+          "items": [
+            "Dodano prognozy deszczu i jego ustania",
+            "Dodano informacje, gdy pogoda nie sprzyja przebywaniu na słońcu lub promieniowanie UV jest podwyższone, a także lepszą porę, gdy dostępna jest odpowiednia prognoza"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.2",
       "locale": "pl",
       "releaseDate": "2026-07-27",

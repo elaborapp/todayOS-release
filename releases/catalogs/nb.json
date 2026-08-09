@@ -4,6 +4,39 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.3",
+      "locale": "nb",
+      "releaseDate": "2026-08-10",
+      "sections": [
+        {
+          "title": "Gratis oppdateringer",
+          "items": [
+            "Nå kan opptil to handlinger som passer å starte med én gang, vises samtidig. Handlinger som er utsatt eller hoppet over for i dag, vises ikke lenger",
+            "Lagt til animasjoner på handlingspåminnelseskort for jevnere visning og fjerning",
+            "Fremdriftslinjer med nedtelling, som våkentid og stillesittende tid, animeres nå etter hvert som tiden går ned",
+            "Lagt til kontekstuell informasjon på iOS under Fremdrift",
+            "Lagt til tider og nedtellinger for soloppgang og solnedgang",
+            "Lagt til informasjon når reise i et kjøretøy oppdages og påminnelser om å reise seg settes på pause",
+            "Endre rekkefølge er nå enklere å finne under Påminnelser og mål",
+            "Lagt til varsler om versjonsoppdateringer og versjonsnotater i iOS-appen",
+            "Lagt til en lenke i iOS-innstillinger for å vurdere og anmelde todayOS i App Store",
+            "Forbedret oppstartsopplevelsen ved å beholde den forrige tilstanden mens den oppdateres",
+            "Redusert gjentatt bytting mellom forslag om sollys og trening under væroppdateringer. Faktisk fremdrift forblir synlig mens en påminnelse er midlertidig slått av",
+            "Forbedret oppsett for lengre knappetekster og større tekststørrelser",
+            "Redusert minnebruk og energiforbruk ved inaktivitet betydelig når todayOS kjører lenge på Mac, og forbedret oppdateringer av todayOS+-berettigelse og gratis handlingsforslag"
+          ]
+        },
+        {
+          "title": "Forbedringer for todayOS+",
+          "items": [
+            "Lagt til prognoser for regn og når regnet stopper",
+            "Lagt til forklaringer når været er uegnet for sollys eller UV-nivået er høyt, samt et bedre tidspunkt når en passende prognose er tilgjengelig"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.2",
       "locale": "nb",
       "releaseDate": "2026-07-27",
