@@ -4,6 +4,43 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.4",
+      "locale": "fi",
+      "releaseDate": "2026-08-24",
+      "sections": [
+        {
+          "title": "Käyttökokemuksen parannukset",
+          "items": [
+            "Päänäkymän palautusnopeutta on parannettu, kun iOS- tai Apple Watch -appi avataan uudelleen",
+            "Päänäkymän toimintojen, edistymisen ja tietojen asettelua on päivitetty selkeämmäksi ja yhtenäisemmäksi",
+            "Toimintokorttien animaatioita ja käyttöpalautetta on parannettu, ja Vähennä liikettä -asetusta tuetaan",
+            "iCloudin ja Macin synkronoinnin luotettavuutta on parannettu",
+            "Macin käyttöajan laskennan tarkkuutta on parannettu",
+            "Vihjeitä ei enää näytetä nukkumisen aikana, jotta päänäkymä on rauhallisempi",
+            "Nouse ylös -muistutukset jatkuvat nyt nopeammin matkan päätyttyä",
+            "Jos poistut käyttöönotosta ja avaat apin uudelleen, valmiit kohdat säilyvät ja käyttöönotto jatkuu seuraavasta keskeneräisestä vaiheesta"
+          ]
+        },
+        {
+          "title": "todayOS+-päivityksen edut",
+          "items": [
+            "Ilmaisversio näyttää nyt päänäkymässä Kickstart Exchangen tarjoamia appisuositusmainoksia. Mainosnäyttöjä ja klikkauksia ei yhdistetä tiettyyn käyttäjään tai laitteeseen. Lisätietoja on tietosuojakäytännössämme",
+            "todayOS+ tarjoaa mainoksettoman käyttökokemuksen"
+          ]
+        },
+        {
+          "title": "Korjaukset",
+          "items": [
+            "Korjattu ongelma, jossa toimintomuistutus saattoi näkyä useammin kuin kerran",
+            "Korjattu ongelma, jossa ”Nouse ylös” saattoi hetkellisesti muuttua ensisijaiseksi muistutukseksi widgetin päivityksen jälkeen",
+            "Korjattu ongelma, jossa valmiit iltatoimet saattoivat jäädä huomiotta nukkumaanmenon siirtämisen jälkeen",
+            "Korjattu ongelma, jossa aikaisemman nukkumaanmenon asetus näytti lukon tilauksesta huolimatta"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.3",
       "locale": "fi",
       "releaseDate": "2026-08-10",

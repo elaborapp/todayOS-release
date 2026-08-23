@@ -4,6 +4,43 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.4",
+      "locale": "pt-BR",
+      "releaseDate": "2026-08-24",
+      "sections": [
+        {
+          "title": "Melhorias na experiência",
+          "items": [
+            "Melhoria na velocidade de restauração da tela principal ao reabrir os apps para iOS e Apple Watch",
+            "Atualização do layout de ações, progresso e informações na tela principal para deixar o conteúdo mais concentrado e consistente",
+            "Melhorias nas animações e no retorno dos cartões de ações, com suporte a Reduzir Movimento",
+            "Melhoria na confiabilidade da sincronização entre iCloud e Mac",
+            "Melhoria na precisão do cálculo do tempo de uso do Mac",
+            "As dicas não são mais exibidas durante o sono, deixando a tela principal mais tranquila",
+            "Os lembretes “Levante-se” são retomados mais rapidamente após o fim de um trajeto",
+            "Se você sair da introdução e reabrir o app, o conteúdo já concluído será mantido e o processo continuará na próxima etapa pendente"
+          ]
+        },
+        {
+          "title": "Vantagens de atualizar para o todayOS+",
+          "items": [
+            "A versão gratuita agora mostra na tela principal anúncios de apps recomendados fornecidos pela Kickstart Exchange. As impressões e os cliques nos anúncios não são vinculados a um usuário ou dispositivo específico. Consulte nossa Política de Privacidade para saber mais",
+            "O todayOS+ oferece uma experiência sem anúncios"
+          ]
+        },
+        {
+          "title": "Correções de problemas",
+          "items": [
+            "Correção de notificações de lembretes de ações que podiam aparecer mais de uma vez",
+            "Correção de um problema em que “Levante-se” podia se tornar brevemente um lembrete prioritário após a atualização de um widget",
+            "Correção de ações concluídas antes de dormir que podiam ser ignoradas após adiar o sono",
+            "Correção da configuração para dormir mais cedo que exibia um cadeado durante a assinatura"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.3",
       "locale": "pt-BR",
       "releaseDate": "2026-08-10",

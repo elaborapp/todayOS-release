@@ -4,6 +4,43 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.4",
+      "locale": "pl",
+      "releaseDate": "2026-08-24",
+      "sections": [
+        {
+          "title": "Ulepszenia obsługi",
+          "items": [
+            "Ulepszono szybkość przywracania ekranu głównego po ponownym otwarciu aplikacji na iOS i Apple Watch",
+            "Zaktualizowano układ działań, postępu i informacji na ekranie głównym, aby treści były bardziej uporządkowane i spójne",
+            "Ulepszono animacje i informacje zwrotne kart działań oraz dodano obsługę funkcji Ogranicz ruch",
+            "Ulepszono niezawodność synchronizacji między iCloudem a Makiem",
+            "Ulepszono dokładność obliczania czasu używania Maca",
+            "Podczas snu wskazówki nie są już wyświetlane, dzięki czemu ekran główny jest spokojniejszy",
+            "Przypomnienia „Wstań i rusz się” są teraz wznawiane szybciej po zakończeniu podróży",
+            "Po opuszczeniu samouczka i ponownym otwarciu aplikacji wykonane elementy są zachowywane, a proces wznawiany od następnego nieukończonego kroku"
+          ]
+        },
+        {
+          "title": "Korzyści z przejścia na todayOS+",
+          "items": [
+            "Bezpłatna wersja wyświetla teraz na ekranie głównym reklamy polecanych aplikacji dostarczane przez Kickstart Exchange. Wyświetlenia i kliknięcia reklam nie są powiązane z konkretnym użytkownikiem ani urządzeniem. Szczegóły znajdziesz w naszej Polityce prywatności",
+            "todayOS+ zapewnia korzystanie bez reklam"
+          ]
+        },
+        {
+          "title": "Poprawki",
+          "items": [
+            "Naprawiono problem, przez który powiadomienia z przypomnieniami o działaniach mogły pojawiać się więcej niż raz",
+            "Naprawiono problem, przez który „Wstań i rusz się” mogło na krótko stać się priorytetowym przypomnieniem po uaktualnieniu widżetu",
+            "Naprawiono problem, przez który ukończone działania przed snem mogły zostać pominięte po opóźnieniu snu",
+            "Naprawiono problem, przez który ustawienie wcześniejszego snu wyświetlało kłódkę podczas subskrypcji"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.3",
       "locale": "pl",
       "releaseDate": "2026-08-10",

@@ -4,6 +4,43 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.4",
+      "locale": "nl",
+      "releaseDate": "2026-08-24",
+      "sections": [
+        {
+          "title": "Verbeterde ervaring",
+          "items": [
+            "Verbeterde snelheid bij het herstellen van het hoofdscherm wanneer je de iOS- en Apple Watch-app opnieuw opent",
+            "Bijgewerkte indeling voor acties, voortgang en informatie op het hoofdscherm, zodat de inhoud compacter en consistenter is",
+            "Verbeterde animaties en feedback van actiekaarten, met ondersteuning voor Verminder beweging",
+            "Verbeterde betrouwbaarheid van synchronisatie tussen iCloud en Mac",
+            "Verbeterde nauwkeurigheid van de berekening van de Mac-gebruikstijd",
+            "Tips worden niet meer getoond terwijl je slaapt, zodat het hoofdscherm rustiger blijft",
+            "‘Sta op’-herinneringen worden sneller hervat nadat een rit is afgelopen",
+            "Als je de introductie verlaat en de app opnieuw opent, blijft wat je al hebt voltooid bewaard en ga je verder bij de volgende onvoltooide stap"
+          ]
+        },
+        {
+          "title": "Voordelen van upgraden naar todayOS+",
+          "items": [
+            "De gratis versie toont nu aanbevelingsadvertenties voor apps van Kickstart Exchange op het hoofdscherm. Advertentievertoningen en klikken worden niet gekoppeld aan een specifieke gebruiker of een specifiek apparaat. Bekijk ons privacybeleid voor meer informatie",
+            "todayOS+ biedt een advertentievrije ervaring"
+          ]
+        },
+        {
+          "title": "Probleemoplossingen",
+          "items": [
+            "Opgelost dat meldingen voor actieherinneringen soms meer dan één keer verschenen",
+            "Opgelost dat ‘Sta op’ na een widgetupdate soms kort een prioriteitsherinnering werd",
+            "Opgelost dat voltooide acties voor het slapengaan soms werden overgeslagen nadat de slaaptijd was uitgesteld",
+            "Opgelost dat de instelling voor eerder naar bed gaan tijdens een abonnement een slot toonde"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.3",
       "locale": "nl",
       "releaseDate": "2026-08-10",

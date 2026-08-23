@@ -4,6 +4,43 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.4",
+      "locale": "it",
+      "releaseDate": "2026-08-24",
+      "sections": [
+        {
+          "title": "Miglioramenti dell’esperienza",
+          "items": [
+            "Migliorata la velocità di ripristino della schermata principale quando riapri le app iOS e Apple Watch",
+            "Aggiornato il layout di azioni, progressi e informazioni nella schermata principale, per contenuti più raccolti e coerenti",
+            "Migliorate le animazioni e il riscontro delle schede azione, con supporto per Riduci movimento",
+            "Migliorata l’affidabilità della sincronizzazione tra iCloud e Mac",
+            "Migliorata la precisione del calcolo del tempo di utilizzo del Mac",
+            "Durante il sonno i suggerimenti non vengono più mostrati, per una schermata principale più tranquilla",
+            "I promemoria “Alzati” riprendono più rapidamente al termine di uno spostamento",
+            "Se esci dall’introduzione e riapri l’app, quanto già completato viene conservato e puoi riprendere dal passaggio successivo non completato"
+          ]
+        },
+        {
+          "title": "Vantaggi dell’upgrade a todayOS+",
+          "items": [
+            "La versione gratuita ora mostra nella schermata principale annunci di app consigliate forniti da Kickstart Exchange. Le visualizzazioni e i clic sugli annunci non sono collegati a un utente o dispositivo specifico. Consulta la nostra Informativa sulla privacy per i dettagli",
+            "todayOS+ offre un’esperienza senza pubblicità"
+          ]
+        },
+        {
+          "title": "Correzioni",
+          "items": [
+            "Risolto un problema per cui le notifiche dei promemoria delle azioni potevano apparire più di una volta",
+            "Risolto un problema per cui “Alzati” poteva diventare brevemente un promemoria prioritario dopo l’aggiornamento di un widget",
+            "Risolto un problema per cui le azioni serali completate potevano essere ignorate dopo aver posticipato il sonno",
+            "Risolto un problema per cui la configurazione per andare a dormire prima mostrava un lucchetto durante l’abbonamento"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.3",
       "locale": "it",
       "releaseDate": "2026-08-10",

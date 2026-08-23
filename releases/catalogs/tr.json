@@ -4,6 +4,43 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.4",
+      "locale": "tr",
+      "releaseDate": "2026-08-24",
+      "sections": [
+        {
+          "title": "Deneyim iyileştirmeleri",
+          "items": [
+            "iOS ve Apple Watch uygulamaları yeniden açıldığında ana ekranın geri yüklenme hızı iyileştirildi",
+            "İçeriği daha toplu ve tutarlı hale getirmek için ana ekrandaki eylem, ilerleme ve bilgi düzeni güncellendi",
+            "Eylem kartı animasyonları ve etkileşim geri bildirimleri iyileştirildi; Hareketi Azalt desteği eklendi",
+            "iCloud ve Mac eşzamanlama güvenilirliği iyileştirildi",
+            "Mac kullanım süresi hesaplamalarının doğruluğu artırıldı",
+            "Uyku sırasında ipuçları artık gösterilmiyor; böylece ana ekran daha sakin kalıyor",
+            "“Ayağa kalk” hatırlatmaları yolculuk sona erdikten sonra artık daha hızlı devam ediyor",
+            "Yeni kullanıcı eğitiminden çıkıp uygulamayı yeniden açarsanız tamamlanan içerikler korunur ve bir sonraki tamamlanmamış adımdan devam edilir"
+          ]
+        },
+        {
+          "title": "todayOS+ sürümüne yükseltmenin avantajları",
+          "items": [
+            "Ücretsiz sürüm artık ana ekranda Kickstart Exchange tarafından sağlanan uygulama önerisi reklamları gösteriyor. Reklam gösterimleri ve tıklamalar belirli bir kullanıcı veya cihazla ilişkilendirilmez. Ayrıntılar için Gizlilik Politikamıza bakın",
+            "todayOS+ reklamsız bir deneyim sunar"
+          ]
+        },
+        {
+          "title": "Sorun düzeltmeleri",
+          "items": [
+            "Eylem hatırlatıcısı bildirimlerinin birden fazla kez görünebilmesi sorunu düzeltildi",
+            "Bir araç takımı güncellendikten sonra “Ayağa kalk” eyleminin kısa süreliğine öncelikli hatırlatıcı olabilmesi sorunu düzeltildi",
+            "Uyku ertelendikten sonra tamamlanmış yatma zamanı eylemlerinin gözden kaçabilmesi sorunu düzeltildi",
+            "Abonelik sırasında erken yatma ayarı girişinde kilit simgesi gösterilmesi sorunu düzeltildi"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.3",
       "locale": "tr",
       "releaseDate": "2026-08-10",

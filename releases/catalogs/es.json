@@ -4,6 +4,43 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.4",
+      "locale": "es",
+      "releaseDate": "2026-08-24",
+      "sections": [
+        {
+          "title": "Mejoras de la experiencia",
+          "items": [
+            "Se mejoró la velocidad de restauración de la pantalla principal al volver a abrir las apps de iOS y Apple Watch",
+            "Se actualizó el diseño de las acciones, el progreso y la información de la pantalla principal para que el contenido sea más compacto y coherente",
+            "Se mejoraron las animaciones y la respuesta de las tarjetas de acciones, con compatibilidad con Reducir movimiento",
+            "Se mejoró la fiabilidad de la sincronización entre iCloud y Mac",
+            "Se mejoró la precisión del cálculo del tiempo de uso del Mac",
+            "Las indicaciones ya no se muestran durante el sueño, para que la pantalla principal sea más tranquila",
+            "Los recordatorios «Levantarse» se reanudan antes al terminar un trayecto",
+            "Si se sale de la introducción y se vuelve a abrir la app, ahora se conserva lo completado y se reanuda en el siguiente paso pendiente"
+          ]
+        },
+        {
+          "title": "Ventajas de actualizar a todayOS+",
+          "items": [
+            "La versión gratuita ahora muestra en la pantalla principal anuncios de apps recomendadas proporcionados por Kickstart Exchange; las visualizaciones y los clics de los anuncios no se vinculan a ningún usuario ni a ningún dispositivo específico. Consulta nuestra Política de Privacidad para obtener más información",
+            "todayOS+ ofrece una experiencia sin anuncios"
+          ]
+        },
+        {
+          "title": "Correcciones",
+          "items": [
+            "Se corrigió un problema por el que las notificaciones de recordatorios de acciones podían aparecer más de una vez",
+            "Se corrigió un problema por el que «Levantarse» podía convertirse brevemente en un recordatorio prioritario después de actualizar un widget",
+            "Se corrigió un problema por el que las acciones completadas antes de dormir podían pasarse por alto después de retrasar la hora de dormir",
+            "Se corrigió un problema por el que la configuración para acostarse antes mostraba un candado durante la suscripción"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.3",
       "locale": "es",
       "releaseDate": "2026-08-10",

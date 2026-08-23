@@ -4,6 +4,43 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.4",
+      "locale": "en-CA",
+      "releaseDate": "2026-08-24",
+      "sections": [
+        {
+          "title": "Experience improvements",
+          "items": [
+            "Improved main-screen restoration speed when reopening the iOS and Apple Watch apps",
+            "Updated the main screen’s action, progress, and information layout to make content more focused and consistent",
+            "Improved action-card animations and interaction feedback, with support for Reduce Motion",
+            "Improved iCloud and Mac sync reliability",
+            "Improved the accuracy of Mac usage-time calculations",
+            "Hints are no longer shown during sleep, keeping the main screen calmer",
+            "“Stand Up” reminders now resume sooner after a ride ends",
+            "If you leave onboarding and reopen the app, todayOS now keeps what you’ve completed and resumes at the next unfinished step"
+          ]
+        },
+        {
+          "title": "Benefits of upgrading to todayOS+",
+          "items": [
+            "The free version now shows app recommendation ads from Kickstart Exchange on the main screen; ad impressions and clicks are not linked to a specific user or device. See our Privacy Policy for details",
+            "todayOS+ provides an ad-free experience"
+          ]
+        },
+        {
+          "title": "Bug fixes",
+          "items": [
+            "Fixed action reminder notifications sometimes appearing more than once",
+            "Fixed “Stand Up” sometimes briefly becoming a priority reminder after a widget update",
+            "Fixed completed bedtime actions sometimes being overlooked after delaying sleep",
+            "Fixed the early-bedtime settings entry still showing a lock while subscribed"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.3",
       "locale": "en-CA",
       "releaseDate": "2026-08-10",

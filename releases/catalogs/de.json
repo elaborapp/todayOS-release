@@ -4,6 +4,43 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.4",
+      "locale": "de",
+      "releaseDate": "2026-08-24",
+      "sections": [
+        {
+          "title": "Verbesserungen",
+          "items": [
+            "Die Wiederherstellung des Hauptbildschirms beim erneuten Öffnen der iOS- und Apple Watch-App wurde beschleunigt",
+            "Das Layout für Aktionen, Fortschritt und Informationen auf dem Hauptbildschirm wurde übersichtlicher und einheitlicher gestaltet",
+            "Animationen und Bedienungsrückmeldungen der Aktionskarten wurden verbessert und unterstützen „Bewegung reduzieren“",
+            "Die Zuverlässigkeit der Synchronisierung zwischen iCloud und Mac wurde verbessert",
+            "Die Berechnung der Mac-Nutzungszeit wurde präzisiert",
+            "Während des Schlafs werden keine Hinweise mehr angezeigt, damit der Hauptbildschirm ruhiger wirkt",
+            "Erinnerungen an „Aufstehen“ werden nach dem Ende einer Fahrt jetzt schneller fortgesetzt",
+            "Wenn die Einführung verlassen und die App erneut geöffnet wird, bleiben abgeschlossene Inhalte erhalten und sie wird beim nächsten offenen Schritt fortgesetzt"
+          ]
+        },
+        {
+          "title": "Vorteile eines Upgrades auf todayOS+",
+          "items": [
+            "Die kostenlose Version zeigt auf dem Hauptbildschirm jetzt von Kickstart Exchange bereitgestellte App-Empfehlungsanzeigen. Anzeigenimpressionen und Klicks werden keinem bestimmten Benutzer oder Gerät zugeordnet. Weitere Informationen finden Sie in unserer Datenschutzrichtlinie",
+            "todayOS+ bietet ein werbefreies Erlebnis"
+          ]
+        },
+        {
+          "title": "Fehlerbehebungen",
+          "items": [
+            "Ein Problem wurde behoben, durch das Benachrichtigungen zu Handlungserinnerungen mehrfach erscheinen konnten",
+            "Ein Problem wurde behoben, durch das „Aufstehen“ nach einer Widget-Aktualisierung kurzzeitig zu einer priorisierten Erinnerung werden konnte",
+            "Ein Problem wurde behoben, durch das erledigte Aktionen vor dem Schlafengehen nach dem Verschieben der Schlafenszeit übersehen werden konnten",
+            "Ein Problem wurde behoben, durch das der Eintrag zur früheren Schlafenszeit trotz Abonnement ein Schloss anzeigte"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.3",
       "locale": "de",
       "releaseDate": "2026-08-10",

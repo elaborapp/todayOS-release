@@ -4,6 +4,43 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.4",
+      "locale": "da",
+      "releaseDate": "2026-08-24",
+      "sections": [
+        {
+          "title": "Forbedret oplevelse",
+          "items": [
+            "Forbedret hastigheden ved gendannelse af hovedskærmen, når iOS- og Apple Watch-appen åbnes igen",
+            "Opdateret hovedskærmens layout for handlinger, fremskridt og oplysninger, så indholdet er mere samlet og ensartet",
+            "Forbedret animationer og feedback på handlingskort med understøttelse af Reducer bevægelse",
+            "Forbedret stabilitet ved synkronisering mellem iCloud og Mac",
+            "Forbedret nøjagtigheden af beregningen af brugstid på Mac",
+            "Tip vises ikke længere, mens du sover, så hovedskærmen virker mere rolig",
+            "“Stå op”-påmindelser genoptages nu hurtigere, når en tur er slut",
+            "Hvis du forlader introduktionen og åbner appen igen, gemmes det, du allerede har fuldført, og den fortsætter fra næste ufærdige trin"
+          ]
+        },
+        {
+          "title": "Fordele ved at opgradere til todayOS+",
+          "items": [
+            "Gratisversionen viser nu annoncer med appanbefalinger fra Kickstart Exchange på hovedskærmen. Annoncevisninger og klik knyttes ikke til en bestemt bruger eller enhed. Se vores anonymitetspolitik for at få flere oplysninger",
+            "todayOS+ giver en oplevelse uden annoncer"
+          ]
+        },
+        {
+          "title": "Fejlrettelser",
+          "items": [
+            "Rettet et problem, hvor handlingspåmindelser kunne blive vist mere end én gang",
+            "Rettet et problem, hvor “Stå op” kortvarigt kunne blive en prioriteret påmindelse efter en widgetopdatering",
+            "Rettet et problem, hvor fuldførte handlinger før sengetid kunne blive overset efter udsættelse af søvnen",
+            "Rettet et problem, hvor indstillingen til tidligere sengetid viste en lås under et aktivt abonnement"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.3",
       "locale": "da",
       "releaseDate": "2026-08-10",

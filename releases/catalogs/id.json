@@ -4,6 +4,43 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.4",
+      "locale": "id",
+      "releaseDate": "2026-08-24",
+      "sections": [
+        {
+          "title": "Peningkatan pengalaman",
+          "items": [
+            "Meningkatkan kecepatan pemulihan layar utama saat membuka kembali app iOS dan Apple Watch",
+            "Memperbarui tata letak tindakan, progres, dan informasi di layar utama agar konten lebih terpusat dan konsisten",
+            "Meningkatkan animasi kartu tindakan dan tanggapan interaksi, dengan dukungan Kurangi Gerakan",
+            "Meningkatkan keandalan sinkronisasi iCloud dan Mac",
+            "Meningkatkan akurasi penghitungan waktu penggunaan Mac",
+            "Petunjuk kini tidak ditampilkan saat Anda tidur agar layar utama terasa lebih tenang",
+            "Pengingat “Berdiri” kini dilanjutkan lebih cepat setelah perjalanan berakhir",
+            "Jika Anda keluar dari pengenalan pengguna baru lalu membuka kembali app, bagian yang sudah diselesaikan kini tetap tersimpan dan dilanjutkan dari langkah berikutnya yang belum selesai"
+          ]
+        },
+        {
+          "title": "Manfaat meningkatkan ke todayOS+",
+          "items": [
+            "Versi gratis kini menampilkan iklan rekomendasi app dari Kickstart Exchange di layar utama; tayangan dan klik iklan tidak ditautkan ke pengguna atau perangkat tertentu. Lihat Kebijakan Privasi kami untuk detailnya",
+            "todayOS+ memberikan pengalaman bebas iklan"
+          ]
+        },
+        {
+          "title": "Perbaikan masalah",
+          "items": [
+            "Memperbaiki notifikasi pengingat tindakan yang terkadang muncul lebih dari sekali",
+            "Memperbaiki “Berdiri” yang terkadang menjadi pengingat prioritas sesaat setelah widget diperbarui",
+            "Memperbaiki tindakan sebelum tidur yang sudah selesai namun terkadang terlewat setelah waktu tidur ditunda",
+            "Memperbaiki entri pengaturan tidur lebih awal yang tetap menampilkan ikon gembok saat berlangganan"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.3",
       "locale": "id",
       "releaseDate": "2026-08-10",

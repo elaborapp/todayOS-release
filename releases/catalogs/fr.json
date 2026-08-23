@@ -4,6 +4,43 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.4",
+      "locale": "fr",
+      "releaseDate": "2026-08-24",
+      "sections": [
+        {
+          "title": "Améliorations de l’expérience",
+          "items": [
+            "Amélioration de la vitesse de restauration de l’écran principal lors de la réouverture des apps iOS et Apple Watch",
+            "Mise à jour de la disposition des actions, de la progression et des informations sur l’écran principal pour un contenu plus regroupé et cohérent",
+            "Amélioration des animations et du retour d’interaction des cartes d’action, avec prise en charge de Réduire les animations",
+            "Amélioration de la fiabilité de la synchronisation entre iCloud et Mac",
+            "Amélioration de la précision du calcul du temps d’utilisation du Mac",
+            "Les conseils ne s’affichent plus pendant le sommeil, pour un écran principal plus calme",
+            "Les rappels « Se lever » reprennent plus rapidement après la fin d’un trajet",
+            "Si vous quittez la prise en main puis rouvrez l’app, les éléments terminés sont désormais conservés et la reprise se fait à l’étape suivante non terminée"
+          ]
+        },
+        {
+          "title": "Avantages de la mise à niveau vers todayOS+",
+          "items": [
+            "La version gratuite affiche désormais sur l’écran principal des publicités de recommandation d’apps fournies par Kickstart Exchange. Les affichages et les clics publicitaires ne sont associés ni à un utilisateur précis ni à un appareil précis. Consultez notre politique de confidentialité pour en savoir plus",
+            "todayOS+ offre une expérience sans publicité"
+          ]
+        },
+        {
+          "title": "Corrections de problèmes",
+          "items": [
+            "Correction de notifications de rappel d’action pouvant apparaître plusieurs fois",
+            "Correction d’un problème pouvant faire de « Se lever » un rappel prioritaire pendant un court instant après la mise à jour d’un widget",
+            "Correction d’un problème pouvant ignorer des actions du coucher déjà terminées après avoir retardé l’heure du coucher",
+            "Correction du cadenas affiché dans le réglage du coucher anticipé pendant un abonnement"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.3",
       "locale": "fr",
       "releaseDate": "2026-08-10",
