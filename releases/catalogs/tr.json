@@ -4,6 +4,37 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.5",
+      "locale": "tr",
+      "releaseDate": "2026-09-07",
+      "sections": [
+        {
+          "title": "Yeni özellikler",
+          "items": [
+            "todayOS artık iPad’i destekliyor. Ana ekran, ayarlar, tanıtım, todayOS+ planları ve araç takımları büyük ekranlar için uyarlandı; dikey, yatay ve yeniden boyutlandırılabilir pencereler destekleniyor",
+            "todayOS+ artık bölgenizdeki etkin hava durumu uyarılarını iPhone ve iPad ana ekranında gösterebilir. Tüm ayrıntıları ve kaynağı görmek için bir uyarıya dokunun",
+            "Uyanık aşamanızın dışındaki yemek saatleri artık ayarlarda ve tanıtımda açıkça işaretleniyor ve en yakın geçerli saate hızla taşınabiliyor"
+          ]
+        },
+        {
+          "title": "Deneyim iyileştirmeleri",
+          "items": [
+            "Abonelik durumunuzdaki değişiklikler artık todayOS+ tercihlerinizi geçersiz kılmıyor. Yeniden abone olduğunuzda hava durumu, uyku, stres, sıvı alımı, iCloud eşzamanlama, görünüm ve diğer ayarlar geri geliyor",
+            "iPad’i geniş veya yeniden boyutlandırılabilir pencerelerde kullanırken içerik genişliği, plan düzenleri, ayar satırları ve büyük düzenleme sayfaları iyileştirildi",
+            "Güneş ışığı koşulları uygun olmadıktan sonra “Güneş ışığı al” eylem anımsatıcısının ne zaman geri döneceği daha açık hâle getirildi"
+          ]
+        },
+        {
+          "title": "Hata düzeltmeleri",
+          "items": [
+            "Uzun ayar adları alt satıra geçtiğinde okların sağ kenarda hizalı kalmaması düzeltildi",
+            "Kararlılık ve arayüz ayrıntıları iyileştirildi"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.4",
       "locale": "tr",
       "releaseDate": "2026-08-24",

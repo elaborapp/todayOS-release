@@ -3,7 +3,7 @@
 Public download assets for todayOS.
 
 - Website: https://today-os.app
-- Press Kit: https://github.com/elaborapp/todayOS-release/releases/download/presskit-2026/todayOS-PressKit-2026.zip
+- Press Kit: https://today-os.app/press-kit.html
 
 ## In-app release notes
 

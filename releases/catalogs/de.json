@@ -4,6 +4,37 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.5",
+      "locale": "de",
+      "releaseDate": "2026-09-07",
+      "sections": [
+        {
+          "title": "Neue Funktionen",
+          "items": [
+            "todayOS unterstützt jetzt iPad. Hauptbildschirm, Einstellungen, Einführung, todayOS+-Tarife und Widgets wurden für größere Displays optimiert und unterstützen Hochformat, Querformat und größenveränderbare Fenster",
+            "todayOS+ kann jetzt aktive Wetterwarnungen für deine Region auf dem Hauptbildschirm von iPhone und iPad anzeigen. Tippe auf eine Warnung, um alle Details und die Quelle zu sehen",
+            "Essenszeiten außerhalb deiner Wachphase werden jetzt in den Einstellungen und bei der Einführung deutlich markiert und lassen sich schnell auf die nächstgelegene gültige Zeit verschieben"
+          ]
+        },
+        {
+          "title": "Verbesserungen",
+          "items": [
+            "Änderungen deines Abostatus überschreiben deine todayOS+-Einstellungen nicht mehr. Wetter, Schlaf, Stress, Flüssigkeitszufuhr, iCloud-Synchronisierung, Darstellung und weitere Einstellungen werden bei einem erneuten Abo wiederhergestellt",
+            "Verbesserte Inhaltsbreite, Tarifdarstellung, Einstellungszeilen und große Bearbeitungsansichten bei der Nutzung von iPad in breiten oder größenveränderbaren Fenstern",
+            "Klarer erläutert, wann die Aktionserinnerung „Sonne tanken“ nach ungeeigneten Sonnenlichtbedingungen zurückkehrt"
+          ]
+        },
+        {
+          "title": "Fehlerbehebungen",
+          "items": [
+            "Problem behoben, bei dem Pfeile bei umgebrochenen langen Einstellungsnamen nicht am rechten Rand ausgerichtet blieben",
+            "Stabilität und Details der Benutzeroberfläche verbessert"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.4",
       "locale": "de",
       "releaseDate": "2026-08-24",

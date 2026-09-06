@@ -4,6 +4,37 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.5",
+      "locale": "fr",
+      "releaseDate": "2026-09-07",
+      "sections": [
+        {
+          "title": "Nouveautés",
+          "items": [
+            "todayOS est désormais compatible avec iPad. L’écran principal, les réglages, l’intégration, les offres todayOS+ et les widgets sont adaptés aux grands écrans, en orientation portrait ou paysage et dans les fenêtres redimensionnables",
+            "todayOS+ peut désormais afficher les alertes météo actives de votre région sur l’écran principal d’iPhone et d’iPad. Touchez une alerte pour consulter tous les détails et la source",
+            "Les heures de repas situées en dehors de votre phase d’éveil sont désormais clairement signalées dans les réglages et l’intégration, et peuvent être rapidement déplacées vers l’heure valide la plus proche"
+          ]
+        },
+        {
+          "title": "Améliorations de l’expérience",
+          "items": [
+            "Les changements d’état de votre abonnement n’écrasent plus vos préférences todayOS+. La météo, le sommeil, le stress, l’hydratation, la synchronisation iCloud, l’apparence et les autres réglages sont restaurés lorsque vous vous réabonnez",
+            "Amélioration de la largeur du contenu, de la présentation des offres, des lignes de réglages et des grandes feuilles d’édition sur iPad dans les fenêtres larges ou redimensionnables",
+            "Clarification du moment où le rappel d’action « Prendre le soleil » revient après des conditions d’ensoleillement inadaptées"
+          ]
+        },
+        {
+          "title": "Corrections",
+          "items": [
+            "Correction de l’alignement à droite des chevrons lorsque les noms de réglages longs passent sur plusieurs lignes",
+            "Amélioration de la stabilité et des détails de l’interface"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.4",
       "locale": "fr",
       "releaseDate": "2026-08-24",

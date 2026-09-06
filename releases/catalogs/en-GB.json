@@ -4,6 +4,37 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.5",
+      "locale": "en-GB",
+      "releaseDate": "2026-09-07",
+      "sections": [
+        {
+          "title": "New features",
+          "items": [
+            "todayOS now supports iPad. The main screen, settings, onboarding, todayOS+ plans, and widgets are optimized for larger displays, with support for portrait, landscape, and resizable windows",
+            "todayOS+ can now show currently active weather alerts for your area on the main screen of iPhone and iPad. Tap an alert to view its full details and source",
+            "Meal times outside your awake phase are now clearly marked in settings and onboarding, with an option to move them to the nearest valid time"
+          ]
+        },
+        {
+          "title": "Experience improvements",
+          "items": [
+            "Changes to your subscription status no longer overwrite your todayOS+ preferences. Weather, sleep, stress, hydration, iCloud sync, appearance, and other settings return when you resubscribe",
+            "Improved content width, plan layouts, settings rows, and large editor sheets when using iPad in wider or resizable windows",
+            "Clarified when the “Get Daylight” action reminder will return after sunlight conditions are unsuitable"
+          ]
+        },
+        {
+          "title": "Bug fixes",
+          "items": [
+            "Fixed chevrons not staying aligned to the trailing edge when longer setting names wrap",
+            "Improved stability and interface details"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.4",
       "locale": "en-GB",
       "releaseDate": "2026-08-24",

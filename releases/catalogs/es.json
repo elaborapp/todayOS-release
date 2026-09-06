@@ -4,6 +4,37 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.5",
+      "locale": "es",
+      "releaseDate": "2026-09-07",
+      "sections": [
+        {
+          "title": "Novedades",
+          "items": [
+            "todayOS ahora es compatible con iPad. La pantalla principal, los ajustes, la introducción, los planes de todayOS+ y los widgets están adaptados a pantallas grandes y admiten orientación vertical, horizontal y ventanas redimensionables",
+            "todayOS+ ahora puede mostrar las alertas meteorológicas activas de tu zona en la pantalla principal de iPhone y iPad. Toca una alerta para consultar todos los detalles y la fuente",
+            "Los horarios de comida fuera de tu fase despierta ahora se señalan claramente en los ajustes y la introducción, y pueden moverse rápidamente a la hora válida más cercana"
+          ]
+        },
+        {
+          "title": "Mejoras de la experiencia",
+          "items": [
+            "Los cambios en el estado de tu suscripción ya no sobrescriben tus preferencias de todayOS+. El tiempo, el sueño, el estrés, la hidratación, la sincronización con iCloud, la apariencia y otros ajustes se recuperan cuando vuelves a suscribirte",
+            "Se han mejorado el ancho del contenido, la disposición de los planes, las filas de ajustes y las hojas de edición grandes al usar iPad en ventanas amplias o redimensionables",
+            "Se ha aclarado cuándo volverá el recordatorio de acción «Tomar luz natural» después de unas condiciones de luz solar inadecuadas"
+          ]
+        },
+        {
+          "title": "Correcciones",
+          "items": [
+            "Se corrigió la alineación de los indicadores al final de la fila cuando los nombres largos de los ajustes ocupan varias líneas",
+            "Se mejoraron la estabilidad y los detalles de la interfaz"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.4",
       "locale": "es",
       "releaseDate": "2026-08-24",

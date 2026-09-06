@@ -4,6 +4,37 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.5",
+      "locale": "id",
+      "releaseDate": "2026-09-07",
+      "sections": [
+        {
+          "title": "Fitur baru",
+          "items": [
+            "todayOS kini mendukung iPad. Layar utama, pengaturan, pengenalan, paket todayOS+, dan widget telah disesuaikan untuk layar besar serta mendukung orientasi potret, lanskap, dan jendela yang dapat diubah ukurannya",
+            "todayOS+ kini dapat menampilkan peringatan cuaca aktif di wilayah Anda pada layar utama iPhone dan iPad. Ketuk peringatan untuk melihat detail lengkap dan sumbernya",
+            "Waktu makan di luar fase bangun kini ditandai dengan jelas di pengaturan dan pengenalan, serta dapat dipindahkan dengan cepat ke waktu valid terdekat"
+          ]
+        },
+        {
+          "title": "Peningkatan pengalaman",
+          "items": [
+            "Perubahan status langganan tidak lagi menimpa preferensi todayOS+ Anda. Pengaturan cuaca, tidur, stres, hidrasi, sinkronisasi iCloud, tampilan, dan lainnya kembali saat Anda berlangganan lagi",
+            "Meningkatkan lebar konten, tata letak paket, baris pengaturan, dan lembar editor besar saat menggunakan iPad dalam jendela lebar atau yang dapat diubah ukurannya",
+            "Memperjelas kapan pengingat tindakan “Berjemur” akan kembali setelah kondisi sinar matahari tidak sesuai"
+          ]
+        },
+        {
+          "title": "Perbaikan bug",
+          "items": [
+            "Memperbaiki chevron yang tidak tetap rata di tepi kanan saat nama pengaturan panjang berpindah baris",
+            "Meningkatkan stabilitas dan detail antarmuka"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.4",
       "locale": "id",
       "releaseDate": "2026-08-24",
