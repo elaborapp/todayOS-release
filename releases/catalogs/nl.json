@@ -4,6 +4,37 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.5",
+      "locale": "nl",
+      "releaseDate": "2026-09-07",
+      "sections": [
+        {
+          "title": "Nieuwe functies",
+          "items": [
+            "todayOS ondersteunt nu iPad. Het hoofdscherm, de instellingen, introductie, todayOS+-abonnementen en widgets zijn aangepast voor grotere schermen en ondersteunen staande en liggende weergave en vensters waarvan je de grootte kunt wijzigen",
+            "todayOS+ kan nu actieve weerwaarschuwingen voor je regio tonen op het hoofdscherm van iPhone en iPad. Tik op een waarschuwing voor alle details en de bron",
+            "Maaltijdtijden buiten je wakkere fase worden nu duidelijk gemarkeerd in de instellingen en introductie en kunnen snel naar het dichtstbijzijnde geldige tijdstip worden verplaatst"
+          ]
+        },
+        {
+          "title": "Verbeteringen",
+          "items": [
+            "Wijzigingen in je abonnementsstatus overschrijven je todayOS+-voorkeuren niet meer. Weer, slaap, stress, hydratatie, iCloud-synchronisatie, weergave en andere instellingen keren terug wanneer je je opnieuw abonneert",
+            "Verbeterde inhoudsbreedte, abonnementsindeling, instellingenrijen en grote bewerkingsvensters bij gebruik van iPad in brede of aanpasbare vensters",
+            "Duidelijker gemaakt wanneer de actieherinnering ‘Pak daglicht’ terugkeert nadat de omstandigheden voor zonlicht ongeschikt waren"
+          ]
+        },
+        {
+          "title": "Probleemoplossingen",
+          "items": [
+            "Probleem verholpen waarbij pijlen niet rechts uitgelijnd bleven als lange namen van instellingen over meerdere regels liepen",
+            "Stabiliteit en details van de interface verbeterd"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.4",
       "locale": "nl",
       "releaseDate": "2026-08-24",

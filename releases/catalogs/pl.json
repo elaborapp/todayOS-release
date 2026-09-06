@@ -4,6 +4,37 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.5",
+      "locale": "pl",
+      "releaseDate": "2026-09-07",
+      "sections": [
+        {
+          "title": "Nowe funkcje",
+          "items": [
+            "todayOS obsługuje teraz iPad. Ekran główny, ustawienia, wprowadzenie, plany todayOS+ i widżety dostosowano do większych ekranów oraz orientacji pionowej, poziomej i okien o zmiennym rozmiarze",
+            "todayOS+ może teraz wyświetlać aktywne alerty pogodowe dla Twojego regionu na ekranie głównym iPhone’a i iPada. Stuknij alert, aby zobaczyć pełne informacje i źródło",
+            "Pory posiłków poza fazą czuwania są teraz wyraźnie oznaczone w ustawieniach i podczas wprowadzenia oraz można je szybko przenieść na najbliższą prawidłową godzinę"
+          ]
+        },
+        {
+          "title": "Ulepszenia",
+          "items": [
+            "Zmiany stanu subskrypcji nie zastępują już preferencji todayOS+. Ustawienia pogody, snu, stresu, nawodnienia, synchronizacji iCloud, wyglądu i inne zostają przywrócone po ponownej subskrypcji",
+            "Ulepszono szerokość treści, układ planów, wiersze ustawień i duże arkusze edycji podczas używania iPada w szerokich oknach lub oknach o zmiennym rozmiarze",
+            "Wyjaśniono, kiedy przypomnienie o działaniu „Wyjdź na słońce” powróci po nieodpowiednich warunkach nasłonecznienia"
+          ]
+        },
+        {
+          "title": "Poprawki błędów",
+          "items": [
+            "Naprawiono wyrównanie strzałek do prawej krawędzi, gdy długie nazwy ustawień przechodzą do kolejnego wiersza",
+            "Poprawiono stabilność i szczegóły interfejsu"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.4",
       "locale": "pl",
       "releaseDate": "2026-08-24",

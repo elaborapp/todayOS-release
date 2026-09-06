@@ -4,6 +4,37 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.5",
+      "locale": "fi",
+      "releaseDate": "2026-09-07",
+      "sections": [
+        {
+          "title": "Uudet ominaisuudet",
+          "items": [
+            "todayOS tukee nyt iPadia. Päänäyttö, asetukset, käyttöönotto, todayOS+-tilaukset ja widgetit on mukautettu suurille näytöille sekä pysty- ja vaaka-asentoon ja kooltaan muutettaviin ikkunoihin",
+            "todayOS+ voi nyt näyttää alueesi voimassa olevat säävaroitukset iPhonen ja iPadin päänäytöllä. Napauta varoitusta nähdäksesi kaikki tiedot ja lähteen",
+            "Valveilla-vaiheen ulkopuoliset ateria-ajat merkitään nyt selkeästi asetuksissa ja käyttöönotossa, ja ne voi siirtää nopeasti lähimpään kelvolliseen aikaan"
+          ]
+        },
+        {
+          "title": "Käyttökokemuksen parannukset",
+          "items": [
+            "Tilauksen tilan muutokset eivät enää korvaa todayOS+-asetuksiasi. Sää-, uni-, stressi-, nesteytys-, iCloud-synkronointi-, ulkoasu- ja muut asetukset palautuvat, kun tilaat uudelleen",
+            "Sisällön leveyttä, tilausten asettelua, asetusrivejä ja suuria muokkausnäkymiä on parannettu käytettäessä iPadia leveissä tai kooltaan muutettavissa ikkunoissa",
+            "Selkeytetty, milloin ”Hanki päivänvaloa” -toimintamuistutus palaa auringonvalo-olosuhteiden oltua sopimattomat"
+          ]
+        },
+        {
+          "title": "Virheenkorjaukset",
+          "items": [
+            "Korjattu nuolten kohdistus oikeaan reunaan pitkien asetusten nimien rivittyessä",
+            "Parannettu vakautta ja käyttöliittymän yksityiskohtia"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.4",
       "locale": "fi",
       "releaseDate": "2026-08-24",
