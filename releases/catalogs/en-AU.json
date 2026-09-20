@@ -4,6 +4,35 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.6",
+      "locale": "en-AU",
+      "releaseDate": "2026-09-21",
+      "sections": [
+        {
+          "title": "New features",
+          "items": [
+            "Siri and Shortcuts support on iPhone and iPad: check your current action, progress and sleep plan, log water, tooth brushing, meals and showers, and adjust sleep times and action reminders"
+          ]
+        },
+        {
+          "title": "Experience improvements",
+          "items": [
+            "Keep today's existing health progress and records when changing time zones",
+            "After enabling health-related features on iPhone and iPad, authorized health data is read again so action reminders reflect changes sooner"
+          ]
+        },
+        {
+          "title": "Bug fixes",
+          "items": [
+            "Fixed shower reminders disappearing unexpectedly and daylight reminders not correctly reflecting forecast changes",
+            "Improved the reliability of Apple Watch, widget and cross-device health data updates, preventing older data from replacing newer progress",
+            "Canceling edits to settings for saving data to Apple Health now discards unsaved changes"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.5",
       "locale": "en-AU",
       "releaseDate": "2026-09-07",

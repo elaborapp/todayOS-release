@@ -4,6 +4,35 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.6",
+      "locale": "es",
+      "releaseDate": "2026-09-21",
+      "sections": [
+        {
+          "title": "Novedades",
+          "items": [
+            "Compatibilidad con Siri y Atajos en iPhone y iPad: consulta la acción actual, el progreso y el plan de sueño, registra agua, cepillado de dientes, comidas y duchas, y ajusta los horarios de sueño y los recordatorios de acciones"
+          ]
+        },
+        {
+          "title": "Mejoras de la experiencia",
+          "items": [
+            "Al cambiar de zona horaria, se conservan el progreso y los registros de salud de hoy",
+            "Al activar funciones de salud en iPhone y iPad, se vuelven a leer los datos autorizados para que los recordatorios de acciones reflejen antes los cambios"
+          ]
+        },
+        {
+          "title": "Correcciones",
+          "items": [
+            "Se ha corregido la desaparición inesperada de los recordatorios de ducha y la falta de actualización de los recordatorios de luz natural ante cambios en el pronóstico",
+            "Se ha mejorado la fiabilidad de las actualizaciones de salud en Apple Watch, los widgets y entre dispositivos, evitando que datos antiguos sustituyan el progreso más reciente",
+            "Al cancelar la edición de los ajustes para guardar datos en Salud de Apple, ahora se descartan los cambios sin guardar"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.5",
       "locale": "es",
       "releaseDate": "2026-09-07",

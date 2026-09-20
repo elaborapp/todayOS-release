@@ -4,6 +4,35 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.6",
+      "locale": "tr",
+      "releaseDate": "2026-09-21",
+      "sections": [
+        {
+          "title": "Yeni özellikler",
+          "items": [
+            "iPhone ve iPad’de Siri ve Kestirmeler desteği: mevcut eylemi, ilerlemeyi ve uyku planını kontrol edin; su, diş fırçalama, öğün ve duş kaydedin; uyku saatlerini ve eylem hatırlatıcılarını ayarlayın"
+          ]
+        },
+        {
+          "title": "Deneyim iyileştirmeleri",
+          "items": [
+            "Saat dilimi değiştirildiğinde bugünkü mevcut sağlık ilerlemesi ve kayıtları korunur",
+            "iPhone ve iPad’de sağlık özellikleri etkinleştirildiğinde, eylem hatırlatıcılarının değişiklikleri daha hızlı yansıtması için izin verilen sağlık verileri yeniden okunur"
+          ]
+        },
+        {
+          "title": "Hata düzeltmeleri",
+          "items": [
+            "Duş hatırlatıcılarının beklenmedik şekilde kaybolması ve gün ışığı hatırlatıcılarının hava tahmini değişikliklerini doğru yansıtmaması düzeltildi",
+            "Apple Watch, araç takımları ve aygıtlar arası sağlık verisi güncellemeleri daha güvenilir hâle getirildi; eski verilerin yeni ilerlemenin üzerine yazması önlendi",
+            "Apple Sağlık’a veri kaydetme ayarlarını düzenlemekten vazgeçildiğinde kaydedilmemiş değişiklikler artık atılır"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.5",
       "locale": "tr",
       "releaseDate": "2026-09-07",

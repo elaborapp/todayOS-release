@@ -4,6 +4,35 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.6",
+      "locale": "id",
+      "releaseDate": "2026-09-21",
+      "sections": [
+        {
+          "title": "Fitur baru",
+          "items": [
+            "Dukungan Siri dan Pintasan di iPhone dan iPad: periksa tindakan saat ini, progres dan rencana tidur, catat air, sikat gigi, makan dan mandi, serta sesuaikan waktu tidur dan pengingat tindakan"
+          ]
+        },
+        {
+          "title": "Peningkatan pengalaman",
+          "items": [
+            "Progres dan catatan kesehatan hari ini tetap tersimpan saat berganti zona waktu",
+            "Setelah fitur kesehatan diaktifkan di iPhone dan iPad, data kesehatan yang diizinkan dibaca kembali agar pengingat tindakan lebih cepat mencerminkan perubahan"
+          ]
+        },
+        {
+          "title": "Perbaikan bug",
+          "items": [
+            "Memperbaiki pengingat mandi yang tiba-tiba menghilang dan pengingat cahaya matahari yang tidak mencerminkan perubahan prakiraan dengan benar",
+            "Meningkatkan keandalan pembaruan data kesehatan di Apple Watch, widget dan antarperangkat agar data lama tidak menggantikan progres yang lebih baru",
+            "Membatalkan pengeditan pengaturan penyimpanan data ke Kesehatan Apple kini membuang perubahan yang belum disimpan"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.5",
       "locale": "id",
       "releaseDate": "2026-09-07",

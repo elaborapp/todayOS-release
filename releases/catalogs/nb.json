@@ -4,6 +4,35 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.6",
+      "locale": "nb",
+      "releaseDate": "2026-09-21",
+      "sections": [
+        {
+          "title": "Nye funksjoner",
+          "items": [
+            "Støtte for Siri og Snarveier på iPhone og iPad: se gjeldende handling, fremgang og søvnplan, registrer vann, tannpuss, måltider og dusjer, og juster sovetider og handlingspåminnelser"
+          ]
+        },
+        {
+          "title": "Forbedringer",
+          "items": [
+            "Dagens eksisterende helsefremgang og registreringer beholdes når du bytter tidssone",
+            "Når du aktiverer helsefunksjoner på iPhone og iPad, leses godkjente helsedata på nytt slik at handlingspåminnelser gjenspeiler endringer raskere"
+          ]
+        },
+        {
+          "title": "Feilrettinger",
+          "items": [
+            "Rettet at dusjpåminnelser forsvant uventet, og at påminnelser om dagslys ikke tok riktig hensyn til endringer i værmeldingen",
+            "Mer pålitelige oppdateringer av helsedata på Apple Watch, i widgeter og mellom enheter hindrer at eldre data erstatter nyere fremgang",
+            "Når du avbryter redigering av innstillinger for å lagre data i Apple Helse, forkastes nå ulagrede endringer"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.5",
       "locale": "nb",
       "releaseDate": "2026-09-07",

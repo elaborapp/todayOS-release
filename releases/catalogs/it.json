@@ -4,6 +4,35 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.6",
+      "locale": "it",
+      "releaseDate": "2026-09-21",
+      "sections": [
+        {
+          "title": "Nuove funzioni",
+          "items": [
+            "Supporto per Siri e Comandi Rapidi su iPhone e iPad: consulta l’azione attuale, i progressi e il piano del sonno, registra acqua, lavaggio dei denti, pasti e docce, e modifica gli orari del sonno e i promemoria delle azioni"
+          ]
+        },
+        {
+          "title": "Miglioramenti dell’esperienza",
+          "items": [
+            "Cambiando fuso orario, i progressi e le registrazioni di salute della giornata vengono conservati",
+            "Dopo aver attivato funzioni relative alla salute su iPhone e iPad, i dati autorizzati vengono riletti per aggiornare più rapidamente i promemoria delle azioni"
+          ]
+        },
+        {
+          "title": "Correzioni",
+          "items": [
+            "Risolti i problemi per cui i promemoria della doccia scomparivano inaspettatamente e quelli della luce diurna non riflettevano correttamente le variazioni delle previsioni",
+            "Migliorata l’affidabilità degli aggiornamenti dei dati di salute su Apple Watch, nei widget e tra dispositivi, evitando che i dati più vecchi sostituiscano i progressi più recenti",
+            "Annullando la modifica delle impostazioni per salvare i dati in Salute di Apple, le modifiche non salvate vengono ora scartate"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.5",
       "locale": "it",
       "releaseDate": "2026-09-07",

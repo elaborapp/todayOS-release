@@ -4,6 +4,35 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.6",
+      "locale": "nl",
+      "releaseDate": "2026-09-21",
+      "sections": [
+        {
+          "title": "Nieuwe functies",
+          "items": [
+            "Ondersteuning voor Siri en Opdrachten op iPhone en iPad: bekijk je huidige actie, voortgang en slaapplan, registreer water, tandenpoetsen, maaltijden en douches en pas slaaptijden en actieherinneringen aan"
+          ]
+        },
+        {
+          "title": "Verbeteringen",
+          "items": [
+            "Bij het wisselen van tijdzone blijven je bestaande gezondheidsvoortgang en registraties van vandaag behouden",
+            "Na het inschakelen van gezondheidsfuncties op iPhone en iPad worden toegestane gezondheidsgegevens opnieuw gelezen, zodat actieherinneringen wijzigingen sneller weergeven"
+          ]
+        },
+        {
+          "title": "Probleemoplossingen",
+          "items": [
+            "Problemen opgelost waarbij doucheherinneringen onverwacht verdwenen en daglichtherinneringen veranderingen in de weersverwachting niet correct meenamen",
+            "Betrouwbaardere updates van gezondheidsgegevens op Apple Watch, in widgets en tussen apparaten voorkomen dat oudere gegevens nieuwere voortgang overschrijven",
+            "Bij het annuleren van wijzigingen in de instellingen voor het opslaan van gegevens in Apple Gezondheid worden niet-opgeslagen wijzigingen nu verworpen"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.5",
       "locale": "nl",
       "releaseDate": "2026-09-07",
