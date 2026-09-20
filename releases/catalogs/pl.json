@@ -4,6 +4,35 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.6",
+      "locale": "pl",
+      "releaseDate": "2026-09-21",
+      "sections": [
+        {
+          "title": "Nowe funkcje",
+          "items": [
+            "Obsługa Siri i Skrótów na iPhonie i iPadzie: sprawdzaj bieżące działanie, postępy i plan snu, zapisuj wodę, mycie zębów, posiłki i prysznice oraz zmieniaj godziny snu i przypomnienia o działaniach"
+          ]
+        },
+        {
+          "title": "Ulepszenia",
+          "items": [
+            "Przy zmianie strefy czasowej zachowywane są dotychczasowe postępy i zapisy zdrowotne z danego dnia",
+            "Po włączeniu funkcji zdrowotnych na iPhonie i iPadzie dozwolone dane są odczytywane ponownie, aby przypomnienia szybciej uwzględniały zmiany"
+          ]
+        },
+        {
+          "title": "Poprawki błędów",
+          "items": [
+            "Naprawiono nieoczekiwane znikanie przypomnień o prysznicu oraz nieprawidłowe uwzględnianie zmian prognozy w przypomnieniach o świetle dziennym",
+            "Zwiększono niezawodność aktualizacji danych zdrowotnych na Apple Watch, w widżetach i między urządzeniami, zapobiegając zastępowaniu nowszych postępów starszymi danymi",
+            "Anulowanie edycji ustawień zapisywania danych w aplikacji Zdrowie Apple powoduje teraz odrzucenie niezapisanych zmian"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.5",
       "locale": "pl",
       "releaseDate": "2026-09-07",

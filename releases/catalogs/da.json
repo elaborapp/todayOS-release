@@ -4,6 +4,35 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.6",
+      "locale": "da",
+      "releaseDate": "2026-09-21",
+      "sections": [
+        {
+          "title": "Nye funktioner",
+          "items": [
+            "Understøttelse af Siri og Genveje på iPhone og iPad: se din aktuelle handling, fremskridt og søvnplan, registrer vand, tandbørstning, måltider og bade, og juster sovetider og handlingspåmindelser"
+          ]
+        },
+        {
+          "title": "Forbedringer af oplevelsen",
+          "items": [
+            "Dagens eksisterende sundhedsfremskridt og registreringer bevares, når du skifter tidszone",
+            "Når du aktiverer sundhedsfunktioner på iPhone og iPad, læses godkendte sundhedsdata igen, så handlingspåmindelser hurtigere afspejler ændringer"
+          ]
+        },
+        {
+          "title": "Fejlrettelser",
+          "items": [
+            "Rettet problemer, hvor badepåmindelser forsvandt uventet, og påmindelser om dagslys ikke korrekt afspejlede ændringer i vejrudsigten",
+            "Mere pålidelige opdateringer af sundhedsdata på Apple Watch, i widgets og mellem enheder forhindrer ældre data i at erstatte nyere fremskridt",
+            "Når du annullerer redigering af indstillinger for at gemme data i Apple Sundhed, kasseres ændringer, der ikke er gemt, nu"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.5",
       "locale": "da",
       "releaseDate": "2026-09-07",

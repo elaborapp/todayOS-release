@@ -4,6 +4,35 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.6",
+      "locale": "pt-BR",
+      "releaseDate": "2026-09-21",
+      "sections": [
+        {
+          "title": "Novidades",
+          "items": [
+            "Suporte à Siri e ao Atalhos no iPhone e iPad: consulte a ação atual, o progresso e o plano de sono, registre água, escovação dos dentes, refeições e banhos, e ajuste os horários de sono e os lembretes de ações"
+          ]
+        },
+        {
+          "title": "Melhorias na experiência",
+          "items": [
+            "Ao mudar de fuso horário, o progresso e os registros de saúde de hoje são preservados",
+            "Após ativar recursos de saúde no iPhone e iPad, os dados autorizados são lidos novamente para que os lembretes de ações reflitam as mudanças mais rapidamente"
+          ]
+        },
+        {
+          "title": "Correções",
+          "items": [
+            "Corrigidos os problemas em que lembretes de banho desapareciam inesperadamente e lembretes de luz natural não refletiam corretamente as mudanças na previsão",
+            "Maior confiabilidade nas atualizações de saúde do Apple Watch, dos widgets e entre dispositivos, evitando que dados antigos substituam o progresso mais recente",
+            "Cancelar a edição dos ajustes para salvar dados no app Saúde da Apple agora descarta as alterações não salvas"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.5",
       "locale": "pt-BR",
       "releaseDate": "2026-09-07",

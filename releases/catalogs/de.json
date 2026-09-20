@@ -4,6 +4,35 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.6",
+      "locale": "de",
+      "releaseDate": "2026-09-21",
+      "sections": [
+        {
+          "title": "Neue Funktionen",
+          "items": [
+            "Siri und Kurzbefehle auf iPhone und iPad: aktuelle Aktion, Fortschritt und Schlafplan abrufen, Wasser, Zähneputzen, Mahlzeiten und Duschen protokollieren sowie Schlafzeiten und Aktionserinnerungen anpassen"
+          ]
+        },
+        {
+          "title": "Verbesserungen",
+          "items": [
+            "Beim Wechsel der Zeitzone bleiben der bisherige Gesundheitsfortschritt und die Einträge des Tages erhalten",
+            "Nach dem Aktivieren gesundheitsbezogener Funktionen auf iPhone und iPad werden freigegebene Gesundheitsdaten erneut gelesen, damit Aktionserinnerungen Änderungen schneller berücksichtigen"
+          ]
+        },
+        {
+          "title": "Fehlerbehebungen",
+          "items": [
+            "Behoben: Duscherinnerungen verschwanden unerwartet, und Tageslichterinnerungen berücksichtigten Änderungen der Wettervorhersage nicht korrekt",
+            "Zuverlässigere Gesundheitsdaten-Updates auf Apple Watch, in Widgets und zwischen Geräten verhindern, dass ältere Daten neueren Fortschritt überschreiben",
+            "Beim Abbrechen der Bearbeitung der Einstellungen zum Speichern von Daten in Apple Health werden ungespeicherte Änderungen jetzt verworfen"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.5",
       "locale": "de",
       "releaseDate": "2026-09-07",

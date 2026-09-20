@@ -4,6 +4,35 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.6",
+      "locale": "sv",
+      "releaseDate": "2026-09-21",
+      "sections": [
+        {
+          "title": "Nya funktioner",
+          "items": [
+            "Stöd för Siri och Genvägar på iPhone och iPad: kontrollera aktuell åtgärd, framsteg och sömnplan, registrera vatten, tandborstning, måltider och duschar samt justera sovtider och åtgärdspåminnelser"
+          ]
+        },
+        {
+          "title": "Förbättringar",
+          "items": [
+            "Dagens befintliga hälsoframsteg och registreringar behålls när du byter tidszon",
+            "När du aktiverar hälsofunktioner på iPhone och iPad läses godkända hälsodata in på nytt så att åtgärdspåminnelser snabbare återspeglar ändringar"
+          ]
+        },
+        {
+          "title": "Buggfixar",
+          "items": [
+            "Åtgärdat att duschpåminnelser försvann oväntat och att påminnelser om dagsljus inte tog hänsyn till ändringar i väderprognosen korrekt",
+            "Tillförlitligare uppdateringar av hälsodata på Apple Watch, i widgetar och mellan enheter förhindrar att äldre data ersätter nyare framsteg",
+            "Om du avbryter redigeringen av inställningar för att spara data i Apple Hälsa tas nu osparade ändringar bort"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.5",
       "locale": "sv",
       "releaseDate": "2026-09-07",

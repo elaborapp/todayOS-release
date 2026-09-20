@@ -4,6 +4,35 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.6",
+      "locale": "fr",
+      "releaseDate": "2026-09-21",
+      "sections": [
+        {
+          "title": "Nouveautés",
+          "items": [
+            "Prise en charge de Siri et de Raccourcis sur iPhone et iPad : consultez l’action actuelle, votre progression et votre programme de sommeil, consignez l’eau, le brossage des dents, les repas et les douches, et ajustez les horaires de sommeil et les rappels d’action"
+          ]
+        },
+        {
+          "title": "Améliorations de l’expérience",
+          "items": [
+            "Les données de progression et les entrées de santé déjà enregistrées aujourd’hui sont conservées lors d’un changement de fuseau horaire",
+            "Après l’activation de fonctions liées à la santé sur iPhone et iPad, les données autorisées sont relues pour que les rappels d’action reflètent plus rapidement les changements"
+          ]
+        },
+        {
+          "title": "Corrections",
+          "items": [
+            "Correction de la disparition inattendue des rappels de douche et de la prise en compte incorrecte des changements de prévisions dans les rappels d’exposition à la lumière du jour",
+            "Fiabilité améliorée des mises à jour des données de santé sur Apple Watch, dans les widgets et entre appareils, pour éviter que des données anciennes remplacent une progression plus récente",
+            "Annuler la modification des réglages d’enregistrement des données dans Apple Santé supprime désormais les changements non enregistrés"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.5",
       "locale": "fr",
       "releaseDate": "2026-09-07",

@@ -4,6 +4,35 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.6",
+      "locale": "fi",
+      "releaseDate": "2026-09-21",
+      "sections": [
+        {
+          "title": "Uudet ominaisuudet",
+          "items": [
+            "Siri- ja Pikakomennot-tuki iPhonessa ja iPadissa: tarkista nykyinen toiminto, edistyminen ja unisuunnitelma, kirjaa veden juonti, hampaiden harjaus, ateriat ja suihkut sekä säädä nukkumisaikoja ja toimintamuistutuksia"
+          ]
+        },
+        {
+          "title": "Käyttökokemuksen parannukset",
+          "items": [
+            "Aikavyöhykettä vaihdettaessa päivän aiempi terveyden edistyminen ja kirjaukset säilyvät",
+            "Kun otat terveyteen liittyviä toimintoja käyttöön iPhonessa tai iPadissa, terveystiedot, joiden käyttöön olet antanut luvan, luetaan uudelleen, jotta muutokset näkyvät toimintamuistutuksissa nopeammin"
+          ]
+        },
+        {
+          "title": "Virheenkorjaukset",
+          "items": [
+            "Korjattu suihkumuistutusten odottamaton katoaminen sekä päivänvalomuistutusten virheellinen reagointi sääennusteen muutoksiin",
+            "Apple Watchin, widgettien ja laitteiden välisten terveystietopäivitysten luotettavuutta parannettu, jotta vanhat tiedot eivät korvaa uudempaa edistymistä",
+            "Apple Terveyteen tallentamisen asetusten muokkauksen peruuttaminen hylkää nyt tallentamattomat muutokset"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.5",
       "locale": "fi",
       "releaseDate": "2026-09-07",
