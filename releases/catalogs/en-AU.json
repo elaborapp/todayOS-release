@@ -4,6 +4,35 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.7",
+      "locale": "en-AU",
+      "releaseDate": "2026-10-05",
+      "sections": [
+        {
+          "title": "New features",
+          "items": [
+            "todayOS+ adds coffee action reminders: set daily coffee times and stop reminders a chosen number of hours before bed",
+            "todayOS+ adds saved water amounts for quick logging on iPhone, iPad, Apple Watch, and Mac"
+          ]
+        },
+        {
+          "title": "Experience improvements",
+          "items": [
+            "When sleep data suggests an earlier bedtime, see the recommended time and how much earlier it is"
+          ]
+        },
+        {
+          "title": "Bug fixes",
+          "items": [
+            "Fixed saving sleep and wind-down times together, and progress ordering for skipped actions or actions past their cutoff",
+            "Improved health data updates across devices to prevent older data from overwriting newer records",
+            "Fixed missed action notifications, Apple Watch remaining on an explanation after returning to the foreground, and clipped buttons in shorter water widgets"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.6",
       "locale": "en-AU",
       "releaseDate": "2026-09-21",

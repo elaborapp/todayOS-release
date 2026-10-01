@@ -4,6 +4,35 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.7",
+      "locale": "pt-BR",
+      "releaseDate": "2026-10-05",
+      "sections": [
+        {
+          "title": "Novidades",
+          "items": [
+            "O todayOS+ adiciona lembretes para tomar café: defina horários diários e interrompa os lembretes um número de horas escolhido antes de dormir",
+            "O todayOS+ adiciona quantidades de água favoritas para você selecionar rapidamente ao registrar no iPhone, iPad, Apple Watch e Mac"
+          ]
+        },
+        {
+          "title": "Melhorias na experiência",
+          "items": [
+            "Quando os dados de sono sugerirem dormir mais cedo, você verá o horário recomendado e quanto antecipá-lo"
+          ]
+        },
+        {
+          "title": "Correções",
+          "items": [
+            "Corrigidos problemas ao salvar os horários de sono e de preparação para dormir ao mesmo tempo e na ordenação do progresso de ações puladas ou que passaram do horário limite",
+            "Atualizações de dados de saúde entre dispositivos mais confiáveis, evitando que dados antigos substituam registros mais recentes",
+            "Corrigidos problemas com notificações de ações não entregues, com a explicação que permanecia aberta no Apple Watch ao voltar ao primeiro plano e com botões cortados em widgets de água de menor altura"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.6",
       "locale": "pt-BR",
       "releaseDate": "2026-09-21",

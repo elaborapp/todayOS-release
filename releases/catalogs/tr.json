@@ -4,6 +4,35 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.7",
+      "locale": "tr",
+      "releaseDate": "2026-10-05",
+      "sections": [
+        {
+          "title": "Yeni özellikler",
+          "items": [
+            "todayOS+ artık kahve hatırlatmaları sunuyor: günlük kahve saatlerinizi belirleyin ve hatırlatmaları yatmadan seçtiğiniz sayıda saat önce durdurun",
+            "todayOS+ artık kayıtlı su miktarları sunuyor; iPhone, iPad, Apple Watch ve Mac üzerinde kaydedeceğiniz miktarı hızla seçebilirsiniz"
+          ]
+        },
+        {
+          "title": "Deneyim iyileştirmeleri",
+          "items": [
+            "Uyku verilerinize göre daha erken yatmanız önerildiğinde, önerilen yatış saatini ve ne kadar erken olduğunu görebilirsiniz"
+          ]
+        },
+        {
+          "title": "Hata düzeltmeleri",
+          "items": [
+            "Uyku ve uykuya hazırlık saatlerini birlikte kaydetme sorunu ile atlanan veya zamanı dolan eylemlerin ilerlemeye göre sıralanması düzeltildi",
+            "Eski verilerin daha yeni kayıtların üzerine yazılmasını önlemek için sağlık verilerinin aygıtlar arasında güncellenmesi daha güvenilir hâle getirildi",
+            "Eksik eylem bildirimleri, uygulama yeniden ön plana geldiğinde Apple Watch'un açıklama ekranında kalması ve kısa su araç takımlarındaki düğmelerin kesilmesi düzeltildi"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.6",
       "locale": "tr",
       "releaseDate": "2026-09-21",

@@ -4,6 +4,35 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.7",
+      "locale": "zh-Hans",
+      "releaseDate": "2026-10-05",
+      "sections": [
+        {
+          "title": "新功能",
+          "items": [
+            "todayOS+ 新增咖啡行动提醒，可设置每天的咖啡时间，并在睡前指定小时数停止提醒",
+            "todayOS+ 新增常用饮水量，可在 iPhone、iPad、Apple Watch 和 Mac 快速选择记录量"
+          ]
+        },
+        {
+          "title": "体验改进",
+          "items": [
+            "根据睡眠数据建议提早休息时，会显示建议的就寝时间及提前时长"
+          ]
+        },
+        {
+          "title": "问题修复",
+          "items": [
+            "修复同时调整睡眠和睡前准备时间的保存问题，以及跳过或已过截止时间的行动的进度排序",
+            "提高跨设备健康数据更新的可靠性，避免旧数据覆盖较新的记录",
+            "修复部分行动通知漏发、Apple Watch 返回前台后仍停留在原因说明，以及较矮饮水小组件的按钮裁切问题"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.6",
       "locale": "zh-Hans",
       "releaseDate": "2026-09-21",

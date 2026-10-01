@@ -4,6 +4,35 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.7",
+      "locale": "da",
+      "releaseDate": "2026-10-05",
+      "sections": [
+        {
+          "title": "Nye funktioner",
+          "items": [
+            "todayOS+ har nu påmindelser om at drikke kaffe: Vælg dine daglige kaffetidspunkter, og stop påmindelser et valgfrit antal timer før sengetid",
+            "todayOS+ har nu gemte vandmængder, så du hurtigt kan vælge, hvor meget du vil registrere på iPhone, iPad, Apple Watch og Mac"
+          ]
+        },
+        {
+          "title": "Forbedringer af oplevelsen",
+          "items": [
+            "Når dine søvndata peger på, at du bør gå tidligere i seng, vises det anbefalede tidspunkt, og hvor meget tidligere det er"
+          ]
+        },
+        {
+          "title": "Fejlrettelser",
+          "items": [
+            "Rettet problemer med at gemme søvn- og afslapningstidspunkter samtidig samt sorteringen efter fremskridt for handlinger, der er sprunget over eller har passeret deres tidsgrænse",
+            "Mere pålidelige opdateringer af sundhedsdata på tværs af enheder forhindrer ældre data i at overskrive nyere registreringer",
+            "Rettet manglende notifikationer om handlinger, forklaringer, der blev stående på Apple Watch, når appen blev aktiv igen, samt afskårne knapper i lave vandwidgets"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.6",
       "locale": "da",
       "releaseDate": "2026-09-21",

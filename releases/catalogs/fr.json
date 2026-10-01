@@ -4,6 +4,35 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.7",
+      "locale": "fr",
+      "releaseDate": "2026-10-05",
+      "sections": [
+        {
+          "title": "Nouveautés",
+          "items": [
+            "todayOS+ ajoute des rappels pour le café : choisissez vos horaires quotidiens et arrêtez les rappels un nombre d’heures défini avant le coucher",
+            "todayOS+ permet d’enregistrer vos quantités d’eau habituelles pour les sélectionner rapidement sur iPhone, iPad, Apple Watch et Mac"
+          ]
+        },
+        {
+          "title": "Améliorations de l’expérience",
+          "items": [
+            "Lorsque vos données de sommeil suggèrent de vous coucher plus tôt, consultez l’heure recommandée et l’avance proposée"
+          ]
+        },
+        {
+          "title": "Corrections",
+          "items": [
+            "Correction de l’enregistrement simultané des horaires de sommeil et de préparation au coucher, ainsi que du classement de la progression des actions ignorées ou dont l’heure limite est dépassée",
+            "Mise à jour des données de santé entre appareils plus fiable, pour éviter que d’anciennes données remplacent des données plus récentes",
+            "Correction de notifications d’action manquantes, de l’Apple Watch restant sur l’explication au retour au premier plan et de boutons tronqués dans les widgets d’hydratation moins hauts"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.6",
       "locale": "fr",
       "releaseDate": "2026-09-21",

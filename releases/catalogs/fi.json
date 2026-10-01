@@ -4,6 +4,35 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.7",
+      "locale": "fi",
+      "releaseDate": "2026-10-05",
+      "sections": [
+        {
+          "title": "Uudet ominaisuudet",
+          "items": [
+            "todayOS+ sisältää nyt kahvimuistutukset: aseta päivittäiset kahviajat ja lopeta muistutukset valitsemasi tuntimäärän verran ennen nukkumaanmenoa",
+            "todayOS+ sisältää nyt tallennetut vesimäärät, joista voit nopeasti valita kirjattavan määrän iPhone-, iPad-, Apple Watch- ja Mac-laitteilla"
+          ]
+        },
+        {
+          "title": "Käyttökokemuksen parannukset",
+          "items": [
+            "Kun unitiedot antavat aihetta mennä aiemmin nukkumaan, näet suositellun nukkumaanmenoajan ja sen, kuinka paljon aiempi se on"
+          ]
+        },
+        {
+          "title": "Virheenkorjaukset",
+          "items": [
+            "Korjattu uni- ja rauhoittumisaikojen samanaikaiseen tallentamiseen liittyvä ongelma sekä edistymisen mukainen järjestys ohitettujen ja aikarajansa ylittäneiden toimintojen osalta",
+            "Terveystietojen päivitys laitteiden välillä on nyt luotettavampaa, jotta vanhemmat tiedot eivät korvaa uudempia kirjauksia",
+            "Korjattu puuttuvia toimintailmoituksia, Apple Watchiin näkyviin jäävä perustelu sovelluksen palatessa etualalle sekä matalien vedenjuontiwidgettien leikkautuvat painikkeet"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.6",
       "locale": "fi",
       "releaseDate": "2026-09-21",
