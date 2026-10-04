@@ -4,6 +4,35 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.7",
+      "locale": "id",
+      "releaseDate": "2026-10-05",
+      "sections": [
+        {
+          "title": "Fitur baru",
+          "items": [
+            "todayOS+ menambahkan pengingat minum kopi: atur waktu kopi harian dan hentikan pengingat beberapa jam sebelum tidur sesuai pilihan Anda",
+            "todayOS+ menambahkan takaran air favorit agar Anda dapat memilih jumlah yang dicatat dengan cepat di iPhone, iPad, Apple Watch, dan Mac"
+          ]
+        },
+        {
+          "title": "Peningkatan pengalaman",
+          "items": [
+            "Saat data tidur menyarankan istirahat lebih awal, lihat waktu tidur yang disarankan dan seberapa awal dari biasanya"
+          ]
+        },
+        {
+          "title": "Perbaikan bug",
+          "items": [
+            "Memperbaiki masalah penyimpanan waktu tidur dan persiapan tidur secara bersamaan, serta urutan progres aktivitas yang dilewati atau sudah melewati batas waktu",
+            "Meningkatkan keandalan pembaruan data kesehatan antarperangkat agar data lama tidak menimpa catatan yang lebih baru",
+            "Memperbaiki notifikasi aktivitas yang tidak terkirim, Apple Watch yang tetap menampilkan penjelasan alasan setelah kembali ke latar depan, dan tombol yang terpotong pada widget minum air yang lebih pendek"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.6",
       "locale": "id",
       "releaseDate": "2026-09-21",

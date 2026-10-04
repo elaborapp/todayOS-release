@@ -4,6 +4,35 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.7",
+      "locale": "it",
+      "releaseDate": "2026-10-05",
+      "sections": [
+        {
+          "title": "Nuove funzioni",
+          "items": [
+            "todayOS+ aggiunge i promemoria per il caffè: imposta gli orari giornalieri e interrompi i promemoria un numero di ore a scelta prima di andare a letto",
+            "todayOS+ aggiunge le quantità d’acqua abituali, da selezionare rapidamente durante la registrazione su iPhone, iPad, Apple Watch e Mac"
+          ]
+        },
+        {
+          "title": "Miglioramenti dell’esperienza",
+          "items": [
+            "Quando i dati sul sonno suggeriscono di andare a letto prima, puoi vedere l’orario consigliato e di quanto anticiparlo"
+          ]
+        },
+        {
+          "title": "Correzioni",
+          "items": [
+            "Risolti i problemi di salvataggio simultaneo degli orari del sonno e di preparazione al riposo, nonché dell’ordinamento dei progressi delle azioni saltate o oltre l’orario limite",
+            "Migliorata l’affidabilità degli aggiornamenti dei dati sulla salute tra dispositivi, per evitare che dati meno recenti sovrascrivano le registrazioni più nuove",
+            "Risolti i problemi delle notifiche di azioni mancanti, della spiegazione che restava aperta su Apple Watch al ritorno in primo piano e dei pulsanti tagliati nei widget dell’acqua meno alti"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.6",
       "locale": "it",
       "releaseDate": "2026-09-21",

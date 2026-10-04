@@ -4,6 +4,35 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.7",
+      "locale": "pl",
+      "releaseDate": "2026-10-05",
+      "sections": [
+        {
+          "title": "Nowe funkcje",
+          "items": [
+            "todayOS+ oferuje teraz przypomnienia o kawie: ustaw codzienne pory picia kawy i wyłączaj przypomnienia na wybraną liczbę godzin przed snem",
+            "todayOS+ oferuje teraz zapisane ilości wody, aby szybko wybierać ilość do zarejestrowania na iPhone, iPad, Apple Watch i Mac"
+          ]
+        },
+        {
+          "title": "Ulepszenia",
+          "items": [
+            "Gdy dane dotyczące snu wskazują, że warto położyć się wcześniej, zobaczysz zalecaną porę i informację, o ile jest wcześniejsza"
+          ]
+        },
+        {
+          "title": "Poprawki błędów",
+          "items": [
+            "Naprawiono zapisywanie jednoczesnych zmian pory snu i wyciszenia oraz sortowanie według postępu dla pominiętych działań i działań po upływie ich limitu czasu",
+            "Poprawiono niezawodność aktualizacji danych zdrowotnych między urządzeniami, aby starsze dane nie nadpisywały nowszych zapisów",
+            "Naprawiono brakujące powiadomienia o działaniach, pozostawanie na ekranie wyjaśnienia na Apple Watch po powrocie aplikacji na pierwszy plan oraz przycięte przyciski w niskich widżetach wody"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.6",
       "locale": "pl",
       "releaseDate": "2026-09-21",

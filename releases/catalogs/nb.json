@@ -4,6 +4,35 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.7",
+      "locale": "nb",
+      "releaseDate": "2026-10-05",
+      "sections": [
+        {
+          "title": "Nye funksjoner",
+          "items": [
+            "todayOS+ har nå kaffepåminnelser: Velg daglige kaffetider, og stopp påminnelsene et valgfritt antall timer før leggetid",
+            "todayOS+ har nå lagrede vannmengder, slik at du raskt kan velge mengden du vil registrere på iPhone, iPad, Apple Watch og Mac"
+          ]
+        },
+        {
+          "title": "Forbedringer",
+          "items": [
+            "Når søvndata tilsier at du bør legge deg tidligere, vises anbefalt leggetid og hvor mye tidligere den er"
+          ]
+        },
+        {
+          "title": "Feilrettinger",
+          "items": [
+            "Rettet problemer med å lagre tidspunkter for søvn og nedtrapping samtidig, samt fremdriftssorteringen for handlinger som er hoppet over eller har passert tidsgrensen",
+            "Mer pålitelige oppdateringer av helsedata på tvers av enheter hindrer at eldre data overskriver nyere registreringer",
+            "Rettet manglende handlingsvarsler, forklaringer som ble stående på Apple Watch når appen ble aktiv igjen, og avkuttede knapper i lave vannwidgeter"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.6",
       "locale": "nb",
       "releaseDate": "2026-09-21",

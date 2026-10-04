@@ -4,6 +4,35 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.7",
+      "locale": "nl",
+      "releaseDate": "2026-10-05",
+      "sections": [
+        {
+          "title": "Nieuwe functies",
+          "items": [
+            "todayOS+ voegt koffieherinneringen toe: stel dagelijkse koffietijden in en stop de herinneringen een zelfgekozen aantal uren voor bedtijd",
+            "todayOS+ voegt opgeslagen waterhoeveelheden toe die je snel kunt kiezen bij het registreren op iPhone, iPad, Apple Watch en Mac"
+          ]
+        },
+        {
+          "title": "Verbeteringen",
+          "items": [
+            "Als je slaapgegevens aanleiding geven om eerder naar bed te gaan, zie je de aanbevolen bedtijd en hoeveel eerder die is"
+          ]
+        },
+        {
+          "title": "Probleemoplossingen",
+          "items": [
+            "Problemen opgelost bij het tegelijk opslaan van slaap- en ontspanningstijden en bij de voortgangssortering van overgeslagen acties of acties waarvan de eindtijd is verstreken",
+            "Betrouwbaardere updates van gezondheidsgegevens tussen apparaten voorkomen dat oudere gegevens nieuwere registraties overschrijven",
+            "Problemen opgelost met ontbrekende actiemeldingen, een uitleg die op Apple Watch open bleef na terugkeer naar de voorgrond en afgesneden knoppen in minder hoge waterwidgets"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.6",
       "locale": "nl",
       "releaseDate": "2026-09-21",

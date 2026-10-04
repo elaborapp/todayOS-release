@@ -4,6 +4,35 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.7",
+      "locale": "de",
+      "releaseDate": "2026-10-05",
+      "sections": [
+        {
+          "title": "Neue Funktionen",
+          "items": [
+            "todayOS+ bietet jetzt Kaffee-Erinnerungen: Lege tägliche Kaffeezeiten fest und beende die Erinnerungen eine gewählte Anzahl von Stunden vor dem Schlafengehen",
+            "todayOS+ bietet jetzt gespeicherte Trinkmengen für die schnelle Auswahl beim Erfassen auf iPhone, iPad, Apple Watch und Mac"
+          ]
+        },
+        {
+          "title": "Verbesserungen",
+          "items": [
+            "Wenn deine Schlafdaten eine frühere Schlafenszeit nahelegen, siehst du die empfohlene Uhrzeit und wie viel früher sie liegt"
+          ]
+        },
+        {
+          "title": "Fehlerbehebungen",
+          "items": [
+            "Probleme beim gleichzeitigen Speichern von Schlafens- und Entspannungszeiten sowie bei der Fortschrittssortierung übersprungener Aktionen und Aktionen nach ihrer Endzeit behoben",
+            "Zuverlässigere Aktualisierung von Gesundheitsdaten zwischen Geräten verhindert, dass ältere Daten neuere Einträge überschreiben",
+            "Fehlende Aktionsmitteilungen, eine nach der Rückkehr in den Vordergrund weiterhin angezeigte Begründung auf der Apple Watch und abgeschnittene Tasten in niedrigeren Trink-Widgets behoben"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.6",
       "locale": "de",
       "releaseDate": "2026-09-21",
