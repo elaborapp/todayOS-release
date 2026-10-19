@@ -4,6 +4,40 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.8",
+      "locale": "tr",
+      "releaseDate": "2026-10-19",
+      "sections": [
+        {
+          "title": "Yeni özellikler",
+          "items": [
+            "iPhone Duo desteği: Düzen, aygıtı açıp katladığınızda otomatik olarak uyarlanır",
+            "iPhone’da yeni yatay düzen. iPhone’da, iPhone Duo’nun iç ekranında ve iPad’de eylem hatırlatıcıları ve ilerleme, ekran alanı elverdiğinde iki sütunda yan yana gösterilebilir. Böylece bugünkü eylemlerinizi ve başarılarınızı bir bakışta görebilirsiniz",
+            "todayOS+ artık mola modu sunuyor. Ayağa kalkma, gözleri dinlendirme veya düşük HRV ölçümünün ardından rahatlama hatırlatıcısı aldığınızda iPhone ya da Apple Watch’tan mola geri sayımı başlatabilirsiniz. iPhone, Canlı Etkinlikler’i destekler ve süre dolduğunda sizi uyarır",
+            "Mola modu kısa uykuları ve öğle dinlenmesini de destekler. Ana ekran menüsünden bir süre seçin; geri sayım bittiğinde alarm sizi uyarır",
+            "Apple Watch eylem kartları ve gökyüzü arka planları, iPhone ile daha tutarlı bir deneyim için yeniden tasarlandı",
+            "Yeni saat dilimi ayarlarıyla seçtiğiniz bir aygıtı izleyebilir veya sabit bir saat dilimi belirleyebilirsiniz. Böylece günlük düzen ve sağlık hedeflerindeki ilerleme aynı saat diliminde hesaplanır. todayOS+, bu ayarların iCloud üzerinden aygıtlar arasında eşzamanlanmasını destekler"
+          ]
+        },
+        {
+          "title": "Deneyim iyileştirmeleri",
+          "items": [
+            "Su miktarları artık bölge ve ölçü birimi tercihlerinize göre gösterilir",
+            "Yatma zamanı hatırlatıcıları, yinelenen bilgileri azaltmak için geri sayımı ve uyku düğmesini bir araya getirir"
+          ]
+        },
+        {
+          "title": "Hata düzeltmeleri",
+          "items": [
+            "iPhone ve iPad araç takımlarının kullanımdan sonra eski eylemi göstermeye devam etmesi düzeltildi",
+            "Ana ekran menüsünün kaydırma konumunun sıfırlanması düzeltildi",
+            "Sağlık verisi güncellemeleri ve eylem hatırlatma bildirimleri iyileştirildi; ilerlemenin kısa süreli kaybolması ve bazı geçersiz verilerin yol açtığı çökmeler düzeltildi"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.7",
       "locale": "tr",
       "releaseDate": "2026-10-05",

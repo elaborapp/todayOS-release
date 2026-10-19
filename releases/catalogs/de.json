@@ -4,6 +4,40 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.8",
+      "locale": "de",
+      "releaseDate": "2026-10-19",
+      "sections": [
+        {
+          "title": "Neue Funktionen",
+          "items": [
+            "Unterstützung für iPhone Duo: Das Layout passt sich beim Auf- und Zuklappen automatisch an",
+            "Neues Querformat-Layout auf dem iPhone. Auf dem iPhone, dem inneren Display des iPhone Duo und dem iPad können Handlungserinnerungen und Fortschritte bei ausreichend Platz in zwei Spalten nebeneinander erscheinen – für einen Überblick über die heutigen Handlungen und Erfolge",
+            "todayOS+ erhält einen Pausenmodus. Bei Erinnerungen zum Aufstehen, zur Augenpause oder zum Entspannen nach einem niedrigen HRV-Wert kannst du auf dem iPhone oder der Apple Watch einen Pausen-Countdown starten. Das iPhone unterstützt Live-Aktivitäten und erinnert dich, wenn die Zeit abgelaufen ist",
+            "Der Pausenmodus unterstützt auch kurze Nickerchen und Mittagsruhe. Wähle im Menü des Hauptbildschirms eine Dauer aus. Am Ende des Countdowns erinnert dich ein Alarm",
+            "Neu gestaltete Handlungskarten und Himmelshintergründe auf der Apple Watch sorgen für ein einheitlicheres Erlebnis mit dem iPhone",
+            "Neue Zeitzoneneinstellungen: Folge einem ausgewählten Gerät oder lege eine feste Zeitzone fest, damit Tagesablauf und Fortschritte bei Gesundheitszielen in derselben Zeitzone berechnet werden. Mit todayOS+ lassen sich Zeitzoneneinstellungen über iCloud zwischen Geräten synchronisieren"
+          ]
+        },
+        {
+          "title": "Verbesserungen",
+          "items": [
+            "Wassermengen richten sich jetzt nach deiner Region und deinen Maßeinstellungen",
+            "Erinnerungen vor dem Schlafengehen bündeln den Countdown und die Schaltfläche „Ins Bett gehen“, um doppelte Informationen zu vermeiden"
+          ]
+        },
+        {
+          "title": "Fehlerbehebungen",
+          "items": [
+            "Ein Problem wurde behoben, bei dem Widgets auf iPhone und iPad nach der Bedienung weiterhin eine alte Handlung anzeigten",
+            "Ein Problem wurde behoben, bei dem das Menü des Hauptbildschirms seine Scrollposition zurücksetzte",
+            "Zuverlässigere Aktualisierung von Gesundheitsdaten und Aktionsbenachrichtigungen: Fortschritte verschwinden nicht mehr kurzzeitig, und Abstürze durch bestimmte ungültige Daten wurden behoben"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.7",
       "locale": "de",
       "releaseDate": "2026-10-05",

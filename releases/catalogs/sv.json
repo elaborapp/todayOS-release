@@ -4,6 +4,40 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.8",
+      "locale": "sv",
+      "releaseDate": "2026-10-19",
+      "sections": [
+        {
+          "title": "Nya funktioner",
+          "items": [
+            "Stöd för iPhone Duo med en layout som anpassas automatiskt när du viker upp eller ihop enheten",
+            "Ny layout för liggande läge på iPhone. På iPhone, iPhone Duos inre skärm och iPad kan handlingspåminnelser och framsteg visas sida vid sida i två kolumner när utrymmet tillåter det, så att du snabbt ser dagens handlingar och resultat",
+            "todayOS+ får ett pausläge. När du blir påmind om att resa dig, vila ögonen eller slappna av efter ett lågt HRV-värde kan du starta en nedräkning för pausen på iPhone eller Apple Watch. iPhone stöder liveaktiviteter och meddelar dig när tiden är slut",
+            "Pausläget stöder även tupplurar och middagsvila. Välj en längd i menyn på huvudskärmen, så meddelar ett alarm när nedräkningen är klar",
+            "Omdesignade handlingskort och himmelsbakgrunder på Apple Watch ger en upplevelse som stämmer bättre överens med iPhone",
+            "Med nya tidszonsinställningar kan du följa en vald enhet eller välja en fast tidszon, så att dygnsrytm och framsteg mot hälsomål beräknas i samma tidszon. todayOS+ stöder synkronisering av tidszonsinställningar mellan enheter via iCloud"
+          ]
+        },
+        {
+          "title": "Förbättringar",
+          "items": [
+            "Vattenmängder följer nu din region och dina önskade måttenheter",
+            "Påminnelser inför läggdags samlar nedräkningen och knappen för att gå och lägga sig, så att färre uppgifter upprepas"
+          ]
+        },
+        {
+          "title": "Buggfixar",
+          "items": [
+            "Åtgärdat ett problem där widgetar på iPhone och iPad fortsatte visa en gammal handling efter användning",
+            "Åtgärdat att menyn på huvudskärmen återställde sin rullningsposition",
+            "Förbättrat uppdateringar av hälsodata och åtgärdspåminnelser så att framsteg inte försvinner tillfälligt, och åtgärdat krascher på grund av vissa ogiltiga data"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.7",
       "locale": "sv",
       "releaseDate": "2026-10-05",

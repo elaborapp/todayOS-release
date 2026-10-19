@@ -4,6 +4,40 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.8",
+      "locale": "id",
+      "releaseDate": "2026-10-19",
+      "sections": [
+        {
+          "title": "Fitur baru",
+          "items": [
+            "Dukungan untuk iPhone Duo, dengan tata letak yang menyesuaikan secara otomatis saat perangkat dibuka atau dilipat",
+            "Tata letak lanskap baru di iPhone. Di iPhone, layar dalam iPhone Duo, dan iPad, pengingat tindakan dan progres dapat ditampilkan berdampingan dalam dua kolom jika ruang memungkinkan, agar tindakan dan pencapaian hari ini terlihat sekilas",
+            "todayOS+ menghadirkan mode istirahat. Saat mendapat pengingat untuk berdiri, mengistirahatkan mata, atau bersantai setelah pembacaan HRV rendah, Anda dapat memulai hitung mundur istirahat dari iPhone atau Apple Watch. iPhone mendukung Aktivitas Langsung dan mengingatkan saat waktunya habis",
+            "Mode istirahat juga mendukung tidur singkat dan istirahat siang. Pilih durasi dari menu layar utama, dan alarm akan mengingatkan saat hitung mundur berakhir",
+            "Kartu tindakan dan latar langit Apple Watch didesain ulang agar pengalaman lebih selaras dengan iPhone",
+            "Pengaturan zona waktu baru memungkinkan Anda mengikuti perangkat pilihan atau menetapkan zona waktu tetap, sehingga rutinitas dan progres target kesehatan dihitung dalam zona waktu yang sama. todayOS+ mendukung sinkronisasi pengaturan ini antarperangkat melalui iCloud"
+          ]
+        },
+        {
+          "title": "Peningkatan pengalaman",
+          "items": [
+            "Jumlah air kini mengikuti wilayah dan preferensi satuan Anda",
+            "Pengingat menjelang tidur menggabungkan hitung mundur dan tombol tidur untuk mengurangi informasi yang berulang"
+          ]
+        },
+        {
+          "title": "Perbaikan bug",
+          "items": [
+            "Memperbaiki widget iPhone dan iPad yang masih menampilkan tindakan lama setelah digunakan",
+            "Memperbaiki posisi gulir menu layar utama yang kembali ke awal",
+            "Meningkatkan pembaruan data kesehatan dan notifikasi pengingat tindakan, mencegah progres menghilang sesaat serta memperbaiki crash akibat sebagian data tidak valid"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.7",
       "locale": "id",
       "releaseDate": "2026-10-05",

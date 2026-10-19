@@ -4,6 +4,40 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.8",
+      "locale": "es",
+      "releaseDate": "2026-10-19",
+      "sections": [
+        {
+          "title": "Novedades",
+          "items": [
+            "Compatibilidad con iPhone Duo: el diseño se adapta automáticamente al desplegar o plegar el dispositivo",
+            "Nuevo diseño horizontal en el iPhone. En el iPhone, la pantalla interior del iPhone Duo y el iPad, los recordatorios de acciones y el progreso pueden mostrarse en paralelo en dos columnas cuando hay espacio suficiente, para ver las acciones y los logros de hoy de un vistazo",
+            "todayOS+ incorpora el modo de descanso. Cuando recibas un recordatorio para levantarte, descansar la vista o relajarte tras una lectura de VFC baja, puedes iniciar una cuenta atrás desde el iPhone o el Apple Watch. El iPhone admite actividades en directo y te avisa cuando se acaba el tiempo",
+            "El modo de descanso también admite siestas y descansos al mediodía. Elige una duración en el menú de la pantalla principal y una alarma te avisará al terminar la cuenta atrás",
+            "Rediseñamos las tarjetas de acciones y los fondos del cielo del Apple Watch para ofrecer una experiencia más coherente con el iPhone",
+            "Los nuevos ajustes de zona horaria permiten seguir un dispositivo elegido o fijar una zona horaria, para calcular la rutina y el progreso de los objetivos de salud con la misma referencia horaria. todayOS+ permite sincronizar estos ajustes entre dispositivos mediante iCloud"
+          ]
+        },
+        {
+          "title": "Mejoras de la experiencia",
+          "items": [
+            "Las cantidades de agua se adaptan a tu región y preferencias de unidades",
+            "Los recordatorios para acostarte reúnen la cuenta atrás y el botón para ir a dormir, con menos información repetida"
+          ]
+        },
+        {
+          "title": "Correcciones",
+          "items": [
+            "Se corrigió un problema por el que los widgets del iPhone y el iPad seguían mostrando una acción anterior después de usarlos",
+            "Se corrigió el reinicio de la posición de desplazamiento del menú de la pantalla principal",
+            "Se mejoraron las actualizaciones de datos de salud y las notificaciones de recordatorios de acciones, evitando que el progreso desaparezca brevemente y corrigiendo cierres inesperados por ciertos datos no válidos"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.7",
       "locale": "es",
       "releaseDate": "2026-10-05",

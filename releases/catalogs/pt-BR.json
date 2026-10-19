@@ -4,6 +4,40 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.8",
+      "locale": "pt-BR",
+      "releaseDate": "2026-10-19",
+      "sections": [
+        {
+          "title": "Novidades",
+          "items": [
+            "Suporte ao iPhone Duo, com um layout que se ajusta automaticamente ao abrir ou fechar o aparelho",
+            "Novo layout horizontal no iPhone. No iPhone, na tela interna do iPhone Duo e no iPad, lembretes de ações e progresso podem aparecer lado a lado em duas colunas quando há espaço suficiente, para você conferir as ações e conquistas do dia de relance",
+            "O todayOS+ agora tem modo de pausa. Ao receber um lembrete para se levantar, descansar os olhos ou relaxar após uma leitura baixa de VFC, você pode iniciar uma contagem regressiva no iPhone ou Apple Watch. O iPhone oferece Atividades ao Vivo e avisa quando o tempo acaba",
+            "O modo de pausa também permite cochilos e descanso ao meio-dia. Escolha uma duração no menu da tela principal e um alarme avisará quando a contagem regressiva terminar",
+            "Redesenhamos os cartões de ações e os fundos do céu no Apple Watch para uma experiência mais consistente com o iPhone",
+            "As novas configurações de fuso horário permitem seguir um aparelho escolhido ou selecionar um fuso fixo, para calcular a rotina e o progresso das metas de saúde no mesmo fuso. O todayOS+ permite sincronizar essas configurações entre aparelhos pelo iCloud"
+          ]
+        },
+        {
+          "title": "Melhorias na experiência",
+          "items": [
+            "As quantidades de água agora seguem sua região e suas preferências de unidades",
+            "Os lembretes antes de dormir reúnem a contagem regressiva e o botão para ir dormir, reduzindo informações repetidas"
+          ]
+        },
+        {
+          "title": "Correções",
+          "items": [
+            "Corrigimos um problema em que os widgets do iPhone e do iPad continuavam mostrando uma ação antiga após o uso",
+            "Corrigimos a redefinição da posição de rolagem do menu da tela principal",
+            "Melhoramos a atualização dos dados de saúde e as notificações de lembretes de ações, evitando que o progresso desapareça brevemente e corrigindo falhas causadas por alguns dados inválidos"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.7",
       "locale": "pt-BR",
       "releaseDate": "2026-10-05",

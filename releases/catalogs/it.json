@@ -4,6 +4,40 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.8",
+      "locale": "it",
+      "releaseDate": "2026-10-19",
+      "sections": [
+        {
+          "title": "Nuove funzioni",
+          "items": [
+            "Supporto per iPhone Duo: il layout si adatta automaticamente quando apri o chiudi il dispositivo",
+            "Nuovo layout orizzontale su iPhone. Su iPhone, sul display interno di iPhone Duo e su iPad, i promemoria delle azioni e i progressi possono essere affiancati in due colonne quando lo spazio lo consente, per vedere a colpo d’occhio le azioni e i risultati di oggi",
+            "todayOS+ introduce la modalità pausa. Quando ricevi un promemoria per alzarti, riposare gli occhi o rilassarti dopo una lettura HRV bassa, puoi avviare un conto alla rovescia da iPhone o Apple Watch. iPhone supporta le attività in tempo reale e ti avvisa allo scadere del tempo",
+            "La modalità pausa supporta anche i sonnellini e il riposo a metà giornata. Scegli una durata dal menu della schermata principale: una sveglia ti avvisa al termine del conto alla rovescia",
+            "Le schede delle azioni e gli sfondi del cielo su Apple Watch sono stati ridisegnati per un’esperienza più coerente con iPhone",
+            "Le nuove impostazioni del fuso orario permettono di seguire un dispositivo scelto o selezionare un fuso fisso, per calcolare la routine e i progressi degli obiettivi di salute nello stesso fuso orario. todayOS+ supporta la sincronizzazione di queste impostazioni tra dispositivi tramite iCloud"
+          ]
+        },
+        {
+          "title": "Miglioramenti dell’esperienza",
+          "items": [
+            "Le quantità d’acqua seguono ora la regione e le preferenze delle unità di misura",
+            "I promemoria prima di dormire riuniscono il conto alla rovescia e il pulsante per andare a dormire, riducendo le informazioni ripetute"
+          ]
+        },
+        {
+          "title": "Correzioni",
+          "items": [
+            "Risolto un problema per cui i widget su iPhone e iPad mostravano ancora un’azione precedente dopo l’uso",
+            "Risolto il ripristino della posizione di scorrimento del menu della schermata principale",
+            "Migliorati gli aggiornamenti dei dati sanitari e le notifiche dei promemoria delle azioni, evitando la scomparsa momentanea dei progressi e arresti anomali causati da alcuni dati non validi"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.7",
       "locale": "it",
       "releaseDate": "2026-10-05",

@@ -4,6 +4,40 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.8",
+      "locale": "fr",
+      "releaseDate": "2026-10-19",
+      "sections": [
+        {
+          "title": "Nouveautés",
+          "items": [
+            "Prise en charge de l’iPhone Duo, avec une disposition qui s’adapte automatiquement lorsque vous dépliez ou repliez l’appareil",
+            "Nouvelle disposition en mode paysage sur iPhone. Sur iPhone, l’écran intérieur de l’iPhone Duo et iPad, les rappels d’action et la progression peuvent s’afficher côte à côte en deux colonnes lorsque l’espace le permet, pour voir les actions et les résultats du jour d’un coup d’œil",
+            "todayOS+ ajoute un mode pause. Lorsqu’un rappel vous invite à vous lever, à reposer vos yeux ou à vous détendre après une mesure de VFC faible, lancez un compte à rebours sur iPhone ou Apple Watch. L’iPhone prend en charge les activités en direct et vous prévient à la fin du temps imparti",
+            "Le mode pause prend aussi en charge les siestes et le repos à la mi-journée. Choisissez une durée dans le menu de l’écran principal : une alarme vous prévient à la fin du compte à rebours",
+            "Les cartes d’action et les arrière-plans de ciel de l’Apple Watch ont été repensés pour une expérience plus cohérente avec l’iPhone",
+            "De nouveaux réglages de fuseau horaire permettent de suivre un appareil choisi ou de définir un fuseau fixe, afin de calculer le rythme quotidien et la progression des objectifs de santé dans le même fuseau. todayOS+ permet de synchroniser ces réglages entre appareils via iCloud"
+          ]
+        },
+        {
+          "title": "Améliorations de l’expérience",
+          "items": [
+            "Les quantités d’eau suivent désormais votre région et vos préférences d’unités",
+            "Les rappels du coucher regroupent le compte à rebours et le bouton pour aller dormir, pour éviter les informations répétées"
+          ]
+        },
+        {
+          "title": "Corrections",
+          "items": [
+            "Correction des widgets sur iPhone et iPad qui affichaient encore une ancienne action après utilisation",
+            "Correction de la réinitialisation de la position de défilement du menu de l’écran principal",
+            "Amélioration des mises à jour des données de santé et des notifications de rappel d’action, avec correction des disparitions temporaires de progression et de plantages dus à certaines données invalides"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.7",
       "locale": "fr",
       "releaseDate": "2026-10-05",

@@ -4,6 +4,40 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.8",
+      "locale": "zh-Hant",
+      "releaseDate": "2026-10-19",
+      "sections": [
+        {
+          "title": "新功能",
+          "items": [
+            "支援iPhone Duo，版面隨裝置展開、收合自動調整",
+            "新增iPhone橫向版面。iPhone、iPhone Duo內螢幕與iPad可依畫面空間，以雙欄並排顯示行動提醒與進度，一眼掌握今天的行動與成果",
+            "todayOS+新增休息模式。收到起身走動、放鬆眼睛或HRV偏低的放鬆提醒時，可從iPhone或Apple Watch啟動休息倒數。iPhone支援即時動態，時間到會提醒你",
+            "休息模式還支援小睡與午休。從主畫面選單選擇時間，倒數結束後以鬧鐘提醒",
+            "重新設計Apple Watch行動卡片與天色背景，與iPhone的體驗更一致",
+            "新增時區設定，可跟隨指定裝置或選擇固定時區，統一作息與健康目標進度的計算。todayOS+支援透過iCloud跨裝置同步時區設定"
+          ]
+        },
+        {
+          "title": "改善",
+          "items": [
+            "喝水容量會依地區與量測偏好顯示",
+            "睡前提醒整合倒數與睡覺按鈕，減少重複資訊"
+          ]
+        },
+        {
+          "title": "修正",
+          "items": [
+            "修正iPhone與iPad小工具操作後仍顯示舊行動",
+            "修正主畫面選單捲動位置重設的問題",
+            "改善健康資料更新與行動提醒通知的穩定性，避免進度暫時消失，並修正部分異常資料造成的當機"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.7",
       "locale": "zh-Hant",
       "releaseDate": "2026-10-05",
