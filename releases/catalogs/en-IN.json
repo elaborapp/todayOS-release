@@ -4,6 +4,40 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.8",
+      "locale": "en-IN",
+      "releaseDate": "2026-10-19",
+      "sections": [
+        {
+          "title": "New features",
+          "items": [
+            "Support for iPhone Duo, with layouts that adapt as you unfold and fold the device",
+            "New landscape layout on iPhone. On iPhone, the iPhone Duo inner display, and iPad, action reminders and progress can appear side by side in two columns when space allows, so you can see today's actions and achievements at a glance",
+            "todayOS+ adds break mode. When reminded to get up and move, rest your eyes, or relax after a low HRV reading, start a break countdown from iPhone or Apple Watch. iPhone supports Live Activities and alerts you when time is up",
+            "Break mode also supports naps and midday rests. Choose a duration from the main screen menu, and an alarm will alert you when the countdown ends",
+            "Redesigned Apple Watch action cards and sky backgrounds bring the experience closer to iPhone",
+            "New time zone settings let you follow a selected device or choose a fixed time zone, so your routine and health goal progress are calculated in the same time zone. todayOS+ supports syncing time zone settings across devices through iCloud"
+          ]
+        },
+        {
+          "title": "Improvements",
+          "items": [
+            "Water amounts now follow your region and measurement preferences",
+            "Bedtime reminders combine the countdown and sleep button to reduce duplicate information"
+          ]
+        },
+        {
+          "title": "Bug fixes",
+          "items": [
+            "Fixed widgets on iPhone and iPad still showing an old action after use",
+            "Fixed the main screen menu resetting its scroll position",
+            "Improved health data updates and action reminder notifications, preventing progress from briefly disappearing and fixing crashes caused by some invalid data"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.7",
       "locale": "en-IN",
       "releaseDate": "2026-10-05",

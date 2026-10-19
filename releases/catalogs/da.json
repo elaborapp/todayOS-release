@@ -4,6 +4,40 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.8",
+      "locale": "da",
+      "releaseDate": "2026-10-19",
+      "sections": [
+        {
+          "title": "Nye funktioner",
+          "items": [
+            "Understøttelse af iPhone Duo med layout, der automatisk tilpasses, når du folder enheden ud eller sammen",
+            "Nyt layout til liggende visning på iPhone. På iPhone, iPhone Duos indvendige skærm og iPad kan handlingspåmindelser og fremskridt vises side om side i to kolonner, når pladsen tillader det, så du får overblik over dagens handlinger og resultater",
+            "todayOS+ får en pausetilstand. Når du bliver mindet om at rejse dig, hvile øjnene eller slappe af efter en lav HRV-måling, kan du starte en nedtælling til pausen fra iPhone eller Apple Watch. iPhone understøtter liveaktiviteter og giver besked, når tiden er gået",
+            "Pausetilstanden understøtter også lure og middagshvil. Vælg en varighed i menuen på hovedskærmen, og en alarm giver besked, når nedtællingen slutter",
+            "Nyt design af handlingskort og himmelbaggrunde på Apple Watch giver en oplevelse, der minder mere om iPhone",
+            "Nye tidszoneindstillinger lader dig følge en valgt enhed eller vælge en fast tidszone, så rutiner og fremskridt mod sundhedsmål beregnes i samme tidszone. todayOS+ understøtter synkronisering af tidszoneindstillinger mellem enheder via iCloud"
+          ]
+        },
+        {
+          "title": "Forbedringer af oplevelsen",
+          "items": [
+            "Vandmængder følger nu din region og dine foretrukne måleenheder",
+            "Påmindelser før sengetid samler nedtællingen og knappen til at gå i seng, så færre oplysninger gentages"
+          ]
+        },
+        {
+          "title": "Fejlrettelser",
+          "items": [
+            "Rettet et problem, hvor widgets på iPhone og iPad stadig viste en gammel handling efter brug",
+            "Rettet et problem, hvor menuen på hovedskærmen nulstillede rullepositionen",
+            "Forbedret opdatering af sundhedsdata og notifikationer om handlinger, så fremskridt ikke kortvarigt forsvinder, og rettet nedbrud forårsaget af visse ugyldige data"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.7",
       "locale": "da",
       "releaseDate": "2026-10-05",

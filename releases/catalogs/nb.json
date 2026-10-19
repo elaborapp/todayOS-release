@@ -4,6 +4,40 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.8",
+      "locale": "nb",
+      "releaseDate": "2026-10-19",
+      "sections": [
+        {
+          "title": "Nye funksjoner",
+          "items": [
+            "Støtte for iPhone Duo med oppsett som tilpasses automatisk når du folder enheten ut og sammen",
+            "Nytt oppsett for liggende visning på iPhone. På iPhone, den indre skjermen til iPhone Duo og iPad kan handlingspåminnelser og fremdrift vises side om side i to kolonner når plassen tillater det, slik at du får oversikt over dagens handlinger og resultater",
+            "todayOS+ får pausemodus. Når du får en påminnelse om å reise deg, hvile øynene eller slappe av etter en lav HRV-måling, kan du starte en nedtelling for pausen fra iPhone eller Apple Watch. iPhone støtter Oppdateringer i sanntid og varsler deg når tiden er ute",
+            "Pausemodus støtter også korte lurer og middagshvil. Velg varighet fra menyen på hovedskjermen, så varsler en alarm når nedtellingen er ferdig",
+            "Nytt design på handlingskort og himmelbakgrunner på Apple Watch gir en opplevelse som er mer lik iPhone",
+            "Nye tidssoneinnstillinger lar deg følge en valgt enhet eller velge en fast tidssone, slik at døgnrytme og fremdrift mot helsemål beregnes i samme tidssone. todayOS+ støtter synkronisering av tidssoneinnstillinger mellom enheter via iCloud"
+          ]
+        },
+        {
+          "title": "Forbedringer",
+          "items": [
+            "Vannmengder følger nå regionen og de foretrukne måleenhetene dine",
+            "Påminnelser før leggetid samler nedtellingen og knappen for å legge seg, slik at færre opplysninger gjentas"
+          ]
+        },
+        {
+          "title": "Feilrettinger",
+          "items": [
+            "Rettet et problem der widgeter på iPhone og iPad fortsatt viste en gammel handling etter bruk",
+            "Rettet et problem der menyen på hovedskjermen tilbakestilte rulleposisjonen",
+            "Forbedret oppdatering av helsedata og handlingspåminnelser, slik at fremdrift ikke forsvinner kortvarig, og rettet krasj som skyldtes enkelte ugyldige data"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.7",
       "locale": "nb",
       "releaseDate": "2026-10-05",

@@ -4,6 +4,40 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.8",
+      "locale": "nl",
+      "releaseDate": "2026-10-19",
+      "sections": [
+        {
+          "title": "Nieuwe functies",
+          "items": [
+            "Ondersteuning voor iPhone Duo, met een indeling die zich automatisch aanpast wanneer je het apparaat open- of dichtvouwt",
+            "Nieuwe liggende indeling op iPhone. Op iPhone, het binnenscherm van iPhone Duo en iPad kunnen actieherinneringen en voortgang naast elkaar in twee kolommen verschijnen als er voldoende ruimte is. Zo zie je de acties en resultaten van vandaag in één oogopslag",
+            "todayOS+ krijgt een pauzemodus. Bij herinneringen om op te staan, je ogen rust te geven of te ontspannen na een lage HRV-meting kun je op iPhone of Apple Watch een pauzetimer starten. iPhone ondersteunt live activiteiten en waarschuwt je als de tijd om is",
+            "De pauzemodus ondersteunt ook dutjes en middagrust. Kies een duur in het menu op het hoofdscherm. Een alarm waarschuwt je wanneer de timer afloopt",
+            "Opnieuw ontworpen actiekaarten en luchtachtergronden op Apple Watch zorgen voor een ervaring die beter aansluit op iPhone",
+            "Met nieuwe tijdzone-instellingen kun je een gekozen apparaat volgen of een vaste tijdzone kiezen. Je dagritme en voortgang bij gezondheidsdoelen worden dan in dezelfde tijdzone berekend. todayOS+ ondersteunt het synchroniseren van tijdzone-instellingen tussen apparaten via iCloud"
+          ]
+        },
+        {
+          "title": "Verbeteringen",
+          "items": [
+            "Waterhoeveelheden volgen nu je regio en voorkeuren voor meeteenheden",
+            "Herinneringen voor bedtijd combineren het aftellen en de knop om te gaan slapen, zodat informatie minder vaak wordt herhaald"
+          ]
+        },
+        {
+          "title": "Probleemoplossingen",
+          "items": [
+            "Verholpen dat widgets op iPhone en iPad na gebruik nog een oude actie toonden",
+            "Verholpen dat de schuifpositie van het menu op het hoofdscherm werd teruggezet",
+            "Betere updates van gezondheidsgegevens en meldingen voor actieherinneringen, zodat voortgang niet kort verdwijnt en bepaalde ongeldige gegevens geen crash meer veroorzaken"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.7",
       "locale": "nl",
       "releaseDate": "2026-10-05",

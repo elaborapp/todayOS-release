@@ -4,6 +4,40 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.8",
+      "locale": "fi",
+      "releaseDate": "2026-10-19",
+      "sections": [
+        {
+          "title": "Uudet ominaisuudet",
+          "items": [
+            "iPhone Duo -tuki: asettelu mukautuu automaattisesti, kun avaat tai taitat laitteen",
+            "Uusi vaaka-asettelu iPhonessa. iPhonessa, iPhone Duon sisänäytöllä ja iPadilla toimintamuistutukset ja edistyminen voidaan näyttää rinnakkain kahdella palstalla, kun tilaa on riittävästi. Näet päivän toiminnot ja saavutukset yhdellä silmäyksellä",
+            "todayOS+ saa taukotilan. Kun saat muistutuksen nousta seisomaan, lepuuttaa silmiä tai rentoutua matalan HRV-lukeman jälkeen, voit käynnistää tauon ajastimen iPhonella tai Apple Watchilla. iPhone tukee Liveseurantaa ja ilmoittaa ajan päättymisestä",
+            "Taukotila tukee myös torkkuja ja lepohetkiä keskellä päivää. Valitse kesto päänäytön valikosta, niin hälytys ilmoittaa ajastimen päättymisestä",
+            "Apple Watchin toimintakortit ja taivastaustat on uudistettu, jotta käyttökokemus vastaa paremmin iPhonea",
+            "Uusilla aikavyöhykeasetuksilla voit seurata valittua laitetta tai valita kiinteän aikavyöhykkeen. Päivärytmi ja terveystavoitteiden edistyminen lasketaan samalla aikavyöhykkeellä. todayOS+ tukee aikavyöhykeasetusten synkronointia laitteiden välillä iCloudin kautta"
+          ]
+        },
+        {
+          "title": "Käyttökokemuksen parannukset",
+          "items": [
+            "Vesimäärät noudattavat nyt alueesi ja mittayksiköidesi asetuksia",
+            "Nukkumaanmenomuistutuksissa lähtölaskenta ja nukkumaanmenopainike on yhdistetty, jotta samat tiedot eivät toistu"
+          ]
+        },
+        {
+          "title": "Virheenkorjaukset",
+          "items": [
+            "Korjattu ongelma, jossa iPhonen ja iPadin widgetit näyttivät käytön jälkeen edelleen vanhaa toimintoa",
+            "Korjattu päänäytön valikon vierityskohdan palautuminen alkuun",
+            "Parannettu terveystietojen päivityksiä ja toimintamuistutusten ilmoituksia, estetty edistymisen hetkellinen katoaminen ja korjattu joidenkin virheellisten tietojen aiheuttamia kaatumisia"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.7",
       "locale": "fi",
       "releaseDate": "2026-10-05",

@@ -4,6 +4,40 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.8",
+      "locale": "pl",
+      "releaseDate": "2026-10-19",
+      "sections": [
+        {
+          "title": "Nowe funkcje",
+          "items": [
+            "Obsługa iPhone’a Duo: układ automatycznie dostosowuje się do rozkładania i składania urządzenia",
+            "Nowy układ poziomy na iPhonie. Na iPhonie, wewnętrznym ekranie iPhone’a Duo i iPadzie przypomnienia o działaniach i postępy mogą być wyświetlane obok siebie w dwóch kolumnach, gdy jest wystarczająco dużo miejsca, dzięki czemu dzisiejsze działania i osiągnięcia widać od razu",
+            "todayOS+ zyskuje tryb przerwy. Po przypomnieniu o wstaniu, odpoczynku dla oczu lub odprężeniu po niskim odczycie HRV możesz uruchomić odliczanie przerwy na iPhonie lub Apple Watch. iPhone obsługuje wydarzenia na żywo i powiadamia o upływie czasu",
+            "Tryb przerwy obsługuje też drzemki i odpoczynek w południe. Wybierz czas w menu ekranu głównego, a alarm powiadomi Cię o zakończeniu odliczania",
+            "Odświeżone karty działań i tła nieba na Apple Watch zapewniają bardziej spójne wrażenia z iPhonem",
+            "Nowe ustawienia strefy czasowej pozwalają korzystać ze strefy wybranego urządzenia lub ustawić stałą strefę. Rytm dnia i postępy w realizacji celów zdrowotnych są wtedy obliczane w tej samej strefie. todayOS+ umożliwia synchronizację tych ustawień między urządzeniami przez iCloud"
+          ]
+        },
+        {
+          "title": "Ulepszenia",
+          "items": [
+            "Ilość wody jest teraz wyświetlana zgodnie z regionem i preferowanymi jednostkami",
+            "Przypomnienia przed snem łączą odliczanie i przycisk rozpoczęcia snu, ograniczając powtarzanie informacji"
+          ]
+        },
+        {
+          "title": "Poprawki błędów",
+          "items": [
+            "Naprawiono problem, przez który widżety na iPhonie i iPadzie nadal wyświetlały stare działanie po użyciu",
+            "Naprawiono resetowanie pozycji przewijania menu ekranu głównego",
+            "Ulepszono aktualizacje danych zdrowotnych i powiadomienia z przypomnieniami o działaniach, zapobiegając chwilowemu znikaniu postępów i awariom spowodowanym niektórymi nieprawidłowymi danymi"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.7",
       "locale": "pl",
       "releaseDate": "2026-10-05",
