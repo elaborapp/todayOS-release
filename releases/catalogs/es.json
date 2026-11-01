@@ -4,6 +4,37 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.9",
+      "locale": "es",
+      "releaseDate": "2026-11-02",
+      "sections": [
+        {
+          "title": "Novedades",
+          "items": [
+            "Fondos de cielo rediseñados en iPhone, iPad, Apple Watch y widgets, con cielos azules durante el día y tonos cálidos al atardecer",
+            "Con todayOS+, la pantalla principal de iPhone y iPad refleja el tiempo nublado y lluvioso. La lluvia varía según la precipitación y la velocidad del viento, y el Apple Watch también refleja los cambios de luminosidad del tiempo",
+            "Ajusta las horas de despertar, acostarte y prepararte para dormir de hoy en iPhone y iPad sin cambiar tu rutina habitual",
+            "Los widgets y la barra de menús del Mac ahora muestran las cuentas atrás de los descansos y siestas en curso"
+          ]
+        },
+        {
+          "title": "Mejoras",
+          "items": [
+            "Los nuevos colores de las acciones permiten distinguir mejor los recordatorios, botones y avances",
+            "Las acciones de levantarse, descansar la vista y relajarse recuerdan por separado la última duración del descanso. También se ha mejorado el menú de cantidades de agua del Apple Watch",
+            "Configuración inicial reorganizada con demostraciones de la pantalla principal y sus controles"
+          ]
+        },
+        {
+          "title": "Correcciones",
+          "items": [
+            "Mejoras en la actualización de la pantalla al abrir la app, corrección de un breve mensaje de error al guardar la rutina de hoy y de tamaños de texto inconsistentes en algunos botones"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.8",
       "locale": "es",
       "releaseDate": "2026-10-19",

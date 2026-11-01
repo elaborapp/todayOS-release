@@ -4,6 +4,37 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.9",
+      "locale": "sv",
+      "releaseDate": "2026-11-02",
+      "sections": [
+        {
+          "title": "Nya funktioner",
+          "items": [
+            "Nya himmelsbakgrunder på iPhone, iPad, Apple Watch och i widgetar visar blå dagshimmel och varma solnedgångsfärger",
+            "Med todayOS+ speglar huvudskärmen på iPhone och iPad moln och regn. Regnet varierar med nederbörd och vindhastighet, och Apple Watch speglar också vädrets förändringar i ljusstyrka",
+            "Justera dagens tider för uppvaknande, läggdags och nedvarvning på iPhone och iPad utan att ändra din vanliga dygnsrytm",
+            "Widgetar och menyraden på Mac visar nu pågående nedräkningar för pauser och tupplurar"
+          ]
+        },
+        {
+          "title": "Förbättringar",
+          "items": [
+            "Nya färger för aktiviteter gör det lättare att skilja påminnelser, knappar och framsteg åt",
+            "Att resa sig, vila ögonen och slappna av minns var för sig den senast använda pauslängden. Menyn för vattenmängder på Apple Watch har också förbättrats",
+            "Den första inställningen har omorganiserats med demonstrationer av huvudskärmen och dess kontroller"
+          ]
+        },
+        {
+          "title": "Buggfixar",
+          "items": [
+            "Förbättrade skärmuppdateringar när appen öppnas, samt rättelser av ett kort felmeddelande när dagens dygnsrytm sparas och olika textstorlekar på vissa knappar"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.8",
       "locale": "sv",
       "releaseDate": "2026-10-19",

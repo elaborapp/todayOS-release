@@ -4,6 +4,37 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.9",
+      "locale": "zh-Hant",
+      "releaseDate": "2026-11-02",
+      "sections": [
+        {
+          "title": "新功能",
+          "items": [
+            "iPhone、iPad、Apple Watch與小工具採用全新天色背景，呈現白天藍天與日落暖霞",
+            "todayOS+的iPhone與iPad主畫面會依天氣呈現陰雲與雨景，雨勢隨降雨量與風速變化；Apple Watch也會呈現天氣的明暗變化",
+            "在iPhone與iPad調整今天的起床、睡覺與睡前準備時間，不改動平常作息",
+            "小工具與Mac選單列會顯示進行中的休息與小睡倒數"
+          ]
+        },
+        {
+          "title": "改善",
+          "items": [
+            "更新行動代表顏色，讓提醒、按鈕與進度更容易辨識",
+            "起身走動、放鬆眼睛與放鬆一下會分別記住上次使用的休息時間，並改善Apple Watch喝水容量選單",
+            "重新整理初次設定流程，加入主畫面與操作示範"
+          ]
+        },
+        {
+          "title": "修正",
+          "items": [
+            "改善開啟App時的畫面更新，修正儲存當日作息時短暫出現錯誤訊息，以及部分按鈕文字大小不一致的問題"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.8",
       "locale": "zh-Hant",
       "releaseDate": "2026-10-19",

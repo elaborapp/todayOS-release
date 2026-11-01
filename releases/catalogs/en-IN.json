@@ -4,6 +4,37 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.9",
+      "locale": "en-IN",
+      "releaseDate": "2026-11-02",
+      "sections": [
+        {
+          "title": "New features",
+          "items": [
+            "Redesigned sky backgrounds on iPhone, iPad, Apple Watch, and widgets bring blue daytime skies and warm sunset colors",
+            "With todayOS+, the main screen on iPhone and iPad reflects cloudy and rainy weather, with rain responding to precipitation and wind speed. Apple Watch also reflects changes in weather brightness",
+            "Adjust today’s wake-up time, bedtime, and wind-down time on iPhone and iPad without changing your usual routine",
+            "Widgets and the Mac menu bar now show active break and nap countdowns"
+          ]
+        },
+        {
+          "title": "Improvements",
+          "items": [
+            "Updated action colors make reminders, buttons, and progress easier to distinguish",
+            "Standing, eye rest, and relaxation each remember their last break duration, with an improved water amount menu on Apple Watch",
+            "Reorganized initial setup with demonstrations of the main screen and its controls"
+          ]
+        },
+        {
+          "title": "Bug fixes",
+          "items": [
+            "Improved screen updates when opening the app, fixed a brief error message when saving today’s routine, and corrected inconsistent text sizes on some buttons"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.8",
       "locale": "en-IN",
       "releaseDate": "2026-10-19",

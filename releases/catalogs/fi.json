@@ -4,6 +4,37 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.9",
+      "locale": "fi",
+      "releaseDate": "2026-11-02",
+      "sections": [
+        {
+          "title": "Uudet ominaisuudet",
+          "items": [
+            "Uudistetut taivastaustat iPhonessa, iPadissa, Apple Watchissa ja widgeteissä näyttävät päivän sinisen taivaan ja auringonlaskun lämpimät värit",
+            "todayOS+:ssa iPhonen ja iPadin päänäkymä heijastaa pilvistä ja sateista säätä. Sade muuttuu sademäärän ja tuulen nopeuden mukaan, ja myös Apple Watch näyttää sään aiheuttamat valoisuuden muutokset",
+            "Muuta tämän päivän heräämis-, nukkumaanmeno- ja rauhoittumisaikoja iPhonessa ja iPadissa muuttamatta tavallista päivärytmiäsi",
+            "Widgetit ja Macin valikkorivi näyttävät nyt käynnissä olevien taukojen ja päiväunien jäljellä olevan ajan"
+          ]
+        },
+        {
+          "title": "Parannukset",
+          "items": [
+            "Uudet toimintojen värit helpottavat muistutusten, painikkeiden ja edistymisen erottamista",
+            "Ylös nouseminen, silmien lepo ja rentoutuminen muistavat kukin viimeksi käytetyn tauon keston. Myös Apple Watchin vesimäärävalikkoa on parannettu",
+            "Ensiasennus on järjestetty uudelleen, ja siihen on lisätty päänäkymän ja sen toimintojen esittelyt"
+          ]
+        },
+        {
+          "title": "Korjaukset",
+          "items": [
+            "Parannettu näkymän päivittymistä sovellusta avattaessa sekä korjattu lyhyt virheilmoitus tämän päivän rytmiä tallennettaessa ja joidenkin painikkeiden epäyhtenäiset tekstikoot"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.8",
       "locale": "fi",
       "releaseDate": "2026-10-19",

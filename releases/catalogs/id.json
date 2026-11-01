@@ -4,6 +4,37 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.9",
+      "locale": "id",
+      "releaseDate": "2026-11-02",
+      "sections": [
+        {
+          "title": "Fitur baru",
+          "items": [
+            "Latar langit baru di iPhone, iPad, Apple Watch, dan widget menampilkan langit biru pada siang hari serta warna hangat saat matahari terbenam",
+            "Dengan todayOS+, layar utama iPhone dan iPad mencerminkan cuaca berawan dan hujan. Hujan berubah sesuai curah hujan dan kecepatan angin, dan Apple Watch juga mencerminkan perubahan kecerahan cuaca",
+            "Sesuaikan waktu bangun, tidur, dan persiapan tidur hari ini di iPhone dan iPad tanpa mengubah rutinitas biasa",
+            "Widget dan bar menu Mac kini menampilkan hitung mundur istirahat dan tidur singkat yang sedang berlangsung"
+          ]
+        },
+        {
+          "title": "Peningkatan",
+          "items": [
+            "Warna tindakan yang diperbarui memudahkan pembedaan pengingat, tombol, dan kemajuan",
+            "Berdiri, mengistirahatkan mata, dan relaksasi masing-masing mengingat durasi istirahat terakhir. Menu jumlah air di Apple Watch juga ditingkatkan",
+            "Pengaturan awal ditata ulang dengan demonstrasi layar utama dan kontrolnya"
+          ]
+        },
+        {
+          "title": "Perbaikan",
+          "items": [
+            "Pembaruan layar saat membuka app ditingkatkan, serta pesan kesalahan singkat saat menyimpan rutinitas hari ini dan ukuran teks yang tidak seragam pada beberapa tombol diperbaiki"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.8",
       "locale": "id",
       "releaseDate": "2026-10-19",
