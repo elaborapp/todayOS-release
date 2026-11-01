@@ -4,6 +4,37 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.9",
+      "locale": "pl",
+      "releaseDate": "2026-11-02",
+      "sections": [
+        {
+          "title": "Nowości",
+          "items": [
+            "Odświeżone tła nieba na iPhonie, iPadzie, Apple Watch i w widżetach pokazują błękitne niebo w dzień i ciepłe barwy zachodu słońca",
+            "Z todayOS+ ekran główny na iPhonie i iPadzie odzwierciedla zachmurzenie i deszcz. Deszcz zmienia się zależnie od opadów i prędkości wiatru, a Apple Watch pokazuje też zmiany jasności związane z pogodą",
+            "Zmieniaj dzisiejsze godziny pobudki, snu i przygotowania do snu na iPhonie i iPadzie bez zmiany zwykłego rytmu dnia",
+            "Widżety i pasek menu Maca pokazują teraz odliczanie trwających przerw i drzemek"
+          ]
+        },
+        {
+          "title": "Ulepszenia",
+          "items": [
+            "Nowe kolory działań ułatwiają odróżnianie przypomnień, przycisków i postępów",
+            "Wstawanie, odpoczynek dla oczu i relaks zapamiętują osobno ostatni czas przerwy. Ulepszono też menu ilości wody na Apple Watch",
+            "Uporządkowano konfigurację początkową i dodano prezentacje ekranu głównego oraz jego obsługi"
+          ]
+        },
+        {
+          "title": "Poprawki",
+          "items": [
+            "Ulepszono odświeżanie ekranu przy otwieraniu aplikacji oraz poprawiono krótki komunikat błędu podczas zapisywania dzisiejszego rytmu dnia i niespójne rozmiary tekstu na niektórych przyciskach"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.8",
       "locale": "pl",
       "releaseDate": "2026-10-19",

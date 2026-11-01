@@ -4,6 +4,37 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.9",
+      "locale": "nl",
+      "releaseDate": "2026-11-02",
+      "sections": [
+        {
+          "title": "Nieuwe functies",
+          "items": [
+            "Vernieuwde luchten op iPhone, iPad, Apple Watch en in widgets tonen een blauwe hemel overdag en warme kleuren bij zonsondergang",
+            "Met todayOS+ weerspiegelt het hoofdscherm op iPhone en iPad bewolking en regen. De regen verandert met de neerslag en windsnelheid, en ook Apple Watch toont de helderheidsveranderingen van het weer",
+            "Pas op iPhone en iPad de wek-, slaap- en afbouwtijd van vandaag aan zonder je vaste dagritme te wijzigen",
+            "Widgets en de Mac-menubalk tonen nu lopende aftellingen voor pauzes en dutjes"
+          ]
+        },
+        {
+          "title": "Verbeteringen",
+          "items": [
+            "Nieuwe actiekleuren maken herinneringen, knoppen en voortgang beter van elkaar te onderscheiden",
+            "Opstaan, ogen rust geven en ontspannen onthouden elk de laatst gebruikte pauzeduur. Ook het menu voor waterhoeveelheden op Apple Watch is verbeterd",
+            "De eerste configuratie is opnieuw ingedeeld, met demonstraties van het hoofdscherm en de bediening"
+          ]
+        },
+        {
+          "title": "Opgeloste problemen",
+          "items": [
+            "De schermupdates bij het openen van de app zijn verbeterd. Een korte foutmelding bij het opslaan van het dagritme van vandaag en afwijkende tekstgroottes op sommige knoppen zijn verholpen"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.8",
       "locale": "nl",
       "releaseDate": "2026-10-19",

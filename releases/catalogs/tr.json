@@ -4,6 +4,37 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.9",
+      "locale": "tr",
+      "releaseDate": "2026-11-02",
+      "sections": [
+        {
+          "title": "Yeni özellikler",
+          "items": [
+            "iPhone, iPad, Apple Watch ve araç takımlarında yenilenen gökyüzü arka planları, gündüzün mavi gökyüzünü ve gün batımının sıcak renklerini yansıtır",
+            "todayOS+ ile iPhone ve iPad ana ekranı bulutlu ve yağmurlu havayı yansıtır. Yağmur, yağış miktarına ve rüzgâr hızına göre değişir; Apple Watch da havaya bağlı parlaklık değişimlerini gösterir",
+            "iPhone ve iPad’de normal rutininizi değiştirmeden bugünün uyanma, yatma ve uykuya hazırlanma saatlerini ayarlayın",
+            "Araç takımları ve Mac menü çubuğu artık devam eden mola ve şekerlemelerin geri sayımını gösterir"
+          ]
+        },
+        {
+          "title": "İyileştirmeler",
+          "items": [
+            "Yenilenen eylem renkleri, anımsatıcıları, düğmeleri ve ilerlemeyi ayırt etmeyi kolaylaştırır",
+            "Ayağa kalkma, gözleri dinlendirme ve rahatlama eylemleri son kullanılan mola süresini ayrı ayrı hatırlar. Apple Watch’taki su miktarı menüsü de iyileştirildi",
+            "İlk kurulum yeniden düzenlendi; ana ekran ve kontrolleri için tanıtımlar eklendi"
+          ]
+        },
+        {
+          "title": "Hata düzeltmeleri",
+          "items": [
+            "Uygulama açılırken ekran güncellemeleri iyileştirildi; bugünün rutini kaydedilirken kısa süre görünen hata mesajı ve bazı düğmelerdeki tutarsız metin boyutları düzeltildi"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.8",
       "locale": "tr",
       "releaseDate": "2026-10-19",
