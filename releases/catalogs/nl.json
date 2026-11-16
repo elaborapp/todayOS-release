@@ -4,6 +4,51 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.10",
+      "locale": "nl",
+      "releaseDate": "2026-11-16",
+      "sections": [
+        {
+          "title": "Nieuwe functies",
+          "items": [
+            "Widgets en rechthoekige widgets op het toegangsscherm van iPhone en op Apple Watch zijn vernieuwd met voortgangsbalken en statusinformatie. Kleine widgets bieden ook beschikbare acties en het uitstellen van herinneringen",
+            "Widgets werken tijden voor wakker zijn, voorbereiding op slapen, slaap en rust dynamisch bij zonder de app te openen",
+            "De pauzemodus is nu zichtbaar op al je apparaten: zie een lopende pauze ook op je andere iPhone of iPad en beëindig deze vroegtijdig in de app of met een iPhone-widget. Vereist todayOS+"
+          ]
+        },
+        {
+          "title": "Verbeteringen",
+          "items": [
+            "Actiekaarten op het hoofdscherm tonen de huidige status en het uitstellen van herinneringen is eenvoudiger",
+            "De status voor zitten en computergebruik toont de opgebouwde tijd",
+            "Vraag in Opdrachten numerieke doelen, voltooiingsstatus of tijdsvoortgang van ondersteunde onderdelen op; koffie is toegevoegd aan actieherinneringen. Sommige onderdelen vereisen todayOS+",
+            "Open de systeeminstellingen voor todayOS vanuit Instellingen",
+            "De weerachtergrond op het hoofdscherm verandert met de wind en het tijdstip",
+            "Indeling bij grote tekst en VoiceOver verbeterd",
+            "Tijdens een pauze toont het actiegedeelte de pauze en blijft de voortgang zichtbaar",
+            "Uniforme termen in de hele app, zoals Bedtijd, Avondrust en Actieve energie, en bijgewerkte namen en beschrijvingen in Opdrachten",
+            "Vertalingen in 19 talen bijgewerkt"
+          ]
+        },
+        {
+          "title": "Opgeloste problemen",
+          "items": [
+            "Een vertraagde vraag om locatietoegang op de achtergrond bij het instellen van uitgebreide bewegingsdetectie is opgelost",
+            "Een probleem waardoor meldingen voor actieherinneringen soms niet werden ingepland is opgelost",
+            "Onjuiste poetsstatussen voor ochtend en avond en een voltooide status bij een nieuwe ontspanningsherinnering zijn opgelost",
+            "De berekening van oogrust na inactiviteit van de Mac en na een rustpauze is verbeterd",
+            "Opgelost dat aftellingen verdwenen op het gedimde always-on toegangsscherm",
+            "Terugkeren naar instellingen na een upgrade naar todayOS+ opgelost",
+            "Opgelost dat actiekaarten bij terugkeer naar de app kort werden vervangen door onvolledige gegevens",
+            "Opgelost dat aftellingen in rechthoekige widgets onvolledig werden weergegeven wanneer de Apple Watch-wijzerplaat dimt",
+            "Opgelost dat de weeranimatie op het hoofdscherm verdween bij het verlaten van de app",
+            "Opgelost dat andere apparaten met hetzelfde iCloud-account de todayOS+-status op deze iPhone konden wijzigen"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.9",
       "locale": "nl",
       "releaseDate": "2026-11-02",

@@ -4,6 +4,51 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.10",
+      "locale": "en",
+      "releaseDate": "2026-11-16",
+      "sections": [
+        {
+          "title": "New features",
+          "items": [
+            "Redesigned widgets and rectangular widgets on the iPhone Lock Screen and Apple Watch show progress bars and status information. Small widgets also offer available actions and snooze controls",
+            "Widgets update awake, wind-down, sleep and rest times dynamically, so you can see time change without opening the app",
+            "Rest mode now appears across devices: see a rest in progress on your other iPhone or iPad, and end it early from the app or an iPhone widget. Requires todayOS+"
+          ]
+        },
+        {
+          "title": "Improvements",
+          "items": [
+            "Action cards on the main screen show their current status, and snoozing reminders is simpler",
+            "Sitting and computer use statuses show accumulated time",
+            "Query numerical goals, completion status or time progress for supported items in Shortcuts; coffee is now an action reminder option. Some items require todayOS+",
+            "Open the system settings for todayOS from Settings",
+            "The main screen weather background changes with wind and the time of day",
+            "Improved large-text layouts and VoiceOver descriptions",
+            "During a rest, the action area shows the rest while progress remains visible",
+            "Unified wording throughout the app, such as Bedtime, Wind Down and Active Energy, and updated Shortcuts names and descriptions",
+            "Updated translations in 19 languages"
+          ]
+        },
+        {
+          "title": "Bug fixes",
+          "items": [
+            "Fixed a delay in the background location permission prompt when enabling enhanced movement detection during setup",
+            "Fixed an issue that could prevent action reminder notifications from being scheduled",
+            "Fixed incorrect morning and evening toothbrushing statuses and a completed status appearing when a new relaxation reminder is due",
+            "Improved eye-rest calculations after Mac inactivity and after a rest ends",
+            "Fixed countdowns disappearing on the dimmed Always-On Lock Screen",
+            "Fixed returning to Settings after upgrading to todayOS+",
+            "Fixed action cards being briefly replaced by incomplete data when returning to the app",
+            "Fixed incomplete countdowns in rectangular widgets when the Apple Watch face dims",
+            "Fixed the main screen weather animation disappearing when leaving the app",
+            "Fixed other devices on the same iCloud account possibly changing the todayOS+ status on this iPhone"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.9",
       "locale": "en",
       "releaseDate": "2026-11-02",

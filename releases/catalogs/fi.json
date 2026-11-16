@@ -4,6 +4,51 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.10",
+      "locale": "fi",
+      "releaseDate": "2026-11-16",
+      "sections": [
+        {
+          "title": "Uudet ominaisuudet",
+          "items": [
+            "Widgetit sekä iPhonen lukitusnäytön ja Apple Watchin suorakulmaiset widgetit on uudistettu. Ne näyttävät edistymispalkit ja tilatiedot, ja pienissä widgeteissä voi käyttää saatavilla olevia toimintoja ja siirtää muistutuksia",
+            "Widgetit päivittävät hereilläolon, nukkumaan valmistautumisen, unen ja levon ajan dynaamisesti ilman apin avaamista",
+            "Taukotila näkyy nyt eri laitteissa: näet käynnissä olevan tauon muilla iPhoneillasi ja iPadeillasi ja voit lopettaa sen etuajassa apista tai iPhonen widgetistä. Vaatii todayOS+:n"
+          ]
+        },
+        {
+          "title": "Parannukset",
+          "items": [
+            "Päänäkymän toimintakortit näyttävät nykyisen tilan, ja muistutusten siirtäminen on helpompaa",
+            "Istumisen ja tietokoneen käytön tila näyttää kertyneen ajan",
+            "Pikakomennoissa voi kysyä tuettujen kohteiden numeerisen tavoitteen, valmistumistilan tai ajan etenemisen; kahvi on lisätty toimintamuistutuksiin. Osa kohteista vaatii todayOS+:n",
+            "Avaa todayOS:n järjestelmäasetukset asetuksista",
+            "Päänäkymän säätausta muuttuu tuulen ja vuorokaudenajan mukaan",
+            "Suuren tekstin asettelua ja VoiceOver-lukua parannettu",
+            "Tauon aikana toimintoalue näyttää tauon ja edistyminen pysyy näkyvissä",
+            "Yhtenäistetty apin sanastoa, esimerkiksi Nukkumaanmenoaika, Rauhoittuminen ja Aktiivinen energia, ja päivitetty Pikakomentojen nimet ja kuvaukset",
+            "Päivitetty 19 kielen käännökset"
+          ]
+        },
+        {
+          "title": "Korjaukset",
+          "items": [
+            "Korjattu taustasijainnin lupapyynnön mahdollinen viivästyminen tehostetun liikkeentunnistuksen käyttöönotossa",
+            "Korjattu ongelma, joka saattoi estää toimintamuistutusten ilmoitusten ajoittamisen",
+            "Korjattu aamu- ja iltahampaidenpesun virheellinen tila sekä valmiin tilan näkyminen uuden rentoutumismuistutuksen yhteydessä",
+            "Parannettu silmien levon laskentaa Macin käyttämättömyyden ja tauon päättymisen jälkeen",
+            "Korjattu ajastimien katoaminen himmennetyltä aina päällä olevalta lukitusnäytöltä",
+            "Korjattu paluu asetuksiin todayOS+-päivityksen jälkeen",
+            "Korjattu toimintakorttien hetkellinen korvautuminen puutteellisilla tiedoilla appiin palattaessa",
+            "Korjattu suorakulmaisten widgetien ajastimien puutteellinen näkyminen Apple Watchin kellotaulun himmentyessä",
+            "Korjattu päänäkymän sääanimaation katoaminen apista poistuttaessa",
+            "Korjattu ongelma, jossa saman iCloud-tilin muut laitteet saattoivat muuttaa tämän iPhonen todayOS+-tilaa"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.9",
       "locale": "fi",
       "releaseDate": "2026-11-02",

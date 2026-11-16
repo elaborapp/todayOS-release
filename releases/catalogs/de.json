@@ -4,6 +4,51 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.10",
+      "locale": "de",
+      "releaseDate": "2026-11-16",
+      "sections": [
+        {
+          "title": "Neue Funktionen",
+          "items": [
+            "Widgets sowie rechteckige Widgets auf dem iPhone-Sperrbildschirm und der Apple Watch wurden neu gestaltet und zeigen Fortschrittsbalken und Statusinformationen. Kleine Widgets bieten verfügbare Aktionen und das Verschieben von Erinnerungen",
+            "Widgets aktualisieren Wach-, Vorbereitungs-, Schlaf- und Ruhezeiten dynamisch, sodass du Zeitänderungen ohne Öffnen der App siehst",
+            "Der Pausenmodus wird jetzt geräteübergreifend angezeigt: Eine laufende Pause ist auch auf deinem anderen iPhone oder iPad sichtbar und lässt sich in der App oder über ein iPhone-Widget vorzeitig beenden. Benötigt todayOS+"
+          ]
+        },
+        {
+          "title": "Verbesserungen",
+          "items": [
+            "Aktionskarten auf dem Hauptbildschirm zeigen den aktuellen Status; das Verschieben von Erinnerungen ist einfacher",
+            "Der Status für Sitzen und Computernutzung zeigt die angesammelte Zeit",
+            "In der App „Kurzbefehle“ lassen sich Zahlenziele, Abschlussstatus und Zeitfortschritte unterstützter Einträge abfragen; Kaffee ist als Aktionserinnerung verfügbar. Einige Einträge benötigen todayOS+",
+            "Die Systemeinstellungen für todayOS lassen sich aus den Einstellungen öffnen",
+            "Der Wetterhintergrund des Hauptbildschirms verändert sich mit Wind und Tageszeit",
+            "Layout bei großer Schrift und VoiceOver-Ausgabe verbessert",
+            "Während einer Pause zeigt der Aktionsbereich die Pause an; Fortschritte bleiben sichtbar",
+            "Begriffe in der gesamten App wurden vereinheitlicht, etwa Schlafenszeit, Schlafvorbereitung und Aktivitätsenergie; außerdem wurden Namen und Beschreibungen für Kurzbefehle aktualisiert",
+            "Übersetzungen in 19 Sprachen wurden aktualisiert"
+          ]
+        },
+        {
+          "title": "Fehlerbehebungen",
+          "items": [
+            "Ein verzögerter Hinweis zur Standortfreigabe im Hintergrund beim Einrichten der erweiterten Bewegungserkennung wurde behoben",
+            "Ein Fehler wurde behoben, durch den Benachrichtigungen für Aktionserinnerungen unter Umständen nicht geplant wurden",
+            "Fehler bei der Anzeige des morgendlichen und abendlichen Zähneputzens sowie beim Abschlussstatus erneuter Entspannungserinnerungen wurden behoben",
+            "Die Berechnung der Augenruhe nach Inaktivität am Mac und nach einer Pause wurde verbessert",
+            "Countdowns auf dem abgedunkelten Always-On-Sperrbildschirm verschwinden nicht mehr",
+            "Rückkehr zu den Einstellungen nach dem Upgrade auf todayOS+ korrigiert",
+            "Ein Fehler wurde behoben, durch den Aktionskarten bei der Rückkehr zur App kurzzeitig durch unvollständige Daten ersetzt wurden",
+            "Countdowns in rechteckigen Widgets werden bei abgedunkeltem Apple Watch-Zifferblatt wieder vollständig angezeigt",
+            "Die Wetteranimation auf dem Hauptbildschirm verschwindet beim Verlassen der App nicht mehr",
+            "Ein Fehler wurde behoben, durch den andere Geräte mit demselben iCloud-Account den todayOS+-Status auf diesem iPhone ändern konnten"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.9",
       "locale": "de",
       "releaseDate": "2026-11-02",

@@ -4,6 +4,51 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.10",
+      "locale": "fr",
+      "releaseDate": "2026-11-16",
+      "sections": [
+        {
+          "title": "Nouveautés",
+          "items": [
+            "Les widgets et les widgets rectangulaires de l’écran verrouillé de l’iPhone et de l’Apple Watch ont été repensés avec des barres de progression et des informations d’état. Les petits widgets proposent aussi les actions et le report des rappels lorsqu’ils sont disponibles",
+            "Les widgets actualisent dynamiquement les durées d’éveil, de préparation au coucher, de sommeil et de repos, sans ouvrir l’app",
+            "Le mode pause s’affiche désormais sur tous vos appareils : voyez une pause en cours sur votre autre iPhone ou iPad, et terminez-la plus tôt depuis l’app ou un widget de l’iPhone. Nécessite todayOS+"
+          ]
+        },
+        {
+          "title": "Améliorations",
+          "items": [
+            "Les cartes d’action de l’écran principal affichent leur état actuel et le report des rappels est simplifié",
+            "L’état de la position assise et de l’utilisation de l’ordinateur affiche le temps cumulé",
+            "Dans Raccourcis, consultez l’objectif numérique, l’état d’achèvement ou la progression temporelle des éléments pris en charge ; le café est ajouté aux rappels d’action. Certains éléments nécessitent todayOS+",
+            "Ouvrez les réglages système de todayOS depuis les réglages",
+            "Le fond météo de l’écran principal évolue selon le vent et le moment de la journée",
+            "Amélioration de la disposition en grands caractères et de la lecture VoiceOver",
+            "Pendant une pause, la zone d’action affiche la pause tout en conservant la progression visible",
+            "Harmonisation des termes dans toute l’app, comme Heure du coucher, Préparation au coucher et Énergie en activité, et mise à jour des noms et descriptions des raccourcis",
+            "Mise à jour des traductions dans 19 langues"
+          ]
+        },
+        {
+          "title": "Corrections",
+          "items": [
+            "Correction de l’affichage tardif de la demande d’accès à la position en arrière-plan lors de la configuration de la détection avancée des déplacements",
+            "Correction d’un problème pouvant empêcher la programmation des notifications de rappel d’action",
+            "Correction de l’état du brossage des dents matin et soir et de l’état terminé affiché lors d’un nouveau rappel de relaxation",
+            "Amélioration du calcul du repos des yeux après une période d’inactivité du Mac et après une pause",
+            "Correction des comptes à rebours qui disparaissaient sur l’écran verrouillé toujours activé assombri",
+            "Correction du retour aux réglages après le passage à todayOS+",
+            "Correction des cartes d’action brièvement remplacées par des données incomplètes au retour dans l’app",
+            "Correction des comptes à rebours incomplets dans les widgets rectangulaires lorsque le cadran de l’Apple Watch s’assombrit",
+            "Correction de la disparition de l’animation météo de l’écran principal lorsque vous quittez l’app",
+            "Correction d’un problème par lequel d’autres appareils utilisant le même compte iCloud pouvaient modifier l’état todayOS+ de cet iPhone"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.9",
       "locale": "fr",
       "releaseDate": "2026-11-02",

@@ -4,6 +4,51 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.10",
+      "locale": "pl",
+      "releaseDate": "2026-11-16",
+      "sections": [
+        {
+          "title": "Nowości",
+          "items": [
+            "Przeprojektowano widżety oraz prostokątne widżety na ekranie blokady iPhone’a i Apple Watch, dodając paski postępu i informacje o stanie. Małe widżety umożliwiają też dostępne działania i odkładanie przypomnień",
+            "Widżety dynamicznie aktualizują czas czuwania, przygotowania do snu, snu i odpoczynku bez otwierania aplikacji",
+            "Tryb przerwy działa teraz na wielu urządzeniach: trwającą przerwę zobaczysz na innym iPhonie lub iPadzie i możesz ją wcześniej zakończyć w aplikacji lub w widżecie na iPhonie. Wymaga todayOS+"
+          ]
+        },
+        {
+          "title": "Ulepszenia",
+          "items": [
+            "Karty działań na ekranie głównym pokazują bieżący stan, a odkładanie przypomnień jest prostsze",
+            "Stan siedzenia i korzystania z komputera pokazuje łączny czas",
+            "W Skrótach można sprawdzić cel liczbowy, stan ukończenia lub postęp czasowy obsługiwanych pozycji; dodano kawę do przypomnień o działaniach. Niektóre pozycje wymagają todayOS+",
+            "Otwórz ustawienia systemowe todayOS z poziomu ustawień",
+            "Tło pogodowe ekranu głównego zmienia się wraz z wiatrem i porą dnia",
+            "Ulepszono układ przy dużym tekście i odczytywanie przez VoiceOver",
+            "Podczas odpoczynku obszar działań pokazuje odpoczynek, a postępy pozostają widoczne",
+            "Ujednolicono nazewnictwo w całej aplikacji, np. Pora snu, Wyciszanie i Energia (aktywność), oraz zaktualizowano nazwy i opisy skrótów",
+            "Zaktualizowano tłumaczenia na 19 języków"
+          ]
+        },
+        {
+          "title": "Poprawki",
+          "items": [
+            "Naprawiono opóźnione wyświetlanie prośby o dostęp do lokalizacji w tle podczas konfiguracji rozszerzonego wykrywania ruchu",
+            "Naprawiono problem, który mógł uniemożliwiać planowanie powiadomień przypomnień o działaniach",
+            "Naprawiono błędny stan porannego i wieczornego mycia zębów oraz stan ukończenia przy nowym przypomnieniu o relaksie",
+            "Ulepszono obliczanie odpoczynku oczu po bezczynności Maca i po zakończeniu odpoczynku",
+            "Naprawiono znikanie odliczania na przyciemnionym, zawsze włączonym ekranie blokady",
+            "Naprawiono powrót do ustawień po przejściu na todayOS+",
+            "Naprawiono chwilowe zastępowanie kart działań niepełnymi danymi po powrocie do aplikacji",
+            "Naprawiono niepełne wyświetlanie odliczania w prostokątnych widżetach po przyciemnieniu tarczy Apple Watch",
+            "Naprawiono znikanie animacji pogody na ekranie głównym przy opuszczaniu aplikacji",
+            "Naprawiono problem, przez który inne urządzenia korzystające z tego samego konta iCloud mogły zmieniać stan todayOS+ na tym iPhonie"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.9",
       "locale": "pl",
       "releaseDate": "2026-11-02",
