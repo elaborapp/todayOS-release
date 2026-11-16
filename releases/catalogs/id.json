@@ -4,6 +4,51 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.10",
+      "locale": "id",
+      "releaseDate": "2026-11-16",
+      "sections": [
+        {
+          "title": "Fitur baru",
+          "items": [
+            "Widget serta widget persegi panjang di Layar Terkunci iPhone dan Apple Watch didesain ulang dengan bar kemajuan dan informasi status. Widget kecil juga menyediakan tindakan dan penundaan pengingat saat tersedia",
+            "Widget memperbarui waktu terjaga, persiapan tidur, tidur, dan istirahat secara dinamis tanpa membuka app",
+            "Mode istirahat kini tampil di berbagai perangkat: lihat istirahat yang sedang berlangsung di iPhone atau iPad lain, dan akhiri lebih awal dari app atau widget iPhone. Memerlukan todayOS+"
+          ]
+        },
+        {
+          "title": "Peningkatan",
+          "items": [
+            "Kartu tindakan di layar utama menampilkan status saat ini dan mempermudah penundaan pengingat",
+            "Status duduk dan penggunaan komputer menampilkan waktu yang terkumpul",
+            "Di Pintasan, lihat target angka, status penyelesaian, atau kemajuan waktu untuk item yang didukung; kopi ditambahkan ke pengingat tindakan. Beberapa item memerlukan todayOS+",
+            "Buka pengaturan sistem todayOS dari pengaturan",
+            "Latar cuaca di layar utama berubah mengikuti angin dan waktu",
+            "Tata letak teks besar dan pembacaan VoiceOver ditingkatkan",
+            "Saat istirahat, area tindakan menampilkan istirahat dan progres tetap terlihat",
+            "Istilah di seluruh app diseragamkan, seperti Waktu tidur, Persiapan Tidur, dan Energi Aktif; nama dan deskripsi Pintasan juga diperbarui",
+            "Terjemahan dalam 19 bahasa diperbarui secara menyeluruh"
+          ]
+        },
+        {
+          "title": "Perbaikan",
+          "items": [
+            "Memperbaiki permintaan izin lokasi latar belakang yang dapat terlambat muncul saat menyiapkan deteksi pergerakan yang ditingkatkan",
+            "Memperbaiki masalah yang dapat mencegah penjadwalan pemberitahuan pengingat tindakan",
+            "Memperbaiki status sikat gigi pagi dan malam yang salah serta status selesai pada pengingat relaksasi yang baru",
+            "Meningkatkan perhitungan istirahat mata setelah Mac tidak aktif dan setelah istirahat berakhir",
+            "Memperbaiki hitung mundur yang hilang di Layar Terkunci saat Layar Selalu Nyala meredup",
+            "Memperbaiki kembali ke Pengaturan setelah meningkatkan ke todayOS+",
+            "Memperbaiki kartu tindakan yang dapat sesaat tergantikan oleh data yang tidak lengkap saat kembali ke app",
+            "Memperbaiki hitung mundur yang tidak lengkap di widget persegi panjang saat wajah jam Apple Watch meredup",
+            "Memperbaiki animasi cuaca di layar utama yang hilang saat meninggalkan app",
+            "Memperbaiki perangkat lain dengan akun iCloud yang sama yang dapat mengubah status todayOS+ di iPhone ini"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.9",
       "locale": "id",
       "releaseDate": "2026-11-02",

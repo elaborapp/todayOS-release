@@ -4,6 +4,51 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.10",
+      "locale": "es",
+      "releaseDate": "2026-11-16",
+      "sections": [
+        {
+          "title": "Novedades",
+          "items": [
+            "Rediseño de los widgets y de los widgets rectangulares de la pantalla bloqueada del iPhone y el Apple Watch, con barras de progreso e información de estado. Los widgets pequeños también ofrecen las acciones y la opción de posponer recordatorios cuando están disponibles",
+            "Los widgets actualizan dinámicamente los tiempos de vigilia, preparación para dormir, sueño y descanso, sin tener que abrir la app",
+            "El modo de descanso ahora aparece en todos tus dispositivos: consulta un descanso en curso en tu otro iPhone o iPad y finalízalo antes de tiempo desde la app o un widget del iPhone. Requiere todayOS+"
+          ]
+        },
+        {
+          "title": "Mejoras",
+          "items": [
+            "Las tarjetas de acción de la pantalla principal muestran el estado actual y simplifican la opción de posponer recordatorios",
+            "El estado del tiempo sentado y de uso del ordenador muestra el tiempo acumulado",
+            "Consulta en Atajos los objetivos numéricos, el estado de finalización o el progreso temporal de los elementos compatibles; se añade café a los recordatorios de acción. Algunos elementos requieren todayOS+",
+            "Abre los ajustes del sistema de todayOS desde los ajustes",
+            "El fondo meteorológico de la pantalla principal cambia con el viento y la hora del día",
+            "Mejoras en el diseño con texto grande y la lectura con VoiceOver",
+            "Durante un descanso, el área de acciones muestra el descanso y conserva el progreso visible",
+            "Terminología unificada en toda la app, como Hora de dormir, Preparación para dormir y Energía en actividad, y actualización de los nombres y descripciones de Atajos",
+            "Traducciones actualizadas en 19 idiomas"
+          ]
+        },
+        {
+          "title": "Correcciones",
+          "items": [
+            "Corregida la aparición tardía del permiso de ubicación en segundo plano al configurar la detección avanzada de movimiento",
+            "Corregido un problema que podía impedir la programación de notificaciones de recordatorios de acción",
+            "Corregidos el estado del cepillado de dientes de mañana y noche y el estado completado al recibir un nuevo recordatorio de relajación",
+            "Mejorado el cálculo del descanso ocular tras la inactividad del Mac y al terminar un descanso",
+            "Corregida la desaparición de cuentas atrás al atenuarse la pantalla bloqueada siempre activa",
+            "Corregido el regreso a Ajustes tras actualizar a todayOS+",
+            "Corregida la sustitución momentánea de las tarjetas de acción por datos incompletos al volver a la app",
+            "Corregidas las cuentas atrás incompletas en los widgets rectangulares al atenuarse la esfera del Apple Watch",
+            "Corregida la desaparición de la animación meteorológica de la pantalla principal al salir de la app",
+            "Corregido un problema por el que otros dispositivos con la misma cuenta de iCloud podían cambiar el estado de todayOS+ de este iPhone"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.9",
       "locale": "es",
       "releaseDate": "2026-11-02",

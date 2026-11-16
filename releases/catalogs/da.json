@@ -4,6 +4,51 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.10",
+      "locale": "da",
+      "releaseDate": "2026-11-16",
+      "sections": [
+        {
+          "title": "Nye funktioner",
+          "items": [
+            "Widgets og rektangulære widgets på iPhones låseskærm og Apple Watch er redesignet med statusoplysninger og statuslinjer. Små widgets giver også adgang til tilgængelige handlinger og udsættelse af påmindelser",
+            "Widgets opdaterer tiden for vågenhed, forberedelse til sengetid, søvn og hvile dynamisk, uden at du skal åbne appen",
+            "Pausetilstanden vises nu på tværs af enheder: Se en igangværende pause på dine andre iPhone- og iPad-enheder, og afslut den før tid fra appen eller en iPhone-widget. Kræver todayOS+"
+          ]
+        },
+        {
+          "title": "Forbedringer",
+          "items": [
+            "Handlingskort på hovedskærmen viser aktuel status, og det er lettere at udsætte påmindelser",
+            "Status for stillesiddende tid og computerbrug viser den samlede tid",
+            "I Genveje kan du hente numeriske mål, gennemførelsesstatus eller tidsforløb for understøttede punkter; kaffe er tilføjet til handlingspåmindelser. Nogle punkter kræver todayOS+",
+            "Åbn systemindstillingerne for todayOS fra indstillingerne",
+            "Vejrbaggrunden på hovedskærmen ændrer sig med vinden og tidspunktet på dagen",
+            "Forbedret layout ved stor tekst og oplæsning med VoiceOver",
+            "Under en pause viser handlingsområdet pausen, mens fremskridt stadig er synlige",
+            "Ensartede betegnelser i hele appen, f.eks. Sengetid, Nedtrapning og Energi ved aktivitet, samt opdaterede navne og beskrivelser i Genveje",
+            "Opdaterede oversættelser på 19 sprog"
+          ]
+        },
+        {
+          "title": "Fejlrettelser",
+          "items": [
+            "Rettet forsinket visning af tilladelse til lokalitet i baggrunden under opsætning af udvidet bevægelsesregistrering",
+            "Rettet et problem, der kunne forhindre planlægning af notifikationer for handlingspåmindelser",
+            "Rettet forkert status for tandbørstning morgen og aften samt fuldført status ved en ny afslapningspåmindelse",
+            "Forbedret beregning af øjenhvile efter inaktivitet på Mac og efter en pause",
+            "Rettet nedtællinger, der forsvandt på den nedtonede låseskærm med Altid til",
+            "Rettet tilbagevenden til indstillinger efter opgradering til todayOS+",
+            "Rettet et problem, hvor handlingskort kortvarigt kunne blive erstattet af ufuldstændige data, når du vendte tilbage til appen",
+            "Rettet ufuldstændige nedtællinger i rektangulære widgets, når Apple Watch-urskiven nedtones",
+            "Rettet et problem, hvor vejranimationen på hovedskærmen forsvandt, når du forlod appen",
+            "Rettet et problem, hvor andre enheder på den samme iCloud-konto kunne ændre todayOS+-status på denne iPhone"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.9",
       "locale": "da",
       "releaseDate": "2026-11-02",

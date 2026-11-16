@@ -4,6 +4,51 @@
   "releases": [
     {
       "schemaVersion": 1,
+      "version": "2026.10",
+      "locale": "tr",
+      "releaseDate": "2026-11-16",
+      "sections": [
+        {
+          "title": "Yeni özellikler",
+          "items": [
+            "Araç takımları ile iPhone Kilitli Ekranı ve Apple Watch’taki dikdörtgen araç takımları ilerleme çubukları ve durum bilgileriyle yeniden tasarlandı. Küçük araç takımlarında kullanılabilir eylemler ve hatırlatmaları erteleme de sunulur",
+            "Araç takımları uyanıklık, uyku öncesi hazırlık, uyku ve dinlenme sürelerini uygulamayı açmadan dinamik olarak günceller",
+            "Mola modu artık aygıtlar arasında görünür: Devam eden molayı diğer iPhone veya iPad’inizde görün ve uygulamadan ya da bir iPhone araç takımından erkenden bitirin. todayOS+ gerektirir"
+          ]
+        },
+        {
+          "title": "İyileştirmeler",
+          "items": [
+            "Ana ekrandaki eylem kartları güncel durumu gösterir ve hatırlatmaları ertelemek kolaylaşır",
+            "Oturma ve bilgisayar kullanımı durumu biriken süreyi gösterir",
+            "Kestirmeler’de desteklenen öğelerin sayısal hedefini, tamamlanma durumunu veya süre ilerlemesini sorgulayın; eylem hatırlatmalarına kahve eklendi. Bazı öğeler todayOS+ gerektirir",
+            "Ayarlar’dan todayOS için sistem ayarlarını açın",
+            "Ana ekranın hava durumu arka planı rüzgâra ve günün saatine göre değişir",
+            "Büyük metin düzeni ve VoiceOver okuması iyileştirildi",
+            "Dinlenme sırasında eylem alanında dinlenme gösterilir ve ilerleme görünür kalır",
+            "Yatma Saati, Uyku öncesi hazırlık ve Aktif Enerji gibi uygulama genelindeki ifadeler tutarlı hâle getirildi; Kestirmeler adları ve açıklamaları güncellendi",
+            "19 dildeki çeviriler baştan sona güncellendi"
+          ]
+        },
+        {
+          "title": "Hata düzeltmeleri",
+          "items": [
+            "Gelişmiş hareket algılama kurulurken arka planda konum izni isteminin gecikmeli görünmesi düzeltildi",
+            "Eylem hatırlatıcısı bildirimlerinin bazı durumlarda zamanlanmaması düzeltildi",
+            "Sabah ve akşam diş fırçalama durumunun yanlış gösterilmesi ve yeni gevşeme hatırlatıcısının tamamlanmış görünmesi düzeltildi",
+            "Mac’in kullanılmadığı dönemlerden ve dinlenme bitiminden sonra göz dinlenmesi hesaplaması iyileştirildi",
+            "Hep Açık Ekran karardığında Kilitli Ekran’daki geri sayımın kaybolması düzeltildi",
+            "todayOS+ yükseltmesinden sonra ayarlara dönme sorunu düzeltildi",
+            "Uygulamaya dönüldüğünde eylem kartlarının kısa süreliğine eksik verilerle değiştirilmesi düzeltildi",
+            "Apple Watch kadranı karardığında dikdörtgen araç takımlarındaki geri sayımın eksik görünmesi düzeltildi",
+            "Uygulamadan çıkıldığında ana ekrandaki hava durumu animasyonunun kaybolması düzeltildi",
+            "Aynı iCloud hesabındaki diğer aygıtların bu iPhone’daki todayOS+ durumunu değiştirebilmesi düzeltildi"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "version": "2026.9",
       "locale": "tr",
       "releaseDate": "2026-11-02",
